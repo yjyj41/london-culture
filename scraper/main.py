@@ -14,13 +14,13 @@ from datetime import datetime, date
 
 sys.path.insert(0, os.path.dirname(__file__))
 
-from sources import ticketmaster, tate, national_gallery, bachtrack, timeout
+from sources import ticketmaster, tate, national_gallery, wigmore, timeout
 
 SOURCES = [
     ('Ticketmaster', ticketmaster.fetch),
     ('Tate', tate.fetch),
     ('National Gallery', national_gallery.fetch),
-    ('Bachtrack', bachtrack.fetch),
+    ('Wigmore Hall', wigmore.fetch),
     ('Time Out', timeout.fetch),
 ]
 
