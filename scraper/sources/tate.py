@@ -16,8 +16,10 @@ HEADERS = {'User-Agent': 'london-culture-bot/1.0 (personal archive)'}
 
 # London galleries only
 DETAIL_RE = re.compile(r'/whats-on/(tate-modern|tate-britain)/[a-z0-9-]+$')
+DASH = r'[–—‒‑‐−-]'
 DATE_RE = re.compile(
-    r'(\d{1,2}\s+[A-Z][a-z]+\s+\d{4}\s*[–-]\s*\d{1,2}\s+[A-Z][a-z]+\s+\d{4}'
+    r'(\d{1,2}\s+[A-Z][a-z]+(?:\s+\d{4})?\s*' + DASH +
+    r'\s*\d{1,2}\s+[A-Z][a-z]+\s+\d{4}'
     r'|Until\s+\d{1,2}\s+[A-Z][a-z]+\s+\d{4})')
 PRICE_RE = re.compile(r'£\s?\d+')
 GALLERY = {'tate-modern': 'Tate Modern', 'tate-britain': 'Tate Britain'}
@@ -38,7 +40,16 @@ def _detail(url):
     if not title:
         return None
 
-    text = soup.get_text(' ', strip=True)
+    # Read date/price ONLY from the main content after the <h1> title.
+    # (The page header has a "DON'T MISS" promo block whose dates/prices
+    #  would otherwise be picked up for every exhibition.)
+    h1 = soup.find('h1')
+    if h1:
+        text = ' '.join(s for s in h1.find_all_next(string=True))
+    else:
+        text = soup.get_text(' ', strip=True)
+    text = re.sub(r'\s+', ' ', text)
+
     dm = DATE_RE.search(text)
     date_text = dm.group(0) if dm else ''
     pm = PRICE_RE.search(text)
