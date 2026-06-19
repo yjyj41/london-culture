@@ -45,6 +45,10 @@
   .status{display:inline-block;font-size:11px;letter-spacing:.4px;text-transform:uppercase;
     margin-left:10px;vertical-align:middle;color:var(--muted)}
   .status.live{color:var(--ink);font-weight:600}
+  .thead div[data-sort]{cursor:pointer;user-select:none;transition:color .12s}
+  .thead div[data-sort]:hover{color:var(--ink)}
+  .thead div.sorted{color:var(--ink)}
+  .thead .ind{margin-left:6px;font-size:10px;display:inline-block}
   .count{padding:18px 40px;font-size:12px;color:var(--muted);letter-spacing:.4px}
   .empty{padding:80px 40px;text-align:center;color:var(--muted);font-size:14px}
   footer{padding:40px;border-top:1px solid var(--ink);font-size:12px;color:var(--muted);line-height:1.7}
@@ -71,8 +75,11 @@
   <div class="search"><input id="q" type="text" placeholder="Search"></div>
 </div>
 
-<div class="thead">
-  <div>Period</div><div>Title</div><div>Type</div><div>Venue</div>
+<div class="thead" id="thead">
+  <div data-sort="period">Period<span class="ind"></span></div>
+  <div data-sort="title">Title<span class="ind"></span></div>
+  <div data-sort="type">Type<span class="ind"></span></div>
+  <div data-sort="venue">Venue<span class="ind"></span></div>
 </div>
 
 <div id="list"></div>
@@ -87,7 +94,7 @@
 <script>
 const CAT_LABELS = {music:'Music', exhibition:'Exhibition', theatre:'Performance', event:'Event'};
 const TODAY = new Date();
-let EVENTS = [], activeCat = 'all';
+let EVENTS = [], activeCat = 'all', sortKey = 'period', sortDir = 1;
 
 function fmt(s){const [y,m,d]=s.split('-');return `${m}.${d}`;}
 function period(ev){
@@ -126,6 +133,27 @@ function buildFilters(){
   });
 }
 
+function sortVal(ev){
+  if(sortKey==='title') return (ev.title||'').toLowerCase();
+  if(sortKey==='type')  return (ev.type||'').toLowerCase();
+  if(sortKey==='venue') return (ev.venue||'').toLowerCase();
+  return ev.start||ev.end||'9999';            // period (date)
+}
+function cmp(a,b){
+  const av=sortVal(a), bv=sortVal(b);
+  if(av<bv) return -sortDir;
+  if(av>bv) return  sortDir;
+  const ad=a.start||a.end||'9999', bd=b.start||b.end||'9999'; // tiebreak by date
+  return ad<bd?-1:ad>bd?1:0;
+}
+function markHeaders(){
+  document.querySelectorAll('#thead div[data-sort]').forEach(h=>{
+    const active=h.dataset.sort===sortKey;
+    h.classList.toggle('sorted',active);
+    h.querySelector('.ind').textContent = active ? (sortDir>0?'↑':'↓') : '';
+  });
+}
+
 function render(){
   const q=document.getElementById('q').value.toLowerCase().trim();
   let list=EVENTS.filter(ev=>{
@@ -133,6 +161,8 @@ function render(){
     if(q && !((ev.title+ev.venue+ev.type+ev.source).toLowerCase().includes(q)))return false;
     return true;
   });
+  list.sort(cmp);
+  markHeaders();
   document.getElementById('empty').style.display=list.length?'none':'block';
   document.getElementById('count').textContent=`${list.length} entries`;
   document.getElementById('list').innerHTML=list.map(ev=>`
@@ -189,6 +219,15 @@ fetch('events.json?_='+Date.now())
   .catch(()=>load(SEED));
 
 document.getElementById('q').addEventListener('input',render);
+
+// click a column header to sort; click again to flip direction
+document.querySelectorAll('#thead div[data-sort]').forEach(h=>{
+  h.addEventListener('click',()=>{
+    const k=h.dataset.sort;
+    if(sortKey===k) sortDir=-sortDir; else { sortKey=k; sortDir=1; }
+    render();
+  });
+});
 </script>
 </body>
 </html>
