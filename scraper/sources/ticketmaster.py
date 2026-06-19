@@ -1,9 +1,12 @@
 """
-Ticketmaster Discovery API  (concerts / theatre).
-Most reliable source: official, free API. Get a key at
-https://developer.ticketmaster.com/  and set env var TICKETMASTER_API_KEY.
+Ticketmaster Discovery API.
 
-Docs: https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
+Used here in a FOCUSED way so it doesn't flood the archive (a broad London
+"Music" pull returns ~700 events). We fetch:
+  1. ALL London jazz   (classificationName=Jazz)         -> the user's ask
+  2. A small sample of upcoming concerts (segmentName=Music, 1 page)
+
+Free key: https://developer.ticketmaster.com/  -> env var TICKETMASTER_API_KEY
 Free tier: 5000 calls/day, 5 req/sec.
 """
 import os
@@ -13,14 +16,11 @@ from normalize import event
 
 API = 'https://app.ticketmaster.com/discovery/v2/events.json'
 
-# Ticketmaster "segment" -> our category
-SEGMENT_MAP = {
-    'Music': 'music',
-    'Arts & Theatre': 'theatre',
-}
-
-# Which segments to pull
-SEGMENTS = ['Music', 'Arts & Theatre']
+# (label, extra query params, max pages to pull)
+QUERIES = [
+    ('Jazz',     {'classificationName': 'Jazz'}, 3),   # all jazz in London
+    ('Concerts', {'segmentName': 'Music'},       1),   # small concert sample
+]
 
 
 def _price(ev):
@@ -40,25 +40,25 @@ def fetch():
         return []
 
     out, seen = [], set()
-    for seg in SEGMENTS:
+    for label, extra, max_pages in QUERIES:
         page = 0
-        while page < 4:  # cap pages to stay polite
+        while page < max_pages:
             params = {
                 'apikey': key,
                 'city': 'London',
                 'countryCode': 'GB',
-                'segmentName': seg,
                 'sort': 'date,asc',
                 'size': 100,
                 'page': page,
                 'startDateTime': time.strftime('%Y-%m-%dT00:00:00Z'),
+                **extra,
             }
             try:
                 r = requests.get(API, params=params, timeout=30)
                 r.raise_for_status()
                 data = r.json()
             except Exception as e:
-                print(f'  [ticketmaster] {seg} page {page} error: {e}')
+                print(f'  [ticketmaster] {label} page {page} error: {e}')
                 break
 
             events = (data.get('_embedded') or {}).get('events') or []
@@ -73,12 +73,13 @@ def fetch():
                 venue = venues[0].get('name', '')
                 area = (venues[0].get('city') or {}).get('name', '')
                 start = (ev.get('dates') or {}).get('start', {}).get('localDate')
+                etype = genre if genre and genre != 'Undefined' else label
                 out.append(event(
-                    category=SEGMENT_MAP.get(seg, 'event'),
+                    category='music',
                     title=ev.get('name', ''),
                     url=ev.get('url', ''),
                     source='Ticketmaster',
-                    etype=genre if genre and genre != 'Undefined' else seg,
+                    etype=etype,
                     venue=venue,
                     area=area,
                     start=start,
