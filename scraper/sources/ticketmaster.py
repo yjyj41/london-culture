@@ -72,7 +72,9 @@ def fetch():
                 venues = (ev.get('_embedded') or {}).get('venues') or [{}]
                 venue = venues[0].get('name', '')
                 area = (venues[0].get('city') or {}).get('name', '')
-                start = (ev.get('dates') or {}).get('start', {}).get('localDate')
+                sdate = (ev.get('dates') or {}).get('start', {})
+                start = sdate.get('localDate')
+                ltime = (sdate.get('localTime') or '')[:5]  # "19:30"
                 etype = genre if genre and genre != 'Undefined' else label
                 out.append(event(
                     category='music',
@@ -84,6 +86,7 @@ def fetch():
                     area=area,
                     start=start,
                     end=start,
+                    time=ltime,
                     date_text=start or '',
                     price=_price(ev),
                 ))

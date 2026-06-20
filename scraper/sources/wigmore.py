@@ -28,11 +28,12 @@ HREF_RE = re.compile(r'^/whats-on/(\d{8})(\d{4})$')
 def _date_from_href(href):
     m = HREF_RE.match(href)
     if not m:
-        return None, None
+        return None, None, ''
     d, t = m.group(1), m.group(2)
     iso = f'{d[0:4]}-{d[4:6]}-{d[6:8]}'
-    pretty = f'{d[6:8]}.{d[4:6]}.{d[0:4]} {t[0:2]}:{t[2:4]}'
-    return iso, pretty
+    clock = f'{t[0:2]}:{t[2:4]}'
+    pretty = f'{d[6:8]}.{d[4:6]}.{d[0:4]} {clock}'
+    return iso, pretty, clock
 
 
 def fetch():
@@ -48,7 +49,7 @@ def fetch():
 
     for a in soup.find_all('a', href=True):
         href = a['href'].split('?')[0]
-        iso, pretty = _date_from_href(href)
+        iso, pretty, clock = _date_from_href(href)
         if not iso or href in seen:
             continue
 
@@ -68,7 +69,7 @@ def fetch():
         out.append(event('music', title, BASE + href, 'Wigmore Hall',
                          subtitle=subtitle, etype='Classical',
                          venue='Wigmore Hall', area='London',
-                         start=iso, end=iso, date_text=pretty))
+                         start=iso, end=iso, time=clock, date_text=pretty))
 
     print(f'  [wigmore] {len(out)} events')
     return out

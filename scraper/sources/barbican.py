@@ -12,9 +12,25 @@ with:
 Events repeating on several days appear once per day, so we de-duplicate by
 slug and keep the earliest/latest dates as the run's start/end.
 """
+import re
 import requests
 from bs4 import BeautifulSoup
 from normalize import event
+
+# parse a human time like "9.30am" / "7.30pm" into 24h "09:30" / "19:30"
+TIME_RE = re.compile(r'(\d{1,2})[.:](\d{2})\s*(am|pm)', re.I)
+
+
+def _time24(text):
+    m = TIME_RE.search(text or '')
+    if not m:
+        return ''
+    h, mn, ap = int(m.group(1)), m.group(2), m.group(3).lower()
+    if ap == 'pm' and h != 12:
+        h += 12
+    if ap == 'am' and h == 12:
+        h = 0
+    return f'{h:02d}:{mn}'
 
 LISTING = 'https://www.barbican.org.uk/whats-on'
 BASE = 'https://www.barbican.org.uk'
@@ -65,12 +81,15 @@ def fetch():
         cat_text = cat_el.get_text(' ', strip=True) if cat_el else ''
 
         # collect ISO dates from <time datetime="...">
+        time_tags = card.find_all('time')
         dates = sorted(
-            t['datetime'][:10] for t in card.find_all('time')
+            t['datetime'][:10] for t in time_tags
             if t.get('datetime') and len(t['datetime']) >= 10
         )
         start = dates[0] if dates else None
         end = dates[-1] if dates else None
+        # time = human text on the card ("9.30am"), already local London time
+        clock = _time24(time_tags[0].get_text(' ', strip=True)) if time_tags else ''
 
         rec = by_slug.get(slug)
         if rec:
@@ -87,6 +106,7 @@ def fetch():
             'type': cat_text or 'Event',
             'start': start,
             'end': end,
+            'time': clock,
         }
 
     out = []
@@ -96,7 +116,8 @@ def fetch():
             dt = rec['start'] if rec['start'] == rec['end'] else f"{rec['start']} - {rec['end']}"
         out.append(event(rec['cat'], rec['title'], rec['url'], 'Barbican',
                          etype=rec['type'], venue='Barbican Centre', area='London',
-                         start=rec['start'], end=rec['end'], date_text=dt))
+                         start=rec['start'], end=rec['end'],
+                         time=rec.get('time', ''), date_text=dt))
 
     print(f'  [barbican] {len(out)} events')
     return out
