@@ -83,7 +83,7 @@ def make_id(*parts) -> str:
 
 
 def event(category, title, url, source, *, subtitle='', etype='', venue='',
-          area='', date_text='', start=None, end=None, price=''):
+          area='', date_text='', start=None, end=None, price='', time=''):
     """Build one normalised event dict."""
     if (start is None or end is None) and date_text:
         s, e, _ = parse_date_range(date_text)
@@ -100,6 +100,7 @@ def event(category, title, url, source, *, subtitle='', etype='', venue='',
         'date_text': _clean(date_text),
         'start': start,
         'end': end,
+        'time': _clean(time),
         'price': _clean(price),
         'url': url,
         'source': source,
