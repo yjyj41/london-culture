@@ -101,11 +101,11 @@ function period(ev){
   if(ev.start && ev.end){
     const long=(new Date(ev.end)-new Date(ev.start))>1000*60*60*24*120;
     if(long) return 'Ongoing';
-    if(ev.start===ev.end) return fmt(ev.start);
+    if(ev.start===ev.end) return fmt(ev.start)+(ev.time?` · ${ev.time}`:'');
     return `${fmt(ev.start)}–${fmt(ev.end)}`;
   }
   if(ev.end) return 'Until '+fmt(ev.end);
-  if(ev.start) return fmt(ev.start);
+  if(ev.start) return fmt(ev.start)+(ev.time?` · ${ev.time}`:'');
   return ev.date_text || 'TBC';
 }
 function status(ev){
