@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20 08:56 UTC",
-  "count": 361,
+  "updated": "2026-06-20 12:51 UTC",
+  "count": 360,
   "events": [
     {
       "id": "fc81c6f4797a",
@@ -13,6 +13,7 @@
       "date_text": "11 June 2026 - 3 May 2027",
       "start": "2026-06-11",
       "end": "2027-05-03",
+      "time": "",
       "price": "£15",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
       "source": "Tate"
@@ -28,6 +29,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-3NQSMR?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -43,23 +45,9 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "12:00",
       "price": "",
       "url": "https://www.universe.com/events/saturday-rnb-lunch-the-rnb-collective-tickets-6S04VN?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "b0dbf3e69989",
-      "category": "music",
-      "title": "Midsommar Murder Fest 2026",
-      "subtitle": "",
-      "type": "Metal",
-      "venue": "Blondies Brewery",
-      "area": "London",
-      "date_text": "2026-06-20",
-      "start": "2026-06-20",
-      "end": "2026-06-20",
-      "price": "",
-      "url": "https://www.universe.com/events/midsommar-murder-fest-2026-tickets-QYZF73?ref=ticketmaster",
       "source": "Ticketmaster"
     },
     {
@@ -73,6 +61,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "12:00",
       "price": "",
       "url": "https://www.universe.com/events/afrobeats-brunch-by-the-fortune-collectives-pioneered-by-koyesax-tickets-HPXQKR?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -88,6 +77,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "15:00",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-E3X&date=2026-06-20&time=3.00PM",
       "source": "Ticketmaster"
@@ -103,6 +93,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "15:00",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-D8J&date=2026-06-20&time=3.00PM",
       "source": "Ticketmaster"
@@ -118,6 +109,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "15:00",
       "price": "",
       "url": "https://www.universe.com/events/dave-love-lee-extended-day-set-tickets-4SH2VX?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -133,6 +125,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "16:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/gorillaz-london-20-06-2026/event/35006329CB103BDE",
       "source": "Ticketmaster"
@@ -148,6 +141,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "17:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/harry-styles-together-together-london-20-06-2026/event/2300642DB1EA10A1",
       "source": "Ticketmaster"
@@ -163,6 +157,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "17:00",
       "price": "",
       "url": "https://www.universe.com/events/dissent-tickets-7DLK32?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -178,6 +173,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/the-b52s-and-devo-cosmic-deevolution-london-20-06-2026/event/35006378C8036664",
       "source": "Ticketmaster"
@@ -193,6 +189,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/it-aint-nothing-but-music-devils-london-20-06-2026/event/3E006435F20651F6",
       "source": "Ticketmaster"
@@ -208,6 +205,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/symphonic-ibiza-tickets-QRM3BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -223,6 +221,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/elvis-costello-the-imposters-with-charlie-london-20-06-2026/event/3E00643CB2963FF0",
       "source": "Ticketmaster"
@@ -238,6 +237,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/the-ukulele-orchestra-of-great-britain-tickets-J07ZRK?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -253,6 +253,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/john-beltran-placid-angles-live-tickets-YDWG61?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -268,6 +269,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/hayao-miyazakis-dreams-by-mystery-ensemble-tickets-X9KMH6?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -283,6 +285,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/alyssa-bonagura-americas-backroads-tour-london-20-06-2026/event/35006459F198865F",
       "source": "Ticketmaster"
@@ -298,23 +301,9 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/i-killed-the-prom-queen-the-dome-tickets/14808263?REFERRAL_ID=tmfeed",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "6d0a282818ce",
-      "category": "music",
-      "title": "Prince Experience ... Endorphinmachine",
-      "subtitle": "",
-      "type": "Concerts",
-      "venue": "O2 Academy2 Islington",
-      "area": "London",
-      "date_text": "2026-06-20",
-      "start": "2026-06-20",
-      "end": "2026-06-20",
-      "price": "",
-      "url": "https://www.ticketmaster.co.uk/prince-experience-endorphinmachine-london-20-06-2026/event/3E006442AF5E4371",
       "source": "Ticketmaster"
     },
     {
@@ -328,6 +317,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/neville-staple-from-the-specials-london-20-06-2026/event/1F00643AF4BB7B80",
       "source": "Ticketmaster"
@@ -343,6 +333,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/hayley-williams-london-20-06-2026/event/1F006367B3DA7199",
       "source": "Ticketmaster"
@@ -358,6 +349,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/the-bevis-frond-hosted-by-stewart-lee-tickets-3PDQN8?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -373,6 +365,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/the-del-fuegos-tickets-1GPSMW?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -388,6 +381,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "21:00",
       "price": "",
       "url": "https://www.universe.com/events/golden-voices-of-lovers-rock-feat-kofi-mike-anthony-tickets-SH397Y?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -403,6 +397,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "22:30",
       "price": "",
       "url": "https://www.universe.com/events/soul-city-house-music-every-saturday-tickets-L4HWFJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -418,6 +413,7 @@
       "date_text": "20.06.2026 13:00",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "13:00",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606201300",
       "source": "Wigmore Hall"
@@ -433,6 +429,7 @@
       "date_text": "20.06.2026 19:30",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606201930",
       "source": "Wigmore Hall"
@@ -448,6 +445,7 @@
       "date_text": "2026-06-20",
       "start": "2026-06-20",
       "end": "2026-06-20",
+      "time": "09:30",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/1996-a-celebration-of-the-wildest-year-of-britains-wildest",
       "source": "Barbican"
@@ -463,6 +461,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "14:00",
       "price": "",
       "url": "https://www.universe.com/events/mopomoso-international-free-improvised-music-june-2026-tickets-P19BD8?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -478,6 +477,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/sambroso-all-stars-the-buena-vista-social-club-fathers-day-special-tickets-KB5H21?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -493,6 +493,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/vortex-jam-session-with-rick-simpson-tickets-XL963B?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -508,6 +509,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "12:00",
       "price": "",
       "url": "https://www.universe.com/events/febuary-matinee-show-tickets-SCRNYJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -523,6 +525,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/sunday-soul-sessions-tickets-5KGYDC?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -538,6 +541,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "13:00",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-E3Z&date=2026-06-21&time=1.00PM",
       "source": "Ticketmaster"
@@ -553,6 +557,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "13:00",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-D99&date=2026-06-21&time=1.00PM",
       "source": "Ticketmaster"
@@ -568,6 +573,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "16:00",
       "price": "",
       "url": "https://www.universe.com/events/lindsey-webster-tickets-FZ1NJB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -583,6 +589,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/the-music-of-square-enix-london-21-06-2026/event/37006382B1B2BEE2",
       "source": "Ticketmaster"
@@ -598,6 +605,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/nevertel-london-21-06-2026/event/1F006445EA226FDE",
       "source": "Ticketmaster"
@@ -613,6 +621,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/the-hot-one-two-electric-black-tickets-1JWG6L?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -628,6 +637,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/aur-london-21-06-2026/event/350064BA4B61D4A9",
       "source": "Ticketmaster"
@@ -643,6 +653,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/beverley-knight-born-to-perform-tour-london-21-06-2026/event/36006346E2BF9F25",
       "source": "Ticketmaster"
@@ -658,6 +669,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/nortec-bostic-fussible-full-jazz-cafe-tickets/14636613?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -673,6 +685,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/nortec-bostic-fussible-full-jazz-cafe-tickets/14636623?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -688,6 +701,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/kany-garcia-london-21-06-2026/event/3E00637CE07E9EEA",
       "source": "Ticketmaster"
@@ -703,6 +717,7 @@
       "date_text": "2026-06-21",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/music-of-the-square-enix-premium-london-21-06-2026/event/37006381F57BE2DA",
       "source": "Ticketmaster"
@@ -718,6 +733,7 @@
       "date_text": "21.06.2026 11:30",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "11:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606211130",
       "source": "Wigmore Hall"
@@ -733,6 +749,7 @@
       "date_text": "21.06.2026 19:30",
       "start": "2026-06-21",
       "end": "2026-06-21",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606211930",
       "source": "Wigmore Hall"
@@ -748,6 +765,7 @@
       "date_text": "2026-06-22",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/dillinger-escape-plan-london-22-06-2026/event/3E0064CF881012DF",
       "source": "Ticketmaster"
@@ -763,6 +781,7 @@
       "date_text": "2026-06-22",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/the-rnb-orchestra-tickets-XPGT12?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -778,6 +797,7 @@
       "date_text": "2026-06-22",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "19:45",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-E41&date=2026-06-22&time=7.45PM",
       "source": "Ticketmaster"
@@ -793,6 +813,7 @@
       "date_text": "2026-06-22",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "19:45",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-D9Z&date=2026-06-22&time=7.45PM",
       "source": "Ticketmaster"
@@ -808,6 +829,7 @@
       "date_text": "22.06.2026 13:00",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "13:00",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606221300",
       "source": "Wigmore Hall"
@@ -823,6 +845,7 @@
       "date_text": "22.06.2026 19:30",
       "start": "2026-06-22",
       "end": "2026-06-22",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606221930",
       "source": "Wigmore Hall"
@@ -838,6 +861,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -853,6 +877,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "17:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/harry-styles-together-together-london-23-06-2026/event/2300642DB55F10C8",
       "source": "Ticketmaster"
@@ -868,6 +893,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/cheikh-l-jazz-cafe-tickets/14121834?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -883,6 +909,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/cheikh-l-restaurant-jazz-cafe-tickets/14121854?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -898,6 +925,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/denial-of-life-the-black-heart-tickets/14897243?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -913,6 +941,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/queensrche-islington-assembly-hall-tickets/14092204?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -928,6 +957,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/agriculture-bush-hall-tickets/14173464?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -943,6 +973,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/genesis-owusu-ica-tickets/14788183?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -958,6 +989,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/lexa-gates-london-23-06-2026/event/1F006451CB844CB6",
       "source": "Ticketmaster"
@@ -973,6 +1005,7 @@
       "date_text": "2026-06-23",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/the-van-morrison-alumni-band-tickets-LFJPKW?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -988,6 +1021,7 @@
       "date_text": "23.06.2026 19:30",
       "start": "2026-06-23",
       "end": "2026-06-23",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606231930",
       "source": "Wigmore Hall"
@@ -1003,6 +1037,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1018,6 +1053,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/producers-playground-live-jazzy-house-nu-soul-hip-hop-tickets-DC81VQ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1033,6 +1069,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1048,6 +1085,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-definitive-rat-pack-tickets-C82F1N?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1063,6 +1101,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "18:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/alexisonfire-billy-talent-london-24-06-2026/event/37006449C7543918",
       "source": "Ticketmaster"
@@ -1078,6 +1117,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/hunnygloss-tickets-BP1M37?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1093,6 +1133,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/empire-of-the-sun-tickets-QPCDJK?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1108,6 +1149,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/baco-exu-do-blues-jazz-cafe-tickets/14141484?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -1123,6 +1165,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/delta-goodrem-london-24-06-2026/event/350064ABB8E438DE",
       "source": "Ticketmaster"
@@ -1138,6 +1181,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/landon-smith-london-24-06-2026/event/370064AEB1EE18D9",
       "source": "Ticketmaster"
@@ -1153,6 +1197,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/baco-exu-do-blues-jazz-cafe-tickets/14141494?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -1168,6 +1213,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/buffalo-traffic-jam-electric-ballroom-tickets/13981064?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -1183,6 +1229,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/4-non-blondes-london-24-06-2026/event/3E006471E28F6944",
       "source": "Ticketmaster"
@@ -1198,6 +1245,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/jon-batiste-world-festival-batiste-symphonic-london-24-06-2026/event/1F00645BB4A7558E",
       "source": "Ticketmaster"
@@ -1213,6 +1261,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/buffalo-traffic-jam-take-me-home-london-24-06-2026/event/1F006385F81FBE9D",
       "source": "Ticketmaster"
@@ -1228,6 +1277,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketweb.uk/event/cortex-the-lower-third-tickets/14938393?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -1243,6 +1293,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/alexisonfire-billy-talent-premium-packages-london-24-06-2026/event/37006446DDA86649",
       "source": "Ticketmaster"
@@ -1258,6 +1309,7 @@
       "date_text": "2026-06-24",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/liberace-liza-a-tribute-london-24-06-2026/event/Zor9uZKbZL4Zef7GbZd",
       "source": "Ticketmaster"
@@ -1273,6 +1325,7 @@
       "date_text": "24.06.2026 16:30",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "16:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606241630",
       "source": "Wigmore Hall"
@@ -1288,6 +1341,7 @@
       "date_text": "24.06.2026 19:30",
       "start": "2026-06-24",
       "end": "2026-06-24",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606241930",
       "source": "Wigmore Hall"
@@ -1303,6 +1357,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1318,6 +1373,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "18:45",
       "price": "",
       "url": "https://www.universe.com/events/whirlpool-jonah-phillips-downstairs-tickets-85YCJD?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1333,6 +1389,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1348,6 +1405,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/jim-rattigan-quintet-tickets-Q2TLPN?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1363,6 +1421,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "20:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/al-di-meola-london-25-06-2026/event/3500643BED6E731B",
       "source": "Ticketmaster"
@@ -1378,6 +1437,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1393,6 +1453,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "17:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/take-that-the-circus-live-summer-london-25-06-2026/event/35006334EBDA75B4",
       "source": "Ticketmaster"
@@ -1408,6 +1469,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/contention-tickets-89ZJ1D?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1423,6 +1485,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/avery-sunshine-tickets-9HN516?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1438,6 +1501,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/zac-brown-london-25-06-2026/event/3700647998B6221E",
       "source": "Ticketmaster"
@@ -1453,6 +1517,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/st-lucia-london-25-06-2026/event/35006489EA49A77D",
       "source": "Ticketmaster"
@@ -1468,6 +1533,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/celeste-london-25-06-2026/event/3E00636CF71F992F",
       "source": "Ticketmaster"
@@ -1483,6 +1549,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/anna-graves-london-25-06-2026/event/1F006477F9E78559",
       "source": "Ticketmaster"
@@ -1498,6 +1565,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/jon-batiste-world-festival-batiste-by-london-25-06-2026/event/1F00645BB85A59D5",
       "source": "Ticketmaster"
@@ -1513,6 +1581,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/lone-tickets-T9XKFW?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1528,6 +1597,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/dilated-peoples-tickets-JV9QSD?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1543,6 +1613,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/liberace-liza-a-tribute-london-25-06-2026/event/Zor9uZKbZL4Zef7GbZ7",
       "source": "Ticketmaster"
@@ -1558,6 +1629,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:45",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-E42&date=2026-06-25&time=7.45PM",
       "source": "Ticketmaster"
@@ -1573,6 +1645,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:45",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1H8DJ-abba-voyage-admissions/#perf=1H8DJ-E0C&date=2026-06-25&time=7.45PM",
       "source": "Ticketmaster"
@@ -1588,6 +1661,7 @@
       "date_text": "2026-06-25",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "20:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/laid-off-jan-echo-troubadour-tickets/14192814?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -1603,6 +1677,7 @@
       "date_text": "25 June 2026 - 3 January 2027",
       "start": "2026-06-25",
       "end": "2027-01-03",
+      "time": "",
       "price": "£5",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
       "source": "Tate"
@@ -1618,6 +1693,7 @@
       "date_text": "25.06.2026 19:30",
       "start": "2026-06-25",
       "end": "2026-06-25",
+      "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606251930",
       "source": "Wigmore Hall"
@@ -1633,6 +1709,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "16:00",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-dexter-shaw-the-wolftones-tickets-CM3TF8?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1648,6 +1725,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1663,6 +1741,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/lox-album-launch-tickets-0G48B2?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1678,6 +1757,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1693,6 +1773,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "18:40",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-steve-smith-vital-information-tickets-W90LSG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1708,6 +1789,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "18:45",
       "price": "",
       "url": "https://www.universe.com/events/keeffe-roberts-brice-holub-tickets-8SRHNG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1723,6 +1805,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1738,6 +1821,7 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-jazz-in-the-gardens-zeeks-and-the-brotherhood-tickets-LJCRZ3?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1753,8 +1837,25 @@
       "date_text": "2026-06-26",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "14:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/two-door-cinema-club-tourist-history-london-26-06-2026/event/37006339930D8DFC",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "210830d39725",
+      "category": "music",
+      "title": "Harry Styles: Together, Together",
+      "subtitle": "",
+      "type": "Pop",
+      "venue": "Wembley Stadium",
+      "area": "London",
+      "date_text": "2026-06-26",
+      "start": "2026-06-26",
+      "end": "2026-06-26",
+      "time": "17:00",
+      "price": "",
+      "url": "https://www.ticketmaster.co.uk/harry-styles-together-together-london-26-06-2026/event/2300642DCD7911C1",
       "source": "Ticketmaster"
     },
     {
@@ -1768,6 +1869,7 @@
       "date_text": "26.06.2026 11:00",
       "start": "2026-06-26",
       "end": "2026-06-26",
+      "time": "11:00",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202606261100",
       "source": "Wigmore Hall"
@@ -1783,6 +1885,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-5WD04F?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1798,6 +1901,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "16:00",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-big-joe-louis-trio-tickets-LCJWDZ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1813,6 +1917,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1828,6 +1933,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-they-call-me-max-tickets-S5X6VB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1843,6 +1949,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1858,6 +1965,7 @@
       "date_text": "2026-06-27",
       "start": "2026-06-27",
       "end": "2026-06-27",
+      "time": "21:00",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-brandon-allen-tickets-SB3HNX?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1873,6 +1981,7 @@
       "date_text": "2026-06-28",
       "start": "2026-06-28",
       "end": "2026-06-28",
+      "time": "12:00",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-convergence-ordinary-friends-tickets-PZR01G?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1888,6 +1997,7 @@
       "date_text": "2026-06-28",
       "start": "2026-06-28",
       "end": "2026-06-28",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-sebastiaan-de-krom-presents-mark-armsrtong-trio-tickets-T2NW1G?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1903,6 +2013,7 @@
       "date_text": "2026-06-28",
       "start": "2026-06-28",
       "end": "2026-06-28",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/everywhere-at-once-w3-funk-sessions-tickets-7LQ2HB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1918,6 +2029,7 @@
       "date_text": "2026-06-30",
       "start": "2026-06-30",
       "end": "2026-06-30",
+      "time": "18:45",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/jeff-goldblum-the-heritage-orchestra-london-30-06-2026/event/1F00643EB4DC5FE8",
       "source": "Ticketmaster"
@@ -1933,6 +2045,7 @@
       "date_text": "2026-06-30",
       "start": "2026-06-30",
       "end": "2026-06-30",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/getz-gilberto-live-w-mario-bakuna-band-tickets-X2LZTJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1948,6 +2061,7 @@
       "date_text": "2026-06-30",
       "start": "2026-06-30",
       "end": "2026-06-30",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/finn-carter-quartet-tickets-3KFGP9?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1963,6 +2077,7 @@
       "date_text": "2026-06-30",
       "start": "2026-06-30",
       "end": "2026-06-30",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-definitive-rat-pack-tickets-H49XG5?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1978,6 +2093,7 @@
       "date_text": "2026-07-01",
       "start": "2026-07-01",
       "end": "2026-07-01",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -1993,6 +2109,7 @@
       "date_text": "2026-07-02",
       "start": "2026-07-02",
       "end": "2026-07-02",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2008,6 +2125,7 @@
       "date_text": "2026-07-02",
       "start": "2026-07-02",
       "end": "2026-07-02",
+      "time": "18:45",
       "price": "",
       "url": "https://www.universe.com/events/breen-boizi-tickets-0CNMXJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2023,6 +2141,7 @@
       "date_text": "2026-07-02",
       "start": "2026-07-02",
       "end": "2026-07-02",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2038,6 +2157,7 @@
       "date_text": "2026-07-02",
       "start": "2026-07-02",
       "end": "2026-07-02",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2053,6 +2173,7 @@
       "date_text": "2 July - 20 September 2026",
       "start": "2026-07-02",
       "end": "2026-09-20",
+      "time": "",
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/waldmüller-landscapes",
       "source": "National Gallery"
@@ -2068,6 +2189,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2083,6 +2205,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "18:30",
       "price": "",
       "url": "https://www.ticketweb.uk/event/oby-onyioha-restaurant-jazz-cafe-tickets/14739883?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -2098,6 +2221,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "18:30",
       "price": "",
       "url": "https://www.ticketweb.uk/event/oby-onyioha-jazz-cafe-tickets/14739873?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -2113,6 +2237,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-K4TC9Y?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2128,6 +2253,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/ricardo-grilli-tickets-FHC6D7?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2143,6 +2269,7 @@
       "date_text": "2026-07-03",
       "start": "2026-07-03",
       "end": "2026-07-03",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2158,6 +2285,7 @@
       "date_text": "2026-07-04",
       "start": "2026-07-04",
       "end": "2026-07-04",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-2Z3K7S?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2173,6 +2301,7 @@
       "date_text": "2026-07-04",
       "start": "2026-07-04",
       "end": "2026-07-04",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/coltrane-and-hartman-on-impulse-feat-mark-lockheart-and-marvin-muoneke-tickets-SHM8JX?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2188,6 +2317,7 @@
       "date_text": "2026-07-04",
       "start": "2026-07-04",
       "end": "2026-07-04",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2203,6 +2333,7 @@
       "date_text": "2026-07-05",
       "start": "2026-07-05",
       "end": "2026-07-05",
+      "time": "15:30",
       "price": "",
       "url": "https://www.universe.com/events/london-jazz-orchestra-vortex-sessions-primetime-for-henry-tickets-RHXCB2?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2218,6 +2349,7 @@
       "date_text": "2026-07-07",
       "start": "2026-07-07",
       "end": "2026-07-07",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-definitive-rat-pack-tickets-SPCRQF?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2233,6 +2365,7 @@
       "date_text": "2026-07-08",
       "start": "2026-07-08",
       "end": "2026-07-08",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/d-k-harrell-tickets-XH4NVY?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2248,6 +2381,7 @@
       "date_text": "2026-07-09",
       "start": "2026-07-09",
       "end": "2026-07-09",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2263,6 +2397,7 @@
       "date_text": "2026-07-09",
       "start": "2026-07-09",
       "end": "2026-07-09",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2278,6 +2413,7 @@
       "date_text": "2026-07-09",
       "start": "2026-07-09",
       "end": "2026-07-09",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2293,6 +2429,7 @@
       "date_text": "2026-07-10",
       "start": "2026-07-10",
       "end": "2026-07-10",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2308,6 +2445,7 @@
       "date_text": "2026-07-10",
       "start": "2026-07-10",
       "end": "2026-07-10",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2323,6 +2461,7 @@
       "date_text": "2026-07-11",
       "start": "2026-07-11",
       "end": "2026-07-11",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-VLK4F2?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2338,6 +2477,7 @@
       "date_text": "2026-07-11",
       "start": "2026-07-11",
       "end": "2026-07-11",
+      "time": "13:00",
       "price": "",
       "url": "https://www.universe.com/events/saturday-jazz-lunch-frank-dean-tickets-658RGC?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2353,6 +2493,7 @@
       "date_text": "2026-07-11",
       "start": "2026-07-11",
       "end": "2026-07-11",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/de-beauvoir-jazz-festival-lucy-anne-daniels-liselotte-ostblom-tickets-GWYXSV?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2368,6 +2509,7 @@
       "date_text": "2026-07-11",
       "start": "2026-07-11",
       "end": "2026-07-11",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2383,6 +2525,7 @@
       "date_text": "2026-07-14",
       "start": "2026-07-14",
       "end": "2026-07-14",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/anatole-muster-tickets-BF1YL0?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2398,6 +2541,7 @@
       "date_text": "2026-07-14",
       "start": "2026-07-14",
       "end": "2026-07-14",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2413,6 +2557,7 @@
       "date_text": "2026-07-14",
       "start": "2026-07-14",
       "end": "2026-07-14",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-definitive-rat-pack-tickets-M4WZLC?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2428,6 +2573,7 @@
       "date_text": "2026-07-15",
       "start": "2026-07-15",
       "end": "2026-07-15",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2443,6 +2589,7 @@
       "date_text": "15 July 2026 - 17 Jan 2027",
       "start": "2026-07-15",
       "end": "2027-01-17",
+      "time": "",
       "price": "£18",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
       "source": "Tate"
@@ -2458,6 +2605,7 @@
       "date_text": "2026-07-16",
       "start": "2026-07-16",
       "end": "2026-07-16",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2473,6 +2621,7 @@
       "date_text": "2026-07-16",
       "start": "2026-07-16",
       "end": "2026-07-16",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2488,6 +2637,7 @@
       "date_text": "2026-07-16",
       "start": "2026-07-16",
       "end": "2026-07-16",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2503,6 +2653,7 @@
       "date_text": "2026-07-17",
       "start": "2026-07-17",
       "end": "2026-07-17",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2518,6 +2669,7 @@
       "date_text": "2026-07-17",
       "start": "2026-07-17",
       "end": "2026-07-17",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2533,6 +2685,7 @@
       "date_text": "2026-07-17",
       "start": "2026-07-17",
       "end": "2026-07-17",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-6BQN8R?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2548,6 +2701,7 @@
       "date_text": "2026-07-17",
       "start": "2026-07-17",
       "end": "2026-07-17",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2563,6 +2717,7 @@
       "date_text": "2026-07-18",
       "start": "2026-07-18",
       "end": "2026-07-18",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-VMD5L4?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2578,6 +2733,7 @@
       "date_text": "2026-07-18",
       "start": "2026-07-18",
       "end": "2026-07-18",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2593,6 +2749,7 @@
       "date_text": "2026-07-18",
       "start": "2026-07-18",
       "end": "2026-07-18",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/immanuel-wilkins-quartet-tickets-V52B7T?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2608,6 +2765,7 @@
       "date_text": "2026-07-18",
       "start": "2026-07-18",
       "end": "2026-07-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/tony-kofis-tentet-plays-monk-at-the-town-hall-tickets-2SVY7Z?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2623,6 +2781,7 @@
       "date_text": "2026-07-19",
       "start": "2026-07-19",
       "end": "2026-07-19",
+      "time": "20:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-sports-night-world-cup-special-tickets-5N3JTM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2638,6 +2797,7 @@
       "date_text": "2026-07-21",
       "start": "2026-07-21",
       "end": "2026-07-21",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-definitive-rat-pack-tickets-KSV8W6?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2653,6 +2813,7 @@
       "date_text": "2026-07-22",
       "start": "2026-07-22",
       "end": "2026-07-22",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/snake-davis-tickets-KNHB64?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2668,6 +2829,7 @@
       "date_text": "2026-07-23",
       "start": "2026-07-23",
       "end": "2026-07-23",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2683,6 +2845,7 @@
       "date_text": "2026-07-23",
       "start": "2026-07-23",
       "end": "2026-07-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2698,6 +2861,7 @@
       "date_text": "2026-07-23",
       "start": "2026-07-23",
       "end": "2026-07-23",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2713,6 +2877,7 @@
       "date_text": "2026-07-24",
       "start": "2026-07-24",
       "end": "2026-07-24",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2728,6 +2893,7 @@
       "date_text": "2026-07-24",
       "start": "2026-07-24",
       "end": "2026-07-24",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2743,6 +2909,7 @@
       "date_text": "2026-07-24",
       "start": "2026-07-24",
       "end": "2026-07-24",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2758,6 +2925,7 @@
       "date_text": "2026-07-25",
       "start": "2026-07-25",
       "end": "2026-07-25",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-62R4CK?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2773,6 +2941,7 @@
       "date_text": "2026-07-25",
       "start": "2026-07-25",
       "end": "2026-07-25",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2788,6 +2957,7 @@
       "date_text": "2026-07-26",
       "start": "2026-07-26",
       "end": "2026-07-26",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/somerset-house-summer-series-benjamin-clementine-london-26-07-2026/event/1F006451CF754FB0",
       "source": "Ticketmaster"
@@ -2803,6 +2973,7 @@
       "date_text": "2026-07-28",
       "start": "2026-07-28",
       "end": "2026-07-28",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/dave-sear-sextet-tickets-VM6N82?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2818,6 +2989,7 @@
       "date_text": "2026-07-28",
       "start": "2026-07-28",
       "end": "2026-07-28",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/frank-sinatra-friends-tickets-ZP6TYQ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2833,6 +3005,7 @@
       "date_text": "2026-07-29",
       "start": "2026-07-29",
       "end": "2026-07-29",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2848,6 +3021,7 @@
       "date_text": "2026-07-29",
       "start": "2026-07-29",
       "end": "2026-07-29",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/producers-playground-live-jazzy-house-nu-soul-hip-hop-tickets-DC81VQ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2863,6 +3037,7 @@
       "date_text": "2026-07-29",
       "start": "2026-07-29",
       "end": "2026-07-29",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/leif-kaner-lidstrom-tickets-N8VTGB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2878,6 +3053,7 @@
       "date_text": "2026-07-30",
       "start": "2026-07-30",
       "end": "2026-07-30",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2893,6 +3069,7 @@
       "date_text": "2026-07-30",
       "start": "2026-07-30",
       "end": "2026-07-30",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2908,6 +3085,7 @@
       "date_text": "2026-07-30",
       "start": "2026-07-30",
       "end": "2026-07-30",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2923,6 +3101,7 @@
       "date_text": "2026-07-31",
       "start": "2026-07-31",
       "end": "2026-07-31",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2938,6 +3117,7 @@
       "date_text": "2026-07-31",
       "start": "2026-07-31",
       "end": "2026-07-31",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2953,6 +3133,7 @@
       "date_text": "2026-07-31",
       "start": "2026-07-31",
       "end": "2026-07-31",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-JWTNS6?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2968,6 +3149,7 @@
       "date_text": "2026-07-31",
       "start": "2026-07-31",
       "end": "2026-07-31",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2983,6 +3165,7 @@
       "date_text": "2026-08-01",
       "start": "2026-08-01",
       "end": "2026-08-01",
+      "time": "12:30",
       "price": "",
       "url": "https://www.universe.com/events/the-saturday-brunch-club-tickets-MYTV6D?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -2998,6 +3181,7 @@
       "date_text": "2026-08-06",
       "start": "2026-08-06",
       "end": "2026-08-06",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3013,6 +3197,7 @@
       "date_text": "2026-08-06",
       "start": "2026-08-06",
       "end": "2026-08-06",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3028,6 +3213,7 @@
       "date_text": "2026-08-06",
       "start": "2026-08-06",
       "end": "2026-08-06",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3043,6 +3229,7 @@
       "date_text": "2026-08-07",
       "start": "2026-08-07",
       "end": "2026-08-07",
+      "time": "16:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/city-pop-waves-presents-masayoshi-takanaka-london-07-08-2026/event/3500644594162E47",
       "source": "Ticketmaster"
@@ -3058,6 +3245,7 @@
       "date_text": "2026-08-07",
       "start": "2026-08-07",
       "end": "2026-08-07",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3073,6 +3261,7 @@
       "date_text": "2026-08-07",
       "start": "2026-08-07",
       "end": "2026-08-07",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3088,6 +3277,7 @@
       "date_text": "2026-08-07",
       "start": "2026-08-07",
       "end": "2026-08-07",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3103,6 +3293,7 @@
       "date_text": "2026-08-07",
       "start": "2026-08-07",
       "end": "2026-08-07",
+      "time": "22:30",
       "price": "",
       "url": "https://www.universe.com/events/juls-4-fridays-at-jazz-cafe-summer-residency-week-1-tickets-WT45QR?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3118,6 +3309,7 @@
       "date_text": "2026-08-08",
       "start": "2026-08-08",
       "end": "2026-08-08",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3133,6 +3325,7 @@
       "date_text": "2026-08-08",
       "start": "2026-08-08",
       "end": "2026-08-08",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/leon-foster-thomas-group-tickets-DP4F5K?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3148,6 +3341,7 @@
       "date_text": "2026-08-08",
       "start": "2026-08-08",
       "end": "2026-08-08",
+      "time": "",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/the-roots-picnic-sat-08-sun-london-08-08-2026/event/3500647BE0F69433",
       "source": "Ticketmaster"
@@ -3163,6 +3357,7 @@
       "date_text": "2026-08-09",
       "start": "2026-08-09",
       "end": "2026-08-09",
+      "time": "13:00",
       "price": "",
       "url": "https://www.universe.com/events/steam-down-sound-system-x-imaginary-millions-tickets-63SQZD?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3178,6 +3373,7 @@
       "date_text": "2026-08-12",
       "start": "2026-08-12",
       "end": "2026-08-12",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/courtney-pine-a-modern-day-jazz-story-1986-2026-tickets-37V6SW?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3193,6 +3389,7 @@
       "date_text": "2026-08-12",
       "start": "2026-08-12",
       "end": "2026-08-12",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/triggah-album-release-show-tickets-VGP8DL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3208,6 +3405,7 @@
       "date_text": "2026-08-13",
       "start": "2026-08-13",
       "end": "2026-08-13",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3223,6 +3421,7 @@
       "date_text": "2026-08-13",
       "start": "2026-08-13",
       "end": "2026-08-13",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3238,6 +3437,7 @@
       "date_text": "2026-08-13",
       "start": "2026-08-13",
       "end": "2026-08-13",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3253,6 +3453,7 @@
       "date_text": "2026-08-14",
       "start": "2026-08-14",
       "end": "2026-08-14",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3268,6 +3469,7 @@
       "date_text": "2026-08-14",
       "start": "2026-08-14",
       "end": "2026-08-14",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-N6PRDL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3283,6 +3485,7 @@
       "date_text": "2026-08-14",
       "start": "2026-08-14",
       "end": "2026-08-14",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3298,6 +3501,7 @@
       "date_text": "2026-08-19",
       "start": "2026-08-19",
       "end": "2026-08-19",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/digable-planets-tickets-RLMNV6?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3313,6 +3517,7 @@
       "date_text": "2026-08-19",
       "start": "2026-08-19",
       "end": "2026-08-19",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-wonder-of-stevie-tickets-ZX1YKD?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3328,6 +3533,7 @@
       "date_text": "2026-08-20",
       "start": "2026-08-20",
       "end": "2026-08-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3343,6 +3549,7 @@
       "date_text": "2026-08-20",
       "start": "2026-08-20",
       "end": "2026-08-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/john-scofield-long-days-quartet-tickets-HXYFGS?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3358,6 +3565,7 @@
       "date_text": "2026-08-20",
       "start": "2026-08-20",
       "end": "2026-08-20",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3373,6 +3581,7 @@
       "date_text": "2026-08-20",
       "start": "2026-08-20",
       "end": "2026-08-20",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3388,6 +3597,7 @@
       "date_text": "2026-08-21",
       "start": "2026-08-21",
       "end": "2026-08-21",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3403,6 +3613,7 @@
       "date_text": "2026-08-21",
       "start": "2026-08-21",
       "end": "2026-08-21",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/give-me-the-night-the-best-of-george-benson-tickets-46HV25?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3418,6 +3629,7 @@
       "date_text": "2026-08-21",
       "start": "2026-08-21",
       "end": "2026-08-21",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3433,6 +3645,7 @@
       "date_text": "2026-08-21",
       "start": "2026-08-21",
       "end": "2026-08-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3448,6 +3661,7 @@
       "date_text": "2026-08-21",
       "start": "2026-08-21",
       "end": "2026-08-21",
+      "time": "22:30",
       "price": "",
       "url": "https://www.universe.com/events/juls-4-fridays-at-jazz-cafe-summer-residency-week-2-tickets-XTS3QN?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3463,6 +3677,7 @@
       "date_text": "2026-08-22",
       "start": "2026-08-22",
       "end": "2026-08-22",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3478,6 +3693,7 @@
       "date_text": "2026-08-26",
       "start": "2026-08-26",
       "end": "2026-08-26",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3493,6 +3709,7 @@
       "date_text": "2026-08-26",
       "start": "2026-08-26",
       "end": "2026-08-26",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/producers-playground-live-jazzy-house-nu-soul-hip-hop-tickets-DC81VQ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3508,6 +3725,7 @@
       "date_text": "2026-08-27",
       "start": "2026-08-27",
       "end": "2026-08-27",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/soho-explorer-jazz-sessions-from-the-piano-bar-tickets-HWTYLG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3523,6 +3741,7 @@
       "date_text": "2026-08-27",
       "start": "2026-08-27",
       "end": "2026-08-27",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/round-41-live-jazz-and-fusion-night-tickets-Z40R35?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3538,6 +3757,7 @@
       "date_text": "2026-08-27",
       "start": "2026-08-27",
       "end": "2026-08-27",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-cocktail-set-from-piano-bar-at-red-room-studios-soho-live-jazz-tickets-NVX0BP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3553,6 +3773,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3568,6 +3789,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/ray-gelato-and-the-giants-soul-mama-islington-tickets-SRD31W?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3583,6 +3805,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/live-jazz-from-the-piano-bar-at-red-room-studios-soho-tickets-ZD6FXL?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3598,6 +3821,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/levitation-orchestra-tickets-HFC6S4?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3613,6 +3837,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-5MVRND?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3628,6 +3853,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/soho-spotlight-friday-live-performance-tickets-8MFLRB?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3643,6 +3869,7 @@
       "date_text": "2026-08-28",
       "start": "2026-08-28",
       "end": "2026-08-28",
+      "time": "22:30",
       "price": "",
       "url": "https://www.universe.com/events/juls-4-fridays-at-jazz-cafe-summer-residency-week-3-tickets-Y3KWHP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3658,6 +3885,7 @@
       "date_text": "2026-08-29",
       "start": "2026-08-29",
       "end": "2026-08-29",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3673,6 +3901,7 @@
       "date_text": "2026-08-29",
       "start": "2026-08-29",
       "end": "2026-08-29",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/shez-raja-ft-guthrie-govan-jazz-cafe-tickets/13969004?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3688,6 +3917,7 @@
       "date_text": "2026-08-29",
       "start": "2026-08-29",
       "end": "2026-08-29",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/shez-raja-ft-guthrie-govan-jazz-cafe-tickets/13968414?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3703,6 +3933,7 @@
       "date_text": "2026-09-02",
       "start": "2026-09-02",
       "end": "2026-09-02",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/misha-panfilov-septet-postponed-new-date-tbc-tickets-5TW97Y?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3718,6 +3949,7 @@
       "date_text": "2026-09-03",
       "start": "2026-09-03",
       "end": "2026-09-03",
+      "time": "18:00",
       "price": "",
       "url": "https://www.universe.com/events/mario-bakuna-brazilian-landscapes-tickets-KLSMCQ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3733,6 +3965,7 @@
       "date_text": "2026-09-04",
       "start": "2026-09-04",
       "end": "2026-09-04",
+      "time": "22:30",
       "price": "",
       "url": "https://www.universe.com/events/juls-4-fridays-at-jazz-cafe-summer-residency-week-4-tickets-93PZLT?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3748,6 +3981,7 @@
       "date_text": "2026-09-10",
       "start": "2026-09-10",
       "end": "2026-09-10",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/bruno-pernadas-tickets-TRMQ0K?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3763,6 +3997,7 @@
       "date_text": "2026-09-11",
       "start": "2026-09-11",
       "end": "2026-09-11",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-8XB96T?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3778,6 +4013,7 @@
       "date_text": "2026-09-12",
       "start": "2026-09-12",
       "end": "2026-09-12",
+      "time": "13:00",
       "price": "",
       "url": "https://www.universe.com/events/saturday-jazz-lunch-frank-dean-tickets-0SH5LP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3793,6 +4029,7 @@
       "date_text": "2026-09-12",
       "start": "2026-09-12",
       "end": "2026-09-12",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/china-moses-jazz-cafe-tickets/14130734?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3808,6 +4045,7 @@
       "date_text": "2026-09-12",
       "start": "2026-09-12",
       "end": "2026-09-12",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/china-moses-restaurant-jazz-cafe-tickets/14130744?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3823,6 +4061,7 @@
       "date_text": "2026-09-13",
       "start": "2026-09-13",
       "end": "2026-09-13",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/sambroso-all-stars-the-buena-vista-social-club-fathers-day-special-tickets-KB5H21?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3838,6 +4077,7 @@
       "date_text": "2026-09-16",
       "start": "2026-09-16",
       "end": "2026-09-16",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/future-jazz-showcase-tickets-FNG4D7?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3853,6 +4093,7 @@
       "date_text": "2026-09-17",
       "start": "2026-09-17",
       "end": "2026-09-17",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/the-bad-plus-farewell-tour-tickets-HJC38W?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3868,6 +4109,7 @@
       "date_text": "2026-09-18",
       "start": "2026-09-18",
       "end": "2026-09-18",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/the-wonder-of-stevie-with-noel-mccalla-derek-nash-tickets-T7BGKH?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3883,6 +4125,7 @@
       "date_text": "2026-09-18",
       "start": "2026-09-18",
       "end": "2026-09-18",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/najee-under-the-moon-over-the-sky-tour-tickets-3PDQLC?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3898,6 +4141,7 @@
       "date_text": "2026-09-19",
       "start": "2026-09-19",
       "end": "2026-09-19",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/najee-under-the-moon-over-the-sky-tour-tickets-3PDQLC?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3913,6 +4157,7 @@
       "date_text": "2026-09-21",
       "start": "2026-09-21",
       "end": "2026-09-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/carmichael-musiclover-tickets-79FCWH?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3928,6 +4173,7 @@
       "date_text": "2026-09-22",
       "start": "2026-09-22",
       "end": "2026-09-22",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/mara-jos-llergo-new-date-jazz-cafe-tickets/13903064?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3943,6 +4189,7 @@
       "date_text": "2026-09-22",
       "start": "2026-09-22",
       "end": "2026-09-22",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/mara-jos-llergo-jazz-cafe-tickets/13903074?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -3958,6 +4205,7 @@
       "date_text": "2026-09-22",
       "start": "2026-09-22",
       "end": "2026-09-22",
+      "time": "19:45",
       "price": "",
       "url": "https://www.universe.com/events/finn-carter-septet-tickets-LG9XF4?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3973,6 +4221,7 @@
       "date_text": "2026-09-23",
       "start": "2026-09-23",
       "end": "2026-09-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/richard-spaven-tickets-4962YS?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -3988,6 +4237,7 @@
       "date_text": "2026-09-25",
       "start": "2026-09-25",
       "end": "2026-09-25",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/dele-sosimi-afrobeat-orchestra-tickets-QDCW1M?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4003,6 +4253,7 @@
       "date_text": "2026-09-25",
       "start": "2026-09-25",
       "end": "2026-09-25",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-J84V3R?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4018,6 +4269,7 @@
       "date_text": "2026-09-26",
       "start": "2026-09-26",
       "end": "2026-09-26",
+      "time": "21:00",
       "price": "",
       "url": "https://www.universe.com/events/whitney-houston-janine-johnson-tickets-S13QYJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4033,6 +4285,7 @@
       "date_text": "2026-09-28",
       "start": "2026-09-28",
       "end": "2026-09-28",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/josh-meader-trio-tickets-RH9ZDN?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4048,6 +4301,7 @@
       "date_text": "3 October 2026 - 31 January 2027",
       "start": "2026-10-03",
       "end": "2027-01-31",
+      "time": "",
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
       "source": "National Gallery"
@@ -4063,6 +4317,7 @@
       "date_text": "2026-10-08",
       "start": "2026-10-08",
       "end": "2026-10-08",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/ian-shaw-james-pearson-tickets-92T4Z3?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4078,6 +4333,7 @@
       "date_text": "2026-10-08",
       "start": "2026-10-08",
       "end": "2026-10-08",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/mansur-brown-islington-assembly-hall-tickets/14941313?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4093,6 +4349,7 @@
       "date_text": "8 October 2026 - 14 February 2027",
       "start": "2026-10-08",
       "end": "2027-02-14",
+      "time": "",
       "price": "£22",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
       "source": "Tate"
@@ -4108,6 +4365,7 @@
       "date_text": "2026-10-09",
       "start": "2026-10-09",
       "end": "2026-10-09",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-C0D5S3?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4123,6 +4381,7 @@
       "date_text": "2026-10-10",
       "start": "2026-10-10",
       "end": "2026-10-10",
+      "time": "13:00",
       "price": "",
       "url": "https://www.universe.com/events/saturday-jazz-lunch-frank-dean-tickets-DGSQ8R?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4138,6 +4397,7 @@
       "date_text": "2026-10-11",
       "start": "2026-10-11",
       "end": "2026-10-11",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/gil-scottheron-by-brian-jackson-yasiin-london-11-10-2026/event/1F0064CBA32E8B03",
       "source": "Ticketmaster"
@@ -4153,6 +4413,7 @@
       "date_text": "2026-10-12",
       "start": "2026-10-12",
       "end": "2026-10-12",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/azymuth-tickets-15JF4X?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4168,6 +4429,7 @@
       "date_text": "2026-10-14",
       "start": "2026-10-14",
       "end": "2026-10-14",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/jazmin-ghent-tickets-JWMNFH?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4183,6 +4445,7 @@
       "date_text": "14 October 2026 - 21 February 2027",
       "start": "2026-10-14",
       "end": "2027-02-21",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
       "source": "Tate"
@@ -4198,6 +4461,7 @@
       "date_text": "15 October 2026 - 7 February 2027",
       "start": "2026-10-15",
       "end": "2027-02-07",
+      "time": "",
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
       "source": "National Gallery"
@@ -4213,6 +4477,7 @@
       "date_text": "2026-10-17",
       "start": "2026-10-17",
       "end": "2026-10-17",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/crackazat-jimpster-live-tickets-N78YZ9?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4228,6 +4493,7 @@
       "date_text": "2026-10-18",
       "start": "2026-10-18",
       "end": "2026-10-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/mike-lindup-trio-tickets-KV96XJ?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4243,6 +4509,7 @@
       "date_text": "2026-10-21",
       "start": "2026-10-21",
       "end": "2026-10-21",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/nectar-woode-tickets-N61B7Q?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4258,6 +4525,7 @@
       "date_text": "2026-10-23",
       "start": "2026-10-23",
       "end": "2026-10-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/the-kilimanjaro-darkjazz-ensemble-jazz-cafe-tickets/14151784?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4273,6 +4541,7 @@
       "date_text": "2026-10-23",
       "start": "2026-10-23",
       "end": "2026-10-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/the-kilimanjaro-darkjazz-ensemble-jazz-cafe-tickets/14151774?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4288,6 +4557,7 @@
       "date_text": "2026-10-23",
       "start": "2026-10-23",
       "end": "2026-10-23",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-FYJZN2?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4303,6 +4573,7 @@
       "date_text": "2026-10-28",
       "start": "2026-10-28",
       "end": "2026-10-28",
+      "time": "20:30",
       "price": "",
       "url": "https://www.universe.com/events/the-wonder-of-stevie-tickets-71KQ06?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4318,6 +4589,7 @@
       "date_text": "2026-10-29",
       "start": "2026-10-29",
       "end": "2026-10-29",
+      "time": "21:00",
       "price": "",
       "url": "https://www.universe.com/events/queen-by-the-bohemians-tickets-DYV58H?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4333,6 +4605,7 @@
       "date_text": "2026-10-30",
       "start": "2026-10-30",
       "end": "2026-10-30",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/give-me-the-night-george-benson-s-greatest-hits-tickets-YSGR9P?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4348,6 +4621,7 @@
       "date_text": "2026-10-31",
       "start": "2026-10-31",
       "end": "2026-10-31",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/pieces-of-a-dream-tickets-N8CZHG?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4363,6 +4637,7 @@
       "date_text": "2026-10-31",
       "start": "2026-10-31",
       "end": "2026-10-31",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/okvsho-experience-tickets-NVM04C?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4378,6 +4653,7 @@
       "date_text": "2026-11-01",
       "start": "2026-11-01",
       "end": "2026-11-01",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/okonski-tickets-47JGTR?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4393,6 +4669,7 @@
       "date_text": "2026-11-04",
       "start": "2026-11-04",
       "end": "2026-11-04",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/calibro-35-tickets-721BCS?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4408,6 +4685,7 @@
       "date_text": "2026-11-05",
       "start": "2026-11-05",
       "end": "2026-11-05",
+      "time": "19:30",
       "price": "",
       "url": "https://www.universe.com/events/celine-cairo-tickets-B83NHR?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4423,6 +4701,7 @@
       "date_text": "2026-11-06",
       "start": "2026-11-06",
       "end": "2026-11-06",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/leo-green-presents-the-secret-sax-party-tickets-XV46T5?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4438,6 +4717,7 @@
       "date_text": "2026-11-07",
       "start": "2026-11-07",
       "end": "2026-11-07",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/viva-salsa-ft-orchestra-mambo-international-tickets-BDSR80?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4453,6 +4733,7 @@
       "date_text": "2026-11-08",
       "start": "2026-11-08",
       "end": "2026-11-08",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/infinity-song-london-08-11-2026/event/1F0062FCEDFF2747",
       "source": "Ticketmaster"
@@ -4468,6 +4749,7 @@
       "date_text": "2026-11-12",
       "start": "2026-11-12",
       "end": "2026-11-12",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/nine-below-zero-live-at-the-marquee-45th-anniversary-concert-tickets-0QVZWM?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4483,6 +4765,7 @@
       "date_text": "12 November 2026 - 11 April 2027",
       "start": "2026-11-12",
       "end": "2027-04-11",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
       "source": "Tate"
@@ -4498,6 +4781,7 @@
       "date_text": "2026-11-13",
       "start": "2026-11-13",
       "end": "2026-11-13",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/coltrane-100-lovano-aldana-makhathini-oh-london-13-11-2026/event/35006477E11094EC",
       "source": "Ticketmaster"
@@ -4513,6 +4797,7 @@
       "date_text": "2026-11-15",
       "start": "2026-11-15",
       "end": "2026-11-15",
+      "time": "18:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/lizz-wright-london-15-11-2026/event/1F006477BCFF4FC4",
       "source": "Ticketmaster"
@@ -4528,6 +4813,7 @@
       "date_text": "2026-11-15",
       "start": "2026-11-15",
       "end": "2026-11-15",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/anouar-brahem-after-the-last-sky-london-15-11-2026/event/35006477C22676CD",
       "source": "Ticketmaster"
@@ -4543,6 +4829,7 @@
       "date_text": "2026-11-16",
       "start": "2026-11-16",
       "end": "2026-11-16",
+      "time": "18:45",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/melody-gardot-london-16-11-2026/event/1F0064BCAA187215",
       "source": "Ticketmaster"
@@ -4558,6 +4845,7 @@
       "date_text": "2026-11-18",
       "start": "2026-11-18",
       "end": "2026-11-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/rymden-restaurant-jazz-cafe-tickets/14076424?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4573,6 +4861,7 @@
       "date_text": "2026-11-18",
       "start": "2026-11-18",
       "end": "2026-11-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/rymden-jazz-cafe-tickets/14076414?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4588,6 +4877,7 @@
       "date_text": "2026-11-19",
       "start": "2026-11-19",
       "end": "2026-11-19",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/isaiah-sharkey-red-tickets-Q4DHGY?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4603,6 +4893,7 @@
       "date_text": "2026-11-20",
       "start": "2026-11-20",
       "end": "2026-11-20",
+      "time": "20:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/kronos-quartet-london-20-11-2026/event/Zor9uZKbZL4Ze3-6dZ7",
       "source": "Ticketmaster"
@@ -4618,6 +4909,7 @@
       "date_text": "2026-11-21",
       "start": "2026-11-21",
       "end": "2026-11-21",
+      "time": "18:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/branford-marsalis-dianne-reeves-celebrate-john-london-21-11-2026/event/3700647B833C150D",
       "source": "Ticketmaster"
@@ -4633,6 +4925,7 @@
       "date_text": "2026-11-21",
       "start": "2026-11-21",
       "end": "2026-11-21",
+      "time": "19:30",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/gerald-clayton-trio-london-21-11-2026/event/1F0064C1E482A67C",
       "source": "Ticketmaster"
@@ -4648,6 +4941,7 @@
       "date_text": "21 November 2026 - 11 April 2027",
       "start": "2026-11-21",
       "end": "2027-04-11",
+      "time": "",
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
       "source": "National Gallery"
@@ -4663,6 +4957,7 @@
       "date_text": "2026-11-22",
       "start": "2026-11-22",
       "end": "2026-11-22",
+      "time": "19:30",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1HW66-samara-joy/#date=2026-11-22&perf=1HW66-2&time=7.30PM",
       "source": "Ticketmaster"
@@ -4678,6 +4973,7 @@
       "date_text": "2026-12-02",
       "start": "2026-12-02",
       "end": "2026-12-02",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/daoud-tickets-SBJRP3?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4693,6 +4989,7 @@
       "date_text": "2026-12-04",
       "start": "2026-12-04",
       "end": "2026-12-04",
+      "time": "23:00",
       "price": "",
       "url": "https://www.universe.com/events/nt-soundsystem-tickets-GMLWD5?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4708,6 +5005,7 @@
       "date_text": "2026-12-18",
       "start": "2026-12-18",
       "end": "2026-12-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/dexter-wansel-jazz-cafe-tickets/14666133?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4723,6 +5021,7 @@
       "date_text": "2026-12-18",
       "start": "2026-12-18",
       "end": "2026-12-18",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/dexter-wansel-restaurant-jazz-cafe-tickets/14666193?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4738,6 +5037,7 @@
       "date_text": "2026-12-19",
       "start": "2026-12-19",
       "end": "2026-12-19",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/dexter-wansel-jazz-cafe-tickets/14666143?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4753,6 +5053,7 @@
       "date_text": "2026-12-19",
       "start": "2026-12-19",
       "end": "2026-12-19",
+      "time": "19:00",
       "price": "",
       "url": "https://www.ticketweb.uk/event/dexter-wansel-restaurant-jazz-cafe-tickets/14666203?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
@@ -4768,6 +5069,7 @@
       "date_text": "2027-01-29",
       "start": "2027-01-29",
       "end": "2027-01-29",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/the-fabulous-thunderbirds-tickets-YT273H?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4783,6 +5085,7 @@
       "date_text": "2027-01-30",
       "start": "2027-01-30",
       "end": "2027-01-30",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/the-fabulous-thunderbirds-tickets-FY2SXP?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4798,6 +5101,7 @@
       "date_text": "2027-02-13",
       "start": "2027-02-13",
       "end": "2027-02-13",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/bishopsaxz-love-experience-tickets-2BNTR3?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4813,6 +5117,7 @@
       "date_text": "2027-02-13",
       "start": "2027-02-13",
       "end": "2027-02-13",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/tom-browne-the-brit-funk-association-tickets-N7TDQS?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4828,6 +5133,7 @@
       "date_text": "2027-02-20",
       "start": "2027-02-20",
       "end": "2027-02-20",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/ray-gelato-and-the-giants-tickets-PS0938?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4843,6 +5149,7 @@
       "date_text": "25 February - 27 June 2027",
       "start": "2027-02-25",
       "end": "2027-06-27",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/monet",
       "source": "Tate"
@@ -4858,6 +5165,7 @@
       "date_text": "4 March - 30 May 2027",
       "start": "2027-03-04",
       "end": "2027-05-30",
+      "time": "",
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
       "source": "National Gallery"
@@ -4873,6 +5181,7 @@
       "date_text": "2027-03-13",
       "start": "2027-03-13",
       "end": "2027-03-13",
+      "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/the-next-movement-karma-dojo-tour-tickets-920CT4?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4888,6 +5197,7 @@
       "date_text": "20 March 2027 - 1 August 2027",
       "start": "2027-03-20",
       "end": "2027-08-01",
+      "time": "",
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
       "source": "National Gallery"
@@ -4903,6 +5213,7 @@
       "date_text": "24 March - 22 August 2027",
       "start": "2027-03-24",
       "end": "2027-08-22",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/sonia-boyce",
       "source": "Tate"
@@ -4918,6 +5229,7 @@
       "date_text": "22 April - 30 August 2027",
       "start": "2027-04-22",
       "end": "2027-08-30",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ink",
       "source": "Tate"
@@ -4933,6 +5245,7 @@
       "date_text": "2027-05-04",
       "start": "2027-05-04",
       "end": "2027-05-04",
+      "time": "19:00",
       "price": "",
       "url": "https://www.universe.com/events/albert-lee-tickets-H5KYQ2?ref=ticketmaster",
       "source": "Ticketmaster"
@@ -4948,6 +5261,7 @@
       "date_text": "20 May - 10 October 2027",
       "start": "2027-05-20",
       "end": "2027-10-10",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/thomas-gainsborough",
       "source": "Tate"
@@ -4963,6 +5277,7 @@
       "date_text": "10 June - 17 October 2027",
       "start": "2027-06-10",
       "end": "2027-10-17",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/baya",
       "source": "Tate"
@@ -4978,6 +5293,7 @@
       "date_text": "1 July 2027 - 3 January 2028",
       "start": "2027-07-01",
       "end": "2028-01-03",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/nalini-malani",
       "source": "Tate"
@@ -4993,6 +5309,7 @@
       "date_text": "30 September 2027 - 5 March 2028",
       "start": "2027-09-30",
       "end": "2028-03-05",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/lynda-benglis",
       "source": "Tate"
@@ -5008,6 +5325,7 @@
       "date_text": "11 November 2027 - 23 April 2028",
       "start": "2027-11-11",
       "end": "2028-04-23",
+      "time": "",
       "price": "Free",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/edvard-munch",
       "source": "Tate"
@@ -5023,6 +5341,7 @@
       "date_text": "Until 23 August 2026",
       "start": null,
       "end": "2026-08-23",
+      "time": "",
       "price": "£18",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/hurvin-anderson",
       "source": "Tate"
@@ -5038,6 +5357,7 @@
       "date_text": "Until 31 August 2026",
       "start": null,
       "end": "2026-08-31",
+      "time": "",
       "price": "£61",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/tracey-emin",
       "source": "Tate"
@@ -5053,6 +5373,7 @@
       "date_text": "Until 27 September 2026",
       "start": null,
       "end": "2026-09-27",
+      "time": "",
       "price": "£5",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/whistler",
       "source": "Tate"
@@ -5068,6 +5389,7 @@
       "date_text": "Until 23 August 2026",
       "start": null,
       "end": "2026-08-23",
+      "time": "",
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/zurbaran",
       "source": "National Gallery"
@@ -5083,6 +5405,7 @@
       "date_text": "Until 31 August 2026",
       "start": null,
       "end": "2026-08-31",
+      "time": "",
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/take-one-picture-2026",
       "source": "National Gallery"
@@ -5098,6 +5421,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2025/event/concrete-and-clay-archiving-the-barbican",
       "source": "Barbican"
@@ -5113,23 +5437,9 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/in-other-worlds",
-      "source": "Barbican"
-    },
-    {
-      "id": "c694d62750e3",
-      "category": "event",
-      "title": "Architecture Tours",
-      "subtitle": "",
-      "type": "Tours & public spaces",
-      "venue": "Barbican Centre",
-      "area": "London",
-      "date_text": "",
-      "start": null,
-      "end": null,
-      "price": "",
-      "url": "https://www.barbican.org.uk/whats-on/2026/event/architecture-tours",
       "source": "Barbican"
     },
     {
@@ -5143,6 +5453,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-the-art-and-culture-of-panafrica",
       "source": "Barbican"
@@ -5158,8 +5469,25 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/backstage-tours",
+      "source": "Barbican"
+    },
+    {
+      "id": "c694d62750e3",
+      "category": "event",
+      "title": "Architecture Tours",
+      "subtitle": "",
+      "type": "Tours & public spaces",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "",
+      "start": null,
+      "end": null,
+      "time": "",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/architecture-tours",
       "source": "Barbican"
     },
     {
@@ -5173,6 +5501,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/delcy-morelos-origo",
       "source": "Barbican"
@@ -5188,6 +5517,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/family-film-club-safety-last-live-musical-accompaniment",
       "source": "Barbican"
@@ -5203,6 +5533,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-disclosure-day",
       "source": "Barbican"
@@ -5218,6 +5549,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/barbican-young-poets-open-works-2026",
       "source": "Barbican"
@@ -5233,6 +5565,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory",
       "source": "Barbican"
@@ -5248,6 +5581,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/cole-porter-high-society",
       "source": "Barbican"
@@ -5263,6 +5597,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/disclosure-day",
       "source": "Barbican"
@@ -5278,6 +5613,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/tuner",
       "source": "Barbican"
@@ -5293,6 +5629,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/nino",
       "source": "Barbican"
@@ -5308,6 +5645,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/tyshawn-sorey-pat-thomas",
       "source": "Barbican"
@@ -5323,6 +5661,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/cactus-pears",
       "source": "Barbican"
@@ -5338,6 +5677,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/backrooms",
       "source": "Barbican"
@@ -5353,6 +5693,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/opera-makers-2026",
       "source": "Barbican"
@@ -5368,6 +5709,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/rohan-ayinde-and-tayo-rapoport-present-emi-freedomsong",
       "source": "Barbican"
@@ -5383,6 +5725,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/meshell-ndegeocello-eska",
       "source": "Barbican"
@@ -5398,6 +5741,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/familiar-touch",
       "source": "Barbican"
@@ -5413,6 +5757,7 @@
       "date_text": "",
       "start": null,
       "end": null,
+      "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/members-screening-disclosure-day",
       "source": "Barbican"
