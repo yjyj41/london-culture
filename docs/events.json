@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28 08:33 UTC",
-  "count": 369,
+  "updated": "2026-07-29 08:39 UTC",
+  "count": 376,
   "events": [
     {
       "id": "65d0bf8f8a3e",
@@ -19,132 +19,20 @@
       "source": "Tate"
     },
     {
-      "id": "b4858f3aca5e",
-      "category": "music",
-      "title": "Dave Sear Sextet",
+      "id": "c7e46882715a",
+      "category": "exhibition",
+      "title": "Monet and Renoir: Painting Side by Side",
       "subtitle": "",
-      "type": "Jazz",
-      "venue": "Vortex Jazz Club",
+      "type": "Exhibition",
+      "venue": "National Gallery",
       "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "19:45",
-      "price": "",
-      "url": "https://www.universe.com/events/dave-sear-sextet-tickets-VM6N82?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "e08aec48c4d1",
-      "category": "music",
-      "title": "Frank Sinatra & Friends with Marilyn Monroe",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Boisdale, Canary Wharf",
-      "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "20:30",
-      "price": "",
-      "url": "https://www.universe.com/events/frank-sinatra-friends-with-marilyn-monroe-tickets-84TQ7N?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "e375371295f3",
-      "category": "music",
-      "title": "Bruno Mars - The Romantic Tour",
-      "subtitle": "",
-      "type": "Pop",
-      "venue": "Wembley Stadium",
-      "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "17:00",
-      "price": "",
-      "url": "https://www.ticketmaster.co.uk/bruno-mars-the-romantic-tour-london-28-07-2026/event/23006427FA0D0F8E",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "89a05095f0e8",
-      "category": "music",
-      "title": "Bear McCreary: The Singularity",
-      "subtitle": "",
-      "type": "Rock",
-      "venue": "Islington Assembly Hall",
-      "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "19:00",
-      "price": "",
-      "url": "https://www.ticketmaster.co.uk/bear-mccreary-the-singularity-london-28-07-2026/event/1F00646A8EE91E42",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "afc8564dcb83",
-      "category": "music",
-      "title": "Ustad Noor Bakhsh",
-      "subtitle": "",
-      "type": "World",
-      "venue": "Jazz Cafe",
-      "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "19:00",
-      "price": "",
-      "url": "https://www.universe.com/events/ustad-noor-bakhsh-tickets-VC53XT?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "38784362d150",
-      "category": "music",
-      "title": "The Van Morrison Alumni Band",
-      "subtitle": "",
-      "type": "Rock",
-      "venue": "Emerald Theatre",
-      "area": "London",
-      "date_text": "2026-07-28",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "19:30",
-      "price": "",
-      "url": "https://www.universe.com/events/the-van-morrison-alumni-band-tickets-K9G56N?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
-      "id": "17471d3ae0cb",
-      "category": "music",
-      "title": "Ilya Gringolts",
-      "subtitle": "violin, ;, Lawrence Power",
-      "type": "Classical",
-      "venue": "Wigmore Hall",
-      "area": "London",
-      "date_text": "28.07.2026 19:30",
-      "start": "2026-07-28",
-      "end": "2026-07-28",
-      "time": "19:30",
-      "price": "",
-      "url": "https://www.wigmore-hall.org.uk/whats-on/202607281930",
-      "source": "Wigmore Hall"
-    },
-    {
-      "id": "3ecd3ca17338",
-      "category": "event",
-      "title": "1996: A celebration of the wildest year of Britain’s wildest",
-      "subtitle": "",
-      "type": "Tours & public spaces",
-      "venue": "Barbican Centre",
-      "area": "London",
-      "date_text": "2026-07-28 - 2026-07-30",
-      "start": "2026-07-28",
-      "end": "2026-07-30",
-      "time": "09:30",
-      "price": "",
-      "url": "https://www.barbican.org.uk/whats-on/2026/event/1996-a-celebration-of-the-wildest-year-of-britains-wildest",
-      "source": "Barbican"
+      "date_text": "27 July - 15 September 2026",
+      "start": "2026-07-27",
+      "end": "2026-09-15",
+      "time": "",
+      "price": "Free",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
+      "source": "National Gallery"
     },
     {
       "id": "4a63f513b5ba",
@@ -289,6 +177,22 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202607291930",
       "source": "Wigmore Hall"
+    },
+    {
+      "id": "984734052b2d",
+      "category": "event",
+      "title": "1996: A celebration of the wildest year of Britain’s wildest",
+      "subtitle": "",
+      "type": "Tours & public spaces",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "2026-07-29 - 2026-07-31",
+      "start": "2026-07-29",
+      "end": "2026-07-31",
+      "time": "09:30",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/1996-a-celebration-of-the-wildest-year-of-britains-wildest",
+      "source": "Barbican"
     },
     {
       "id": "b43bc208aa25",
@@ -771,6 +675,38 @@
       "source": "Ticketmaster"
     },
     {
+      "id": "d1d357077d3b",
+      "category": "music",
+      "title": "2K VIBEZ PRESENTS: KULTURE 2K",
+      "subtitle": "",
+      "type": "Dance/Electronic",
+      "venue": "Pop Brixton",
+      "area": "London",
+      "date_text": "2026-07-31",
+      "start": "2026-07-31",
+      "end": "2026-07-31",
+      "time": "18:00",
+      "price": "",
+      "url": "https://www.universe.com/events/2k-vibez-presents-kulture-2k-tickets-M1VQ6P?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "e7207087d4fd",
+      "category": "music",
+      "title": "Sugar Sugar",
+      "subtitle": "",
+      "type": "Dance/Electronic",
+      "venue": "Brixton Storeys",
+      "area": "London",
+      "date_text": "2026-07-31",
+      "start": "2026-07-31",
+      "end": "2026-07-31",
+      "time": "18:00",
+      "price": "",
+      "url": "https://www.universe.com/events/sugar-sugar-tickets-SFP2NV?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
       "id": "6f611f5f436c",
       "category": "music",
       "title": "Michael Mathers (Eminem Tribute)",
@@ -1059,22 +995,6 @@
       "source": "Ticketmaster"
     },
     {
-      "id": "45f867f47622",
-      "category": "music",
-      "title": "Cafe Mambo Ibiza London Rooftop Party",
-      "subtitle": "",
-      "type": "Dance/Electronic",
-      "venue": "The Broadcaster",
-      "area": "London",
-      "date_text": "2026-08-01",
-      "start": "2026-08-01",
-      "end": "2026-08-01",
-      "time": "13:00",
-      "price": "",
-      "url": "https://www.universe.com/events/cafe-mambo-ibiza-london-rooftop-party-tickets-LM5P0S?ref=ticketmaster",
-      "source": "Ticketmaster"
-    },
-    {
       "id": "48e2c88e7517",
       "category": "music",
       "title": "Dom Dolla on the Thames",
@@ -1139,6 +1059,22 @@
       "source": "Ticketmaster"
     },
     {
+      "id": "09b95631ceab",
+      "category": "music",
+      "title": "POUR DECISIONS - Free Day Party",
+      "subtitle": "",
+      "type": "Dance/Electronic",
+      "venue": "Pop Brixton",
+      "area": "London",
+      "date_text": "2026-08-01",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "time": "16:00",
+      "price": "",
+      "url": "https://www.universe.com/events/pour-decisions-free-day-party-tickets-XMQGW6?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
       "id": "e66c90369bac",
       "category": "music",
       "title": "Luke Combs - My Kinda Saturday Night",
@@ -1152,6 +1088,22 @@
       "time": "17:00",
       "price": "",
       "url": "https://www.ticketmaster.co.uk/luke-combs-my-kinda-saturday-night-london-01-08-2026/event/2300634808301C61",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "33e2bbf093d7",
+      "category": "music",
+      "title": "BRIXTON DAY PARTY - Jamaican Independence Rooftop Party",
+      "subtitle": "",
+      "type": "Concerts",
+      "venue": "Brixton Storeys",
+      "area": "London",
+      "date_text": "2026-08-01",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "time": "17:00",
+      "price": "",
+      "url": "https://www.universe.com/events/brixton-day-party-jamaican-independence-rooftop-party-tickets-LBFQ0H?ref=ticketmaster",
       "source": "Ticketmaster"
     },
     {
@@ -1296,6 +1248,22 @@
       "time": "21:00",
       "price": "",
       "url": "https://www.universe.com/events/suspiciously-elvis-tickets-8XC0BG?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "9d68aa3f0ae6",
+      "category": "music",
+      "title": "ThrowBaak",
+      "subtitle": "",
+      "type": "Dance/Electronic",
+      "venue": "Prince Of Wales",
+      "area": "London",
+      "date_text": "2026-08-01",
+      "start": "2026-08-01",
+      "end": "2026-08-01",
+      "time": "21:00",
+      "price": "",
+      "url": "https://www.universe.com/events/throwbaak-tickets-RWL3M0?ref=ticketmaster",
       "source": "Ticketmaster"
     },
     {
@@ -1523,6 +1491,22 @@
       "source": "Ticketmaster"
     },
     {
+      "id": "064a99eaf13c",
+      "category": "music",
+      "title": "BRIXTON DAY PARTY - FREE Summer Rooftop Day Party",
+      "subtitle": "",
+      "type": "Concerts",
+      "venue": "Brixton Storeys",
+      "area": "London",
+      "date_text": "2026-08-02",
+      "start": "2026-08-02",
+      "end": "2026-08-02",
+      "time": "17:00",
+      "price": "",
+      "url": "https://www.universe.com/events/brixton-day-party-free-summer-rooftop-day-party-tickets-7D86MV?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
       "id": "b30d0bcd84d5",
       "category": "music",
       "title": "Summer Walker",
@@ -1568,6 +1552,22 @@
       "time": "18:30",
       "price": "",
       "url": "https://www.universe.com/events/dinner-with-kele-le-roc-tickets-TC23XF?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "2c8e97fcefe6",
+      "category": "music",
+      "title": "Broken by the Scream",
+      "subtitle": "",
+      "type": "Metal",
+      "venue": "Downstairs at The Dome",
+      "area": "London",
+      "date_text": "2026-08-02",
+      "start": "2026-08-02",
+      "end": "2026-08-02",
+      "time": "19:00",
+      "price": "",
+      "url": "https://www.ticketweb.uk/event/broken-by-the-scream-downstairs-at-the-dome-tickets/14784323?REFERRAL_ID=tmfeed",
       "source": "Ticketmaster"
     },
     {
@@ -3011,6 +3011,22 @@
       "source": "Ticketmaster"
     },
     {
+      "id": "8474b4832db9",
+      "category": "music",
+      "title": "Olga Amelchenko 4tet",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex Jazz Club",
+      "area": "London",
+      "date_text": "2026-09-09",
+      "start": "2026-09-09",
+      "end": "2026-09-09",
+      "time": "19:45",
+      "price": "",
+      "url": "https://www.universe.com/events/olga-amelchenko-4tet-tickets-9GWC15?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
       "id": "8eeda26c1b79",
       "category": "music",
       "title": "The Gesualdo Six",
@@ -3328,6 +3344,22 @@
       "time": "19:30",
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609131930",
+      "source": "Wigmore Hall"
+    },
+    {
+      "id": "77123b7edf6e",
+      "category": "music",
+      "title": "Alice Coote",
+      "subtitle": "mezzo-soprano, ;, Sergey Rybin",
+      "type": "Classical",
+      "venue": "Wigmore Hall",
+      "area": "London",
+      "date_text": "14.09.2026 13:00",
+      "start": "2026-09-14",
+      "end": "2026-09-14",
+      "time": "13:00",
+      "price": "",
+      "url": "https://www.wigmore-hall.org.uk/whats-on/202609141300",
       "source": "Wigmore Hall"
     },
     {
@@ -3811,6 +3843,22 @@
       "source": "Ticketmaster"
     },
     {
+      "id": "7710b35fc73d",
+      "category": "music",
+      "title": "Celebrating Songwriters in Jazz - featuring Fini Bearman, Amena & Rosa Witt",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex Jazz Club",
+      "area": "London",
+      "date_text": "2026-09-25",
+      "start": "2026-09-25",
+      "end": "2026-09-25",
+      "time": "19:45",
+      "price": "",
+      "url": "https://www.universe.com/events/celebrating-songwriters-in-jazz-featuring-fini-bearman-amena-rosa-witt-tickets-46QNSR?ref=ticketmaster",
+      "source": "Ticketmaster"
+    },
+    {
       "id": "ed305d71eeb8",
       "category": "music",
       "title": "Belle Livingstone's 58th Street Country Club",
@@ -3824,6 +3872,22 @@
       "time": "13:00",
       "price": "",
       "url": "https://theatre.ticketmaster.co.uk/book/1HBYR-58th-street/#perf=1HBYR-150&date=2026-09-26&time=1.00PM",
+      "source": "Ticketmaster"
+    },
+    {
+      "id": "61f0fcc2bbd9",
+      "category": "music",
+      "title": "Gary Crosby & Denys Baptiste presents Sonny Rollins: Saxophone Colossus",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex Jazz Club",
+      "area": "London",
+      "date_text": "2026-09-26",
+      "start": "2026-09-26",
+      "end": "2026-09-26",
+      "time": "19:45",
+      "price": "",
+      "url": "https://www.universe.com/events/gary-crosby-denys-baptiste-presents-sonny-rollins-saxophone-colossus-tickets-SZJL39?ref=ticketmaster",
       "source": "Ticketmaster"
     },
     {
@@ -4353,6 +4417,22 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
       "source": "National Gallery"
+    },
+    {
+      "id": "efa7ad3dff97",
+      "category": "music",
+      "title": "Matt Johnson",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Jazz Cafe",
+      "area": "London",
+      "date_text": "2026-10-16",
+      "start": "2026-10-16",
+      "end": "2026-10-16",
+      "time": "18:30",
+      "price": "",
+      "url": "https://www.universe.com/events/matt-johnson-tickets-1LTB50?ref=ticketmaster",
+      "source": "Ticketmaster"
     },
     {
       "id": "60735f652e04",
@@ -5795,9 +5875,9 @@
       "source": "Barbican"
     },
     {
-      "id": "1204627c30d0",
+      "id": "0aae5c4cb4c3",
       "category": "event",
-      "title": "Ask E. Jean",
+      "title": "The Invite",
       "subtitle": "",
       "type": "Cinema",
       "venue": "Barbican Centre",
@@ -5807,7 +5887,7 @@
       "end": null,
       "time": "",
       "price": "",
-      "url": "https://www.barbican.org.uk/whats-on/2026/event/ask-e-jean",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
       "source": "Barbican"
     },
     {
@@ -5827,6 +5907,22 @@
       "source": "Barbican"
     },
     {
+      "id": "d562b9419418",
+      "category": "exhibition",
+      "title": "Project a Black Planet BSL Tour",
+      "subtitle": "",
+      "type": "Art & design",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "",
+      "start": null,
+      "end": null,
+      "time": "",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-bsl-tour",
+      "source": "Barbican"
+    },
+    {
       "id": "6305794e4ea8",
       "category": "event",
       "title": "The Odyssey [35mm]",
@@ -5840,22 +5936,6 @@
       "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey-35mm",
-      "source": "Barbican"
-    },
-    {
-      "id": "0aae5c4cb4c3",
-      "category": "event",
-      "title": "The Invite",
-      "subtitle": "",
-      "type": "Cinema",
-      "venue": "Barbican Centre",
-      "area": "London",
-      "date_text": "",
-      "start": null,
-      "end": null,
-      "time": "",
-      "price": "",
-      "url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
       "source": "Barbican"
     },
     {
@@ -5875,22 +5955,6 @@
       "source": "Barbican"
     },
     {
-      "id": "d562b9419418",
-      "category": "exhibition",
-      "title": "Project a Black Planet BSL Tour",
-      "subtitle": "",
-      "type": "Art & design",
-      "venue": "Barbican Centre",
-      "area": "London",
-      "date_text": "",
-      "start": null,
-      "end": null,
-      "time": "",
-      "price": "",
-      "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-bsl-tour",
-      "source": "Barbican"
-    },
-    {
       "id": "afb2054d502a",
       "category": "event",
       "title": "Obsession",
@@ -5904,6 +5968,54 @@
       "time": "",
       "price": "",
       "url": "https://www.barbican.org.uk/whats-on/2026/event/obsession",
+      "source": "Barbican"
+    },
+    {
+      "id": "13e643401b9d",
+      "category": "exhibition",
+      "title": "Sankofa Community Carnival: Costume-Making Workshops",
+      "subtitle": "",
+      "type": "Take part",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "",
+      "start": null,
+      "end": null,
+      "time": "",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/sankofa-community-carnival-costume-making-workshops",
+      "source": "Barbican"
+    },
+    {
+      "id": "3b7cb3cd71ab",
+      "category": "event",
+      "title": "Experiments in Film: Selected 16",
+      "subtitle": "",
+      "type": "Cinema",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "",
+      "start": null,
+      "end": null,
+      "time": "",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/experiments-in-film-selected-16",
+      "source": "Barbican"
+    },
+    {
+      "id": "3b339bdf4e73",
+      "category": "theatre",
+      "title": "Death Note: The Musical",
+      "subtitle": "",
+      "type": "Theatre & dance",
+      "venue": "Barbican Centre",
+      "area": "London",
+      "date_text": "",
+      "start": null,
+      "end": null,
+      "time": "",
+      "price": "",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/death-note-the-musical",
       "source": "Barbican"
     }
   ]
