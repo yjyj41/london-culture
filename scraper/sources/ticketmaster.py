@@ -1,101 +1,67 @@
-"""
-Ticketmaster Discovery API.
-
-Used here in a FOCUSED way so it doesn't flood the archive (a broad London
-"Music" pull returns ~700 events). We fetch:
-  1. ALL London jazz   (classificationName=Jazz)         -> the user's ask
-  2. A small sample of upcoming concerts (segmentName=Music, 1 page)
-
-Free key: https://developer.ticketmaster.com/  -> env var TICKETMASTER_API_KEY
-Free tier: 5000 calls/day, 5 req/sec.
-"""
+"""Search watched artists individually so distant major concerts are not lost."""
 import os
 import time
 import requests
 from normalize import event
+from curation import PREFERENCES, classify
 
 API = 'https://app.ticketmaster.com/discovery/v2/events.json'
 
-# (label, extra query params, max pages to pull)
-QUERIES = [
-    ('Jazz',     {'classificationName': 'Jazz'}, 3),   # all jazz in London
-    ('Concerts', {'segmentName': 'Music'},       1),   # small concert sample
-]
-
-
-def _price(ev):
-    pr = ev.get('priceRanges') or []
-    if not pr:
-        return ''
-    mn = pr[0].get('min')
-    cur = pr[0].get('currency', 'GBP')
-    sym = '£' if cur == 'GBP' else ''
-    return f'{sym}{int(mn)}~' if mn else ''
-
+def parse(ev):
+    if (ev.get('dates') or {}).get('status', {}).get('code') in ('cancelled', 'postponed'):
+        return None
+    embedded = ev.get('_embedded') or {}
+    venues = embedded.get('venues') or [{}]
+    cls = (ev.get('classifications') or [{}])[0]
+    genres = [(cls.get(k) or {}).get('name', '') for k in ('genre', 'subGenre')]
+    genre = next((g for g in reversed(genres) if g not in ('', 'Undefined')), 'Other')
+    dates = (ev.get('dates') or {}).get('start', {})
+    if dates.get('dateTBA') or dates.get('dateTBD') or not dates.get('localDate'):
+        return None
+    prices = ev.get('priceRanges') or []
+    price = ''
+    if prices and prices[0].get('min') is not None:
+        symbol = '£' if prices[0].get('currency') == 'GBP' else prices[0].get('currency', '')
+        price = f"{symbol}{prices[0]['min']:g}부터"
+    result = event('music', ev.get('name', ''), ev.get('url', ''), 'Ticketmaster',
+                   etype=genre, venue=venues[0].get('name', ''), area='London',
+                   start=dates['localDate'], end=dates['localDate'],
+                   time='' if dates.get('timeTBA') else (dates.get('localTime') or '')[:5],
+                   price=price)
+    result.update(artists=[a.get('name', '') for a in embedded.get('attractions', [])],
+                  genres=genres, genre=genre)
+    return classify(result)
 
 def fetch():
     key = os.environ.get('TICKETMASTER_API_KEY')
     if not key:
-        print('  [ticketmaster] TICKETMASTER_API_KEY not set - skipping')
-        return []
-
+        raise RuntimeError('TICKETMASTER_API_KEY is not configured')
+    queries = [{'keyword': n} for n in dict.fromkeys(PREFERENCES['headline_artists'] + PREFERENCES['korean_artists'])]
+    queries.append({'classificationName': 'K-Pop'})
     out, seen = [], set()
-    for label, extra, max_pages in QUERIES:
-        page = 0
-        while page < max_pages:
-            params = {
-                'apikey': key,
-                'city': 'London',
-                'countryCode': 'GB',
-                'sort': 'date,asc',
-                'size': 100,
-                'page': page,
-                'startDateTime': time.strftime('%Y-%m-%dT00:00:00Z'),
-                **extra,
-            }
+    for query in queries:
+        for page in range(5):
+            params = dict(apikey=key, city='London', countryCode='GB', segmentName='Music',
+                          sort='date,asc', size=200, page=page,
+                          startDateTime=time.strftime('%Y-%m-%dT00:00:00Z'), **query)
+            # Do not log exception URLs: they contain the API key.
             try:
                 r = requests.get(API, params=params, timeout=30)
                 r.raise_for_status()
                 data = r.json()
-            except Exception as e:
-                print(f'  [ticketmaster] {label} page {page} error: {e}')
-                break
-
-            events = (data.get('_embedded') or {}).get('events') or []
-            for ev in events:
-                eid = ev.get('id')
-                if eid in seen:
+            except Exception:
+                raise RuntimeError('Ticketmaster request failed; check API availability and quota') from None
+            for raw in (data.get('_embedded') or {}).get('events', []):
+                if raw.get('id') in seen:
                     continue
-                seen.add(eid)
-                cls = (ev.get('classifications') or [{}])[0]
-                genre = (cls.get('genre') or {}).get('name', '')
-                venues = (ev.get('_embedded') or {}).get('venues') or [{}]
-                venue = venues[0].get('name', '')
-                area = (venues[0].get('city') or {}).get('name', '')
-                sdate = (ev.get('dates') or {}).get('start', {})
-                start = sdate.get('localDate')
-                ltime = (sdate.get('localTime') or '')[:5]  # "19:30"
-                etype = genre if genre and genre != 'Undefined' else label
-                out.append(event(
-                    category='music',
-                    title=ev.get('name', ''),
-                    url=ev.get('url', ''),
-                    source='Ticketmaster',
-                    etype=etype,
-                    venue=venue,
-                    area=area,
-                    start=start,
-                    end=start,
-                    time=ltime,
-                    date_text=start or '',
-                    price=_price(ev),
-                ))
-
-            total = (data.get('page') or {}).get('totalPages', 1)
-            page += 1
-            if page >= total:
+                seen.add(raw.get('id'))
+                ev = parse(raw)
+                if ev:
+                    out.append(ev)
+            time.sleep(0.25)
+            if page + 1 >= (data.get('page') or {}).get('totalPages', 1):
                 break
-            time.sleep(0.3)
-
-    print(f'  [ticketmaster] {len(out)} events')
+        else:
+            raise RuntimeError('Ticketmaster query exceeded pagination limit')
     return out
+

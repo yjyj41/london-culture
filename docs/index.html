@@ -59,22 +59,39 @@
     .toolbar{top:0}.year{order:-1;font-size:12px;color:var(--muted)}
     .type,.loc{font-size:13px}.loc .sub,.type .src{display:inline;margin-left:6px}
   }
+
+  :root{--muted:#686868}
+  button,select,input{font:inherit}button,select{color:var(--ink)}button{cursor:pointer}
+  :focus-visible{outline:2px solid #32644d;outline-offset:4px}
+  .intro{padding:42px 40px 38px;background:#f5f5f1;border-bottom:1px solid var(--line)}
+  .eyebrow{font-size:10px;letter-spacing:2px;color:#647365}.intro h2{font-size:36px;line-height:1.25;letter-spacing:-1.4px;margin:16px 0;font-weight:500}.intro p{font-size:13px;color:var(--muted);line-height:1.9}
+  .filters{gap:12px 20px}.filters button{font-size:13px;border:0;border-bottom:1px solid transparent;padding:4px 0;background:none;color:var(--muted)}
+  .filters button.active{color:var(--ink);border-color:var(--ink);font-weight:700}.filters small{margin-left:5px;font-size:10px}
+  .toolbar{position:static}.thead{position:static}.options{padding:18px 40px;display:flex;flex-wrap:wrap;gap:16px;font-size:12px;border-bottom:1px solid var(--line);align-items:center}.options label{display:flex;gap:10px;align-items:center;color:var(--muted)}
+  select,.options button{border:1px solid var(--line);background:white;border-radius:3px;padding:7px 10px}.options button[aria-pressed="true"]{background:var(--ink);color:white}#reset{border:0;color:var(--muted)}
+  .context{padding:14px 40px;font-size:12px;color:var(--muted);line-height:1.8}.title-en{font-size:23px}.row{cursor:default}.title-en a:hover{text-decoration:underline;text-underline-offset:4px}.year{font-size:12px;line-height:1.8}
+  .reason{font-size:12px;color:#36604a;line-height:1.7;margin-top:10px}.programme{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.7}.tag{display:inline-block;background:#eef2eb;color:#36604a;padding:3px 7px;font-size:10px;margin-bottom:8px}.bookmark{margin-top:12px;border:1px solid var(--line);background:none;padding:5px 9px;font-size:11px}.bookmark[aria-pressed="true"]{background:#edf1eb}.stale{color:#91581b;font-size:11px;margin-top:8px}.price{display:block;margin-top:8px;font-size:12px}
+  footer nav{display:flex;gap:20px;flex-wrap:wrap;margin:22px 0}footer a{text-decoration:underline;text-underline-offset:3px}summary{cursor:pointer;color:var(--ink)}#sources{margin:15px 0;display:grid;gap:6px}footer p{max-width:820px;margin:10px 0}.empty button{margin-top:16px;padding:8px 14px}
+  @media(max-width:820px){.intro,.options,.context{padding-left:22px;padding-right:22px}.intro h2{font-size:29px}.intro{padding-top:30px;padding-bottom:28px}.search{justify-content:flex-start}#q{width:100%}.title-en{font-size:22px}.filters{gap:12px 17px}.toolbar{gap:16px}.type .src{display:block;margin-left:0}.options{gap:12px}.masthead{padding-top:30px}}
 </style>
 </head>
 <body>
 <div class="masthead">
   <div>
     <h1>London Culture — Archive</h1>
-    <p>런던의 공연 · 전시 · 음악 일정 아카이브. 매일 자동 갱신.</p>
+    <p>큰 무대의 이름들, 한국 아티스트, 오래 기억할 클래식과 전시.</p>
   </div>
   <div class="updated" id="updated"></div>
 </div>
 
+<section class="intro"><span class="eyebrow">YOUR LONDON, YOUR TASTE</span><h2>보고 싶은 공연만,<br>놓치고 싶지 않은 순간들.</h2><p>유명 아티스트 · 한국 가수 · 클래식 · 전시를 모았습니다.<br>클래식 추천에는 관심 연주자와 지휘자 등 선정 이유를 함께 표시합니다.</p></section>
 <div class="toolbar">
   <div class="filters" id="filters"></div>
-  <div class="search"><input id="q" type="text" placeholder="Search"></div>
+  <div class="search"><input id="q" type="text" placeholder="아티스트, 곡목, 공연장 검색" aria-label="일정 검색"></div>
 </div>
 
+<div class="options"><label>음악 장르 <select id="genre"><option value="all">전체 장르</option></select></label><label>기간 <select id="range"><option value="all">전체 일정</option><option value="7">오늘부터 7일</option><option value="30">오늘부터 30일</option><option value="90">오늘부터 90일</option></select></label><label>정렬 <select id="sort"><option value="period">날짜순</option><option value="ending">마감일순</option><option value="title">이름순</option><option value="venue">공연장순</option></select></label><button id="saved" aria-pressed="false">저장한 일정</button><button id="reset">필터 초기화</button></div>
+<p id="context" class="context"></p>
 <div class="thead" id="thead">
   <div data-sort="period">Period<span class="ind"></span></div>
   <div data-sort="title">Title<span class="ind"></span></div>
@@ -82,152 +99,16 @@
   <div data-sort="venue">Venue<span class="ind"></span></div>
 </div>
 
-<div id="list"></div>
-<div class="empty" id="empty" style="display:none">No results.</div>
-<div class="count" id="count"></div>
+<div id="list" aria-live="polite"></div>
+<div class="empty" id="empty" style="display:none">조건에 맞는 일정이 없습니다. 필터를 바꾸거나 아래 원본 목록을 확인해 주세요.</div>
+<div class="count" id="count"></div><div class="options"><button id="more" hidden>일정 더 보기</button></div>
 
 <footer>
-  Sources — Bachtrack · Ticketmaster · Tate · National Gallery · Time Out.<br>
-  자동 수집 데이터입니다. 날짜·가격은 변경될 수 있으니 각 항목을 클릭해 공식 페이지에서 확인하세요.
+<details id="source-details"><summary>수집 상태 · 추천 기준</summary><div id="sources"></div><p>추천은 관심 목록과 공연 정보가 일치하는 경우 표시합니다. Bachtrack의 평점이나 에디터 추천을 뜻하지 않습니다. 유명 아티스트·한국 가수 목록은 초기 설정이므로 모든 공연을 포함하지는 않습니다.</p><p>수집 실패 시 최근 7일 이내에 확인한 일정만 임시 보관합니다. 예매 가능 여부와 가격은 원본 페이지에서 확인하세요.</p></details>
+<nav aria-label="원본 일정"><a href="https://bachtrack.com/search-concerts/city=london" target="_blank" rel="noopener noreferrer">Bachtrack ↗</a><a href="https://www.wigmore-hall.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Wigmore Hall ↗</a><a href="https://www.barbican.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Barbican ↗</a><a href="https://www.tate.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Tate ↗</a><a href="https://www.nationalgallery.org.uk/exhibitions" target="_blank" rel="noopener noreferrer">National Gallery ↗</a></nav>
+<p>London Culture — A personal collection. 공연 시간은 런던 현지 시간입니다.</p>
 </footer>
 
-<script>
-const CAT_LABELS = {music:'Music', exhibition:'Exhibition', theatre:'Performance', event:'Event'};
-const TODAY = new Date();
-let EVENTS = [], activeCat = 'all', sortKey = 'period', sortDir = 1;
-
-function fmt(s){const [y,m,d]=s.split('-');return `${m}.${d}`;}
-function period(ev){
-  if(ev.start && ev.end){
-    const long=(new Date(ev.end)-new Date(ev.start))>1000*60*60*24*120;
-    if(long) return 'Ongoing';
-    if(ev.start===ev.end) return fmt(ev.start)+(ev.time?` · ${ev.time}`:'');
-    return `${fmt(ev.start)}–${fmt(ev.end)}`;
-  }
-  if(ev.end) return 'Until '+fmt(ev.end);
-  if(ev.start) return fmt(ev.start)+(ev.time?` · ${ev.time}`:'');
-  return ev.date_text || 'TBC';
-}
-function status(ev){
-  if(ev.start && ev.end){
-    const s=new Date(ev.start), e=new Date(ev.end);
-    if(TODAY>=s && TODAY<=e) return '<span class="status live">Now</span>';
-    const days=(s-TODAY)/86400000;
-    if(days>0 && days<=30) return '<span class="status">Soon</span>';
-  } else if(ev.end && new Date(ev.end)>=TODAY){
-    return '<span class="status live">Now</span>';
-  }
-  return '';
-}
-
-function buildFilters(){
-  const cats=[...new Set(EVENTS.map(e=>e.category))];
-  const order=['music','exhibition','theatre','event'].filter(c=>cats.includes(c));
-  const all=[['all','All']].concat(order.map(c=>[c,CAT_LABELS[c]||c]));
-  const f=document.getElementById('filters');
-  f.innerHTML=all.map(([k,v])=>`<span data-c="${k}"${k==='all'?' class="active"':''}>${v}</span>`).join('');
-  f.querySelectorAll('span').forEach(el=>el.onclick=()=>{
-    activeCat=el.dataset.c;
-    f.querySelectorAll('span').forEach(x=>x.classList.remove('active'));
-    el.classList.add('active');render();
-  });
-}
-
-function sortVal(ev){
-  if(sortKey==='title') return (ev.title||'').toLowerCase();
-  if(sortKey==='type')  return (ev.type||'').toLowerCase();
-  if(sortKey==='venue') return (ev.venue||'').toLowerCase();
-  return ev.start||ev.end||'9999';            // period (date)
-}
-function cmp(a,b){
-  const av=sortVal(a), bv=sortVal(b);
-  if(av<bv) return -sortDir;
-  if(av>bv) return  sortDir;
-  const ad=a.start||a.end||'9999', bd=b.start||b.end||'9999'; // tiebreak by date
-  return ad<bd?-1:ad>bd?1:0;
-}
-function markHeaders(){
-  document.querySelectorAll('#thead div[data-sort]').forEach(h=>{
-    const active=h.dataset.sort===sortKey;
-    h.classList.toggle('sorted',active);
-    h.querySelector('.ind').textContent = active ? (sortDir>0?'↑':'↓') : '';
-  });
-}
-
-function render(){
-  const q=document.getElementById('q').value.toLowerCase().trim();
-  let list=EVENTS.filter(ev=>{
-    if(activeCat!=='all'&&ev.category!==activeCat)return false;
-    if(q && !((ev.title+ev.venue+ev.type+ev.source).toLowerCase().includes(q)))return false;
-    return true;
-  });
-  list.sort(cmp);
-  markHeaders();
-  document.getElementById('empty').style.display=list.length?'none':'block';
-  document.getElementById('count').textContent=`${list.length} entries`;
-  document.getElementById('list').innerHTML=list.map(ev=>`
-    <div class="row" onclick="window.open('${ev.url}','_blank')">
-      <div class="year">${period(ev)}</div>
-      <div>
-        <div class="title-en">${ev.title}${status(ev)}</div>
-        ${ev.subtitle?`<div class="title-sub">${ev.subtitle}</div>`:''}
-        <div class="arrow">View ↗</div>
-      </div>
-      <div class="type">${ev.type||CAT_LABELS[ev.category]||''}<span class="src">${ev.source}</span></div>
-      <div class="loc">${ev.venue||'—'}${ev.area?`<span class="sub">${ev.area}</span>`:''}</div>
-    </div>`).join('');
-}
-
-// Inline fallback so the page also works when opened directly (file://),
-// where browsers block fetch(). The live GitHub Pages version uses events.json.
-const SEED = {"updated":"seed","events":[
-{"category":"exhibition","title":"Frida: The Making of an Icon","type":"Exhibition","venue":"Tate Modern","area":"London","start":"2026-06-25","end":"2027-01-03","date_text":"25 June 2026 – 3 January 2027","url":"https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon","source":"Tate"},
-{"category":"exhibition","title":"Tracey Emin: A Second Life","type":"Exhibition","venue":"Tate Modern","area":"London","start":null,"end":"2026-08-31","date_text":"Until 31 August 2026","url":"https://www.tate.org.uk/whats-on/tate-modern/tracey-emin","source":"Tate"},
-{"category":"exhibition","title":"Hurvin Anderson","type":"Exhibition","venue":"Tate Britain","area":"London","start":null,"end":"2026-08-23","date_text":"Until 23 August 2026","url":"https://www.tate.org.uk/whats-on/tate-britain/hurvin-anderson","source":"Tate"},
-{"category":"exhibition","title":"Ana Mendieta","type":"Exhibition","venue":"Tate Modern","area":"London","start":"2026-07-15","end":"2027-01-17","date_text":"15 July 2026 – 17 January 2027","url":"https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta","source":"Tate"},
-{"category":"exhibition","title":"Zurbarán","type":"Exhibition","venue":"National Gallery","area":"London","start":null,"end":"2026-08-23","date_text":"Until 23 August 2026","url":"https://www.nationalgallery.org.uk/exhibitions/zurbaran","source":"National Gallery"},
-{"category":"exhibition","title":"Waldmüller: Landscapes","type":"Exhibition","venue":"National Gallery","area":"London","start":"2026-07-02","end":"2026-09-20","date_text":"2 July – 20 September 2026","url":"https://www.nationalgallery.org.uk/exhibitions/waldmuller-landscapes","source":"National Gallery"},
-{"category":"exhibition","title":"Renoir and Love","type":"Exhibition","venue":"National Gallery","area":"London","start":"2026-10-03","end":"2027-01-31","date_text":"3 October 2026 – 31 January 2027","url":"https://www.nationalgallery.org.uk/exhibitions/renoir-and-love","source":"National Gallery"},
-{"category":"exhibition","title":"Anish Kapoor","type":"Exhibition","venue":"Hayward Gallery","area":"London","start":"2026-06-16","end":"2026-10-18","date_text":"16 June 2026 – 18 October 2026","url":"https://www.southbankcentre.co.uk/venues/hayward-gallery","source":"Hayward Gallery"},
-{"category":"exhibition","title":"Marilyn Monroe: A Portrait","type":"Exhibition","venue":"National Portrait Gallery","area":"London","start":null,"end":"2026-09-06","date_text":"Until 6 September 2026","url":"https://www.npg.org.uk/","source":"National Portrait Gallery"},
-{"category":"music","title":"BST Hyde Park","type":"Festival","venue":"Hyde Park","area":"London","start":"2026-06-27","end":"2026-07-12","date_text":"27 June – 12 July 2026","url":"https://www.bst-hydepark.com/","source":"Ticketmaster"},
-{"category":"music","title":"Somerset House Summer Series","type":"Concert Series","venue":"Somerset House","area":"London","start":"2026-07-16","end":"2026-07-26","date_text":"16–26 July 2026","url":"https://www.somersethouse.org.uk/whats-on","source":"Ticketmaster"},
-{"category":"music","title":"Wolf Alice","type":"Concert","venue":"Finsbury Park","area":"London","start":"2026-07-05","end":"2026-07-05","date_text":"5 July 2026","url":"https://www.wolfalice.co.uk/","source":"Ticketmaster"},
-{"category":"music","title":"All Points East","type":"Festival","venue":"Victoria Park","area":"London","start":"2026-08-21","end":"2026-08-30","date_text":"21–30 August 2026","url":"https://www.allpointseastfestival.com/","source":"Ticketmaster"},
-{"category":"music","title":"BBC Proms","type":"Classical","venue":"Royal Albert Hall","area":"London","start":"2026-07-17","end":"2026-09-12","date_text":"17 July – 12 September 2026","url":"https://www.royalalberthall.com/tickets/proms/","source":"Bachtrack"},
-{"category":"music","title":"Lenny Kravitz","type":"Concert","venue":"Crystal Palace Bowl","area":"London","start":"2026-08-15","end":"2026-08-15","date_text":"15 August 2026","url":"https://www.lennykravitz.com/","source":"Ticketmaster"},
-{"category":"theatre","title":"Jesus Christ Superstar","type":"Musical","venue":"London Palladium","area":"London","start":"2026-06-20","end":"2026-09-05","date_text":"20 June – 5 September 2026","url":"https://www.lwtheatres.co.uk/theatres/london-palladium/","source":"Ticketmaster"},
-{"category":"theatre","title":"Trainspotting: The Musical","type":"Musical","venue":"Theatre Royal Haymarket","area":"London","start":"2026-07-15","end":"2026-09-30","date_text":"15 July – 30 September 2026","url":"https://www.trh.co.uk/","source":"Ticketmaster"},
-{"category":"theatre","title":"CATS","type":"Musical","venue":"Regent's Park Open Air Theatre","area":"London","start":"2026-07-25","end":"2026-09-20","date_text":"25 July – 20 September 2026","url":"https://openairtheatre.com/","source":"Ticketmaster"},
-{"category":"theatre","title":"Hamilton","type":"Musical","venue":"Victoria Palace Theatre","area":"London","start":"2026-01-01","end":"2026-12-31","date_text":"Booking through 2026","url":"https://hamiltonmusical.com/london/","source":"Ticketmaster"},
-{"category":"event","title":"West End LIVE","type":"Free / Outdoor","venue":"Trafalgar Square","area":"London","start":"2026-06-17","end":"2026-06-26","date_text":"17–26 June 2026","url":"https://www.westendlive.co.uk/","source":"Time Out"},
-{"category":"event","title":"Pride in London","type":"Parade","venue":"Central London","area":"London","start":"2026-07-04","end":"2026-07-04","date_text":"4 July 2026","url":"https://prideinlondon.org/","source":"Time Out"},
-{"category":"event","title":"Wimbledon","type":"Sport","venue":"All England Club","area":"London","start":"2026-06-29","end":"2026-07-12","date_text":"29 June – 12 July 2026","url":"https://www.wimbledon.com/","source":"Ticketmaster"}
-]};
-
-function load(data){
-  EVENTS=(data.events||[]).map(e=>({subtitle:'',...e}));
-  EVENTS.sort((a,b)=>((a.start||a.end||'9999')>(b.start||b.end||'9999')?1:-1));
-  document.getElementById('updated').textContent = data.updated&&data.updated!=='seed'
-    ? 'Updated '+data.updated : 'Preview data — live site auto-updates daily';
-  buildFilters();render();
-}
-
-fetch('events.json?_='+Date.now())
-  .then(r=>{if(!r.ok)throw 0;return r.json();})
-  .then(load)
-  .catch(()=>load(SEED));
-
-document.getElementById('q').addEventListener('input',render);
-
-// click a column header to sort; click again to flip direction
-document.querySelectorAll('#thead div[data-sort]').forEach(h=>{
-  h.addEventListener('click',()=>{
-    const k=h.dataset.sort;
-    if(sortKey===k) sortDir=-sortDir; else { sortKey=k; sortDir=1; }
-    render();
-  });
-});
-</script>
+<script src="app.js"></script>
 </body>
 </html>

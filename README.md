@@ -1,94 +1,59 @@
-# London Culture — Archive
+# London Culture — My London collection
 
-런던의 공연 · 전시 · 음악 일정을 여러 소스에서 자동으로 모아 미니멀한 아카이브 페이지로 보여주는 프로젝트입니다.
-GitHub Actions가 매일 스크래퍼를 돌려 `docs/events.json`을 갱신하고, GitHub Pages가 그 데이터를 정적 사이트로 발행합니다. **한 번 세팅하면 서버 없이, 무료로, 알아서 굴러갑니다.**
+흑백 아카이브 UI에 취향 분류와 음악 장르 필터를 더한 개인 런던 문화 일정입니다.
 
-## 소스
+## 화면
+- 취향: 유명 아티스트 / 한국 가수 / 놓치기 아쉬운 클래식 / 클래식 전체 / 전시
+- 음악 장르: Rock, Pop, K-pop, Metal, Hip-hop / R&B, Jazz, Electronic, Folk / Country, Classical, Other
+- 기간(7·30·90일), 곡목·연주자 검색, 날짜·마감일·이름·공연장 정렬
+- 일정 저장(localStorage, 현재 브라우저에만 저장), 모바일 화면, 40개씩 더 보기
+- 종료된 일정 숨김, 수집 상태와 이전 데이터 표시. 가짜 seed 일정은 사용하지 않습니다.
 
-| 소스 | 카테고리 | 방식 | 상태 |
-|------|----------|------|------|
-| **Ticketmaster** | 콘서트 · 공연 | 공식 Discovery API | ✅ 바로 작동 (API 키 필요) |
-| **Tate** (Modern·Britain) | 전시 | HTML 스크래핑 | ✅ 바로 작동 |
-| **National Gallery** | 전시 | HTML 스크래핑 | ✅ 바로 작동 |
-| **Bachtrack** | 클래식·오페라·발레 | 헤드리스 브라우저(Playwright) | ⚠️ best-effort, 셀렉터 조정 필요할 수 있음 |
-| **Time Out** | 종합 | 헤드리스 브라우저 | ⚠️ 기본 비활성 (Cloudflare 차단 잦음) |
+장르는 관심 목록에 들어온 음악 안에서 필터링합니다. 전체 런던 음악 목록은 아닙니다. 클래식 추천은 별점이나 Bachtrack 에디터 추천이 아니라 아래 관심 목록과의 일치입니다.
 
-## 폴더 구조
+## 취향 수정
+`scraper/preferences.json`을 수정하면 다음 수집부터 적용됩니다.
+- `headline_artists`: Bon Jovi 등 유명 아티스트 초기 목록
+- `korean_artists`: 한국 가수·밴드·인디 초기 목록
+- `korean_pop_artists`: 한국 아티스트 중 K-pop 장르로 표시할 목록
+- `classical_soloists`, `classical_conductors`, `visiting_orchestras`: 추천 근거
+- `exclude_terms`: 트리뷰트·클럽 파티·별도 VIP 상품 등 제외
 
+국적이나 인기도를 이름으로 자동 추측하지 않습니다. 제공된 attraction 이름이 있으면 정확히 일치해야 합니다. 구형 데이터에는 제한적인 제목 일치만 적용하며 DEAN, ROSÉ, LISA 등 동명이인 가능성이 큰 이름은 제외합니다. 현재 목록 밖의 가수나 Ticketmaster에 등록되지 않은 공연은 빠질 수 있습니다.
+
+## 데이터
+| 소스 | 역할 | 범위 / 한계 |
+|---|---|---|
+| Bachtrack | 클래식 중심 목록, 연주자·곡목·공연 시간 | 공개 콘서트 검색과 More results 페이지네이션, 최대 1,000개 목록. 모든 날짜·회차를 분리. 오페라·발레 검색은 별도 수집하지 않음 |
+| Wigmore Hall | 리사이틀 공식 목록 | 공식 첫 목록 페이지 |
+| Barbican | 클래식 및 전시 보완 | 공식 첫 목록 페이지 |
+| Tate | Tate Modern / Britain 전시 | 목록과 상세 페이지. 불명확한 가격은 표시하지 않음 |
+| National Gallery | 전시 | 공식 목록 페이지 |
+| Ticketmaster | 유명 아티스트·한국 가수 | 아티스트별 검색 + K-pop 검색. API 키 필요. 일반 재즈 대량 수집 제거 |
+
+Bachtrack HTML과 공개 More results 응답은 2026-09-08 실제 페이지로 검증했습니다. 연주자 이름이 들어가도 실연이 아닌 것으로 확인된 `Playing with Fire: Yuja Wang` 디지털 아바타 체험은 클래식 리사이틀 목록에서 제외했습니다. 근거: [Southbank Centre 공식 안내](https://bynder.southbankcentre.co.uk/asset/840b6004-0f6a-4059-b33e-2cd6e3342b7c/Autumn_Winter-2026_27-Classical-Guide-WEB.pdf).
+
+수집 실패 시 해당 소스의 마지막 확인으로부터 7일 이내 데이터만 보존합니다. 실패는 성공 시각을 갱신하지 않습니다. 날짜를 확인하지 못한 일정은 게시하지 않습니다. 동일 제목·공연장·날짜·시간은 중복 제거하지만 공급자 간 제목 차이가 큰 경우 중복이 남을 수 있습니다. 아직 모든 미술관·티켓 판매처를 포괄하지 않습니다.
+
+`docs/events.json`의 `updated`는 마지막 실행 시각이며, 소스별 `last_success`와 이벤트별 `last_seen`으로 실제 확인 시점을 구분합니다. 초기 로컬 검증에서는 Ticketmaster 키가 없어 이전 저장소의 데이터 중 최근 확인한 항목만 재분류했습니다. 저장소의 기존 Actions secret을 이용하면 새 검색을 실행합니다.
+
+## 자동 갱신 / 배포
+GitHub Pages 설정은 기존과 동일하게 **main / docs**입니다.
+- `.github/workflows/update.yml`: 매일 06:00 UTC, 수동 실행, main의 수집기 변경 시 실행
+- 저장소 secret `TICKETMASTER_API_KEY`를 그대로 사용. 새 키를 코드나 브라우저에 넣지 않습니다.
+- 수집 전 테스트 실행. 중복 실행은 직렬화하고 JSON은 임시 파일에서 원자적으로 교체.
+- UI 변경은 main에 병합하면 Pages에 반영됩니다.
+- [Ticketmaster 공식 API 문서](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/)
+
+## 개발 / 검증
+Python 3.12 이상:
+```sh
+pip install -r scraper/requirements.txt
+python -m unittest discover -s tests -v
+python scraper/main.py
+python -m http.server 8000 --directory docs
 ```
-london-culture/
-├── docs/                     # GitHub Pages가 발행하는 폴더
-│   ├── index.html            # 아카이브 페이지 (events.json을 읽음)
-│   └── events.json           # 스크래퍼가 갱신하는 데이터 (초기 seed 포함)
-├── scraper/
-│   ├── main.py               # 전체 실행: 모든 소스 수집 → events.json
-│   ├── normalize.py          # 날짜 파싱 + 이벤트 정규화
-│   ├── requirements.txt
-│   └── sources/
-│       ├── ticketmaster.py
-│       ├── tate.py
-│       ├── national_gallery.py
-│       ├── bachtrack.py
-│       └── timeout.py
-└── .github/workflows/update.yml   # 매일 06:00 UTC 자동 실행
-```
+미리보기는 http://localhost:8000 에서 엽니다. 파일을 직접 더블클릭하면 fetch 제한으로 데이터 로드 오류가 표시될 수 있습니다.
 
-## 세팅 (약 10분)
+검증 범위: 관심 목록·트리뷰트·동명이인·장르, 날짜·회차 식별, 소스 실패/보존 만료/정상 0건, Bachtrack 응답 페이지네이션, Ticketmaster 취소 일정. 실 API의 관심 아티스트 검색은 Actions secret이 있는 환경에서 추가 확인해야 합니다.
 
-### 1. GitHub 저장소 만들기
-이 `london-culture` 폴더를 새 GitHub 저장소로 올립니다.
-
-```bash
-cd london-culture
-git init
-git add .
-git commit -m "London Culture archive"
-git branch -M main
-git remote add origin https://github.com/<your-id>/london-culture.git
-git push -u origin main
-```
-
-### 2. Ticketmaster API 키 발급
-1. https://developer.ticketmaster.com/ 가입 → 앱 등록 → **Consumer Key** 복사 (무료, 즉시 발급).
-2. 저장소 **Settings → Secrets and variables → Actions → New repository secret**
-3. 이름 `TICKETMASTER_API_KEY`, 값에 키를 붙여넣고 저장.
-
-### 3. GitHub Pages 켜기
-**Settings → Pages → Build and deployment**
-- Source: **Deploy from a branch**
-- Branch: **main** / 폴더: **/docs** → Save
-- 잠시 뒤 `https://<your-id>.github.io/london-culture/` 에서 사이트가 열립니다.
-
-### 4. 첫 실행
-**Actions** 탭 → **Update events** 워크플로 → **Run workflow** 버튼으로 수동 실행.
-이후엔 매일 06:00 UTC에 자동으로 돌면서 `events.json`을 갱신·커밋합니다.
-
-## 로컬에서 직접 돌려보기
-
-```bash
-cd scraper
-pip install -r requirements.txt
-python -m playwright install chromium      # Bachtrack용 (선택)
-export TICKETMASTER_API_KEY=xxxxx
-python main.py                             # ../docs/events.json 생성
-```
-
-`docs/index.html`은 그냥 더블클릭해도 내장 seed 데이터로 미리보기가 됩니다.
-(실데이터는 `events.json`을 통해 GitHub Pages에서 보입니다.)
-
-## 갱신 주기 바꾸기
-`.github/workflows/update.yml`의 cron 값을 수정하세요.
-- 매일 아침 6시(UTC): `0 6 * * *` (기본)
-- 6시간마다: `0 */6 * * *`
-- 매주 월요일: `0 6 * * 1`
-
-## 소스 추가·수정하기
-1. `scraper/sources/` 에 `def fetch() -> list[dict]` 를 가진 모듈을 추가하고,
-   `normalize.event(...)` 로 이벤트를 만들어 반환합니다.
-2. `scraper/main.py`의 `SOURCES` 리스트에 등록하면 끝.
-
-## 주의 / 한계
-- **Bachtrack·Time Out**은 JS 렌더링·안티봇 때문에 사이트 구조가 바뀌면 셀렉터를 손봐야 합니다.
-  각 모듈 상단의 셀렉터 변수만 고치면 됩니다. 실패해도 다른 소스에는 영향이 없습니다.
-- 스크래핑은 각 사이트의 이용약관 범위 내에서, 개인용·저빈도로만 사용하세요.
-- 표시되는 정보는 참고용입니다. 날짜·가격·예매는 항상 각 항목의 공식 페이지에서 최종 확인하세요.

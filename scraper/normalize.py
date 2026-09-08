@@ -51,6 +51,14 @@ def parse_date_range(text: str):
     if not t:
         return None, None, raw
 
+    # ISO dates must be handled before splitting date ranges on dashes.
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}', t):
+        try:
+            datetime.strptime(t, '%Y-%m-%d')
+            return t, t, raw
+        except ValueError:
+            return None, None, raw
+
     # "Until <date>" -> open start, end = date
     m = re.match(r'(?:until|to|ends?)\s+(.+)', t, re.I)
     if m:
@@ -90,7 +98,7 @@ def event(category, title, url, source, *, subtitle='', etype='', venue='',
         start = start or s
         end = end or e
     return {
-        'id': make_id(source, title, venue, start or date_text),
+        'id': make_id(source, title, venue, start or date_text, time),
         'category': category,
         'title': _clean(title),
         'subtitle': _clean(subtitle),

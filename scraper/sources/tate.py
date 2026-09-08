@@ -53,7 +53,7 @@ def _detail(url):
     dm = DATE_RE.search(text)
     date_text = dm.group(0) if dm else ''
     pm = PRICE_RE.search(text)
-    price = pm.group(0).replace(' ', '') if pm else 'Free'
+    price = ''  # Page-wide prices can be memberships or unrelated promotions.
 
     slug = url.rstrip('/').split('/')[-2]  # gallery slug
     venue = GALLERY.get(slug, 'Tate')
