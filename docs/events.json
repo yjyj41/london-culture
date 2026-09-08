@@ -1,53 +1,53 @@
 {
-  "updated": "2026-09-08T10:34:25+00:00",
+  "updated": "2026-09-08T10:38:16+00:00",
   "count": 785,
   "sources": [
     {
       "name": "Bachtrack",
       "status": "unavailable",
-      "count": 725,
+      "count": 717,
       "last_success": "2026-09-08T10:33:54+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": "403 Client Error: Forbidden for url: https://bachtrack.com/search-concerts/city=london"
     },
     {
       "name": "Wigmore Hall",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "Barbican",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "Tate",
       "status": "ok",
       "count": 14,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "National Gallery",
       "status": "ok",
       "count": 7,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "Ticketmaster",
       "status": "ok",
       "count": 14,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
@@ -55,23 +55,23 @@
       "status": "manual",
       "count": 1,
       "last_success": "2026-09-08T10:27:36+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "V&A",
       "status": "ok",
       "count": 4,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "Design Museum",
       "status": "ok",
       "count": 3,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
@@ -79,31 +79,31 @@
       "status": "unavailable",
       "count": 2,
       "last_success": "2026-09-08T10:33:54+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": "403 Client Error: Forbidden for url: https://www.serpentinegalleries.org/whats-on/"
     },
     {
       "name": "Whitechapel Gallery",
       "status": "ok",
       "count": 3,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "The Photographers' Gallery",
       "status": "ok",
       "count": 7,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     },
     {
       "name": "Courtauld Gallery",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-09-08T10:34:25+00:00",
-      "checked_at": "2026-09-08T10:34:25+00:00",
+      "last_success": "2026-09-08T10:38:16+00:00",
+      "checked_at": "2026-09-08T10:38:16+00:00",
       "message": ""
     }
   ],
@@ -123,7 +123,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/ninagawa-mika-captive-blooms",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -147,7 +147,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/japanese-women-photographers-1950s-now",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -171,7 +171,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/sayuri-ichida-playing-piano-upstairs",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -195,7 +195,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/monet-and-renoir-painting-side-by-side",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -291,7 +291,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609081930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -399,7 +399,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Bon Jovi"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -465,7 +465,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609091930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -583,7 +583,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609101930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -668,7 +668,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ITZY"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -710,7 +710,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609111930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -830,7 +830,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609121300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -913,7 +913,7 @@
       "collection": "classical",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -931,7 +931,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609121900",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1027,7 +1027,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609131130",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1062,7 +1062,7 @@
       "reasons": [
         "K-pop 장르로 분류된 공연"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -1080,7 +1080,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609131930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1102,7 +1102,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609141300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1148,7 +1148,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609141930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1194,7 +1194,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609151300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1216,7 +1216,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202609151930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1526,7 +1526,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/roots",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -1940,7 +1940,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/waldmüller-landscapes",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -1964,7 +1964,7 @@
       "price": "Free",
       "url": "https://designmuseum.org/exhibitions/future-observatory-tools-for-transition",
       "source": "Design Museum",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -1988,7 +1988,7 @@
       "price": "Free",
       "url": "https://designmuseum.org/exhibitions/design-researchers-in-residence-202526-mineral",
       "source": "Design Museum",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -2193,7 +2193,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: LISA"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -2806,7 +2806,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: BIGBANG"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -2837,7 +2837,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: BIGBANG"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -3047,7 +3047,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/whistler",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -3803,7 +3803,7 @@
       "price": "",
       "url": "https://courtauld.ac.uk/whats-on/exh-salman-toor-someone-like-you/",
       "source": "Courtauld Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -3971,7 +3971,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4091,7 +4091,7 @@
       "price": "",
       "url": "https://designmuseum.org/exhibitions/nigo-from-japan-with-love",
       "source": "Design Museum",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4407,7 +4407,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4431,7 +4431,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna-foraging-quipu/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4455,7 +4455,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/this-must-be-the-place-artists-for-whitechapel-gallery/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4599,7 +4599,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5319,31 +5319,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
-      "stale": false,
-      "collection": "exhibition",
-      "genre": "",
-      "featured": false,
-      "reasons": [
-        "런던 전시"
-      ]
-    },
-    {
-      "id": "325cc1b02925",
-      "category": "exhibition",
-      "title": "Sanlé Sory: Colour Years",
-      "subtitle": "",
-      "type": "Exhibition",
-      "venue": "The Photographers' Gallery",
-      "area": "London",
-      "date_text": "14 Oct 2026 - 21 Feb 2027",
-      "start": "2026-10-14",
-      "end": "2027-02-21",
-      "time": "",
-      "price": "",
-      "url": "https://thephotographersgallery.org.uk/whats-on/sanle-sory-colour-years",
-      "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5367,7 +5343,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/william-eggleston-all-goes-unnoticed",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5391,7 +5367,31 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/snap-happy-how-children-became-photographers",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
+      "stale": false,
+      "collection": "exhibition",
+      "genre": "",
+      "featured": false,
+      "reasons": [
+        "런던 전시"
+      ]
+    },
+    {
+      "id": "325cc1b02925",
+      "category": "exhibition",
+      "title": "Sanlé Sory: Colour Years",
+      "subtitle": "",
+      "type": "Exhibition",
+      "venue": "The Photographers' Gallery",
+      "area": "London",
+      "date_text": "14 Oct 2026 - 21 Feb 2027",
+      "start": "2026-10-14",
+      "end": "2027-02-21",
+      "time": "",
+      "price": "",
+      "url": "https://thephotographersgallery.org.uk/whats-on/sanle-sory-colour-years",
+      "source": "The Photographers' Gallery",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5487,7 +5487,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5574,7 +5574,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: LE SSERAFIM"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -8631,7 +8631,7 @@
       "price": "Weekday £28.00 / Weekend £30.00",
       "url": "https://www.vam.ac.uk/exhibitions/schiaparelli",
       "source": "V&A",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -9039,7 +9039,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -9399,7 +9399,7 @@
       "price": "£12.50",
       "url": "https://www.vam.ac.uk/exhibitions/inside-aardman-wallace-gromit-and-friends",
       "source": "V&A",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -9460,7 +9460,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -9563,7 +9563,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -9993,7 +9993,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -13888,7 +13888,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14012,7 +14012,7 @@
       "price": "£22.50",
       "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
       "source": "V&A",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14036,7 +14036,7 @@
       "price": "£17.00",
       "url": "https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from-asia-australia-and-the-pacific",
       "source": "V&A",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14173,7 +14173,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: aespa"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -14241,7 +14241,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15814,7 +15814,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/monet",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16006,7 +16006,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16102,7 +16102,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/gathering-ground",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16139,7 +16139,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -16170,7 +16170,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -16201,7 +16201,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false
     },
     {
@@ -16637,7 +16637,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
       "source": "National Gallery",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -17349,7 +17349,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ink",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -17661,7 +17661,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -18736,7 +18736,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/baya",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -19050,7 +19050,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/nalini-malani",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -19148,7 +19148,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/lynda-benglis",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -19172,7 +19172,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/edvard-munch",
       "source": "Tate",
-      "last_seen": "2026-09-08T10:34:25+00:00",
+      "last_seen": "2026-09-08T10:38:16+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
