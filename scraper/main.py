@@ -8,12 +8,12 @@ from datetime import datetime, date, timezone
 from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(__file__))
-from sources import ticketmaster, tate, national_gallery, wigmore, barbican, bachtrack
+from sources import ticketmaster, tate, national_gallery, wigmore, barbican, bachtrack, galleries, dice
 from curation import classify, folded
 
 SOURCES = [('Bachtrack', bachtrack.fetch), ('Wigmore Hall', wigmore.fetch),
            ('Barbican', barbican.fetch), ('Tate', tate.fetch),
-           ('National Gallery', national_gallery.fetch), ('Ticketmaster', ticketmaster.fetch)]
+           ('National Gallery', national_gallery.fetch), ('Ticketmaster', ticketmaster.fetch), ('DICE', dice.fetch)] + galleries.SOURCES
 OUT = Path(__file__).resolve().parent.parent / 'docs' / 'events.json'
 RETENTION_DAYS = 7
 
@@ -42,10 +42,10 @@ def collect(previous, sources=SOURCES, now=None):
         error = None
         try:
             raw = fn()
-            if not raw and name != 'Ticketmaster':
+            if not raw and name not in ('Ticketmaster', 'DICE'):
                 raise RuntimeError('No cards returned; source may be unavailable or changed')
-            fresh = [dict(e, last_seen=stamp, stale=False) for e in raw]
-            last_success = stamp
+            fresh = [dict(e, last_seen=e['verified_at'] if e.get('verification_mode') == 'manual' else stamp, stale=False) for e in raw]
+            last_success = max((e['last_seen'] for e in fresh), default=stamp)
         except Exception as exc:
             error = str(exc)
             fresh = []
@@ -63,10 +63,10 @@ def collect(previous, sources=SOURCES, now=None):
             if ev and still_relevant(ev, today):
                 selected.append(ev)
         events.extend(selected)
-        statuses.append(dict(name=name, status='unavailable' if error else 'ok',
+        statuses.append(dict(name=name, status='unavailable' if error else ('manual' if any(e.get('verification_mode') == 'manual' for e in selected) else 'ok'),
                              count=len(selected), last_success=last_success, checked_at=stamp,
                              message=error or ''))
-        print(f"[{name}] {len(selected)} selected; {'unavailable' if error else 'ok'}")
+        print(f"[{name}] {len(selected)} selected; {statuses[-1]['status']}")
     # Keep separate venues and matinee/evening performances. Prefer freshly checked rows.
     unique = {}
     for ev in sorted(events, key=lambda e: bool(e.get('stale'))):

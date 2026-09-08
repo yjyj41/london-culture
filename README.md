@@ -56,3 +56,18 @@ python -m http.server 8000 --directory docs
 미리보기는 http://localhost:8000 에서 엽니다. 파일을 직접 더블클릭하면 fetch 제한으로 데이터 로드 오류가 표시될 수 있습니다.
 
 검증 범위: 관심 목록·트리뷰트·동명이인·장르, 날짜·회차 식별, 소스 실패/보존 만료/정상 0건, Bachtrack 응답 페이지네이션, Ticketmaster 취소 일정. 실 API의 관심 아티스트 검색은 Actions secret이 있는 환경에서 추가 확인해야 합니다.
+
+## 추가 소스와 장소 필터 (2026-09-08)
+- 공연장·갤러리 필터는 현재 취향 분류에 맞는 장소로 갱신됩니다. Barbican Hall/Centre/The Pit는 Barbican으로 묶고 실제 홀 이름은 각 일정에 유지합니다. Royal Albert Hall, Royal Festival Hall, Queen Elizabeth Hall 등은 구분합니다.
+- 신규 전시 수집: V&A(런던 3개 관), Design Museum, Serpentine North/South, Whitechapel Gallery, The Photographers’ Gallery, Courtauld Gallery. 총 8개 전시 소스(Tate·National Gallery 포함).
+- 전시별 정확한 종료일이 확인되는 항목만 게시합니다. 월만 제공하는 일정, 종료일이 없는 상설전, 투어·강연·온라인 행사는 제외합니다. 각 갤러리의 모든 미래 전시를 포괄하지는 않습니다.
+- Royal Academy·National Portrait Gallery·Dulwich는 이번 실행에서 접근이 차단돼 아직 자동 수집에 포함하지 않았습니다. Hayward도 아직 추가하지 않았습니다.
+
+### DICE / 누락 공연을 추가하는 방법
+1. `scraper/preferences.json`의 `korean_artists`에 정확한 영문 아티스트 표기를 추가합니다(예: Chang Kiha / Jang Kiha / 장기하).
+2. `scraper/extra_sources.json`의 `dice_events`에 전체 `https://dice.fm/event/...` 링크를 추가합니다. `artists`(실제 확인한 출연진), `subtitle`(한국어 검색 이름), `genre`는 선택 필드입니다.
+3. 다음 수집 시 공개 MusicEvent 정보에서 런던 공연의 날짜·시간·장소를 갱신합니다. DICE 전체 검색을 자동으로 훑는 기능은 아니며 링크를 등록한 공연을 추적합니다.
+4. DICE 접근이 실패하면 등록된 공식 EartH 페이지(`evidence_url`)에서 확인합니다. 다른 공연장용 보완 파서는 아직 없습니다.
+5. 자동 접근이 모두 실패할 때 사용하려면 직접 확인한 `verified_event`를 함께 기록합니다. title, start(YYYY-MM-DD), time(HH:MM), venue, verified_at(시간대 포함 ISO)을 작성합니다. 직접 확인한 이벤트는 종료일까지 게시하되 확인 시각을 자동 갱신하지 않고 화면에 ‘직접 확인’을 표시합니다. 원본에서 취소·연기가 확인되면 제외합니다. 자동 접근이 차단된 상태의 취소는 감지할 수 없으므로 원본 확인이 필요합니다.
+
+장기하 공연은 2026-09-28 19:30, EartH Theatre의 K-Music Festival로 DICE 및 공식 공연장 페이지에서 확인해 등록했습니다. ADG7, Chang Kiha, Lil Cherry & GOLDBUUDA가 함께 출연하는 공연입니다. [공식 예매](https://dice.fm/event/xeovae-k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-28th-sep-earth-london-tickets).

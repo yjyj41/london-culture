@@ -1,0 +1,23 @@
+{
+  "dice_events": [
+    {
+      "url": "https://dice.fm/event/xeovae-k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-28th-sep-earth-london-tickets",
+      "artists": [
+        "Chang Kiha",
+        "ADG7",
+        "Lil Cherry",
+        "GOLDBUUDA"
+      ],
+      "subtitle": "장기하 · 악단광칠 · Lil Cherry & GOLDBUUDA",
+      "genre": "Other",
+      "evidence_url": "https://earthackney.co.uk/events/k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-28th-sep-earth-london-tickets-xeovae/",
+      "verified_event": {
+        "title": "K-Music Festival: ADG7 + CHANG KIHA + LIL CHERRY & GOLDBUUDA",
+        "start": "2026-09-28",
+        "time": "19:30",
+        "venue": "EartH Theatre",
+        "verified_at": "2026-09-08T10:27:36+00:00"
+      }
+    }
+  ]
+}

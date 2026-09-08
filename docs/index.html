@@ -71,6 +71,7 @@
   .reason{font-size:12px;color:#36604a;line-height:1.7;margin-top:10px}.programme{font-size:12px;color:var(--muted);margin-top:8px;line-height:1.7}.tag{display:inline-block;background:#eef2eb;color:#36604a;padding:3px 7px;font-size:10px;margin-bottom:8px}.bookmark{margin-top:12px;border:1px solid var(--line);background:none;padding:5px 9px;font-size:11px}.bookmark[aria-pressed="true"]{background:#edf1eb}.stale{color:#91581b;font-size:11px;margin-top:8px}.price{display:block;margin-top:8px;font-size:12px}
   footer nav{display:flex;gap:20px;flex-wrap:wrap;margin:22px 0}footer a{text-decoration:underline;text-underline-offset:3px}summary{cursor:pointer;color:var(--ink)}#sources{margin:15px 0;display:grid;gap:6px}footer p{max-width:820px;margin:10px 0}.empty button{margin-top:16px;padding:8px 14px}
   @media(max-width:820px){.intro,.options,.context{padding-left:22px;padding-right:22px}.intro h2{font-size:29px}.intro{padding-top:30px;padding-bottom:28px}.search{justify-content:flex-start}#q{width:100%}.title-en{font-size:22px}.filters{gap:12px 17px}.toolbar{gap:16px}.type .src{display:block;margin-left:0}.options{gap:12px}.masthead{padding-top:30px}}
+  #venue{max-width:220px} .options label{max-width:100%;flex-wrap:wrap} .options select{min-width:0;max-width:100%}
 </style>
 </head>
 <body>
@@ -87,7 +88,7 @@
   <div class="search"><input id="q" type="text" placeholder="아티스트, 곡목, 공연장 검색" aria-label="일정 검색"></div>
 </div>
 
-<div class="options"><label>음악 장르 <select id="genre"><option value="all">전체 장르</option></select></label><label>기간 <select id="range"><option value="all">전체 일정</option><option value="7">오늘부터 7일</option><option value="30">오늘부터 30일</option><option value="90">오늘부터 90일</option></select></label><label>정렬 <select id="sort"><option value="period">날짜순</option><option value="ending">마감일순</option><option value="title">이름순</option><option value="venue">공연장순</option></select></label><button id="saved" aria-pressed="false">저장한 일정</button><button id="reset">필터 초기화</button></div>
+<div class="options"><label>음악 장르 <select id="genre"><option value="all">전체 장르</option></select></label><label>공연장 · 갤러리 <select id="venue"><option value="all">전체 장소</option></select></label><label>기간 <select id="range"><option value="all">전체 일정</option><option value="7">오늘부터 7일</option><option value="30">오늘부터 30일</option><option value="90">오늘부터 90일</option></select></label><label>정렬 <select id="sort"><option value="period">날짜순</option><option value="ending">마감일순</option><option value="title">이름순</option><option value="venue">공연장순</option></select></label><button id="saved" aria-pressed="false">저장한 일정</button><button id="reset">필터 초기화</button></div>
 <p id="context" class="context"></p>
 <div class="thead" id="thead">
   <div data-sort="period">Period<span class="ind"></span></div>
@@ -102,8 +103,8 @@
 
 <footer>
 <details id="source-details"><summary>수집 상태 · 추천 기준</summary><div id="sources"></div><p>추천은 관심 목록과 공연 정보가 일치하는 경우 표시합니다. Bachtrack의 평점이나 에디터 추천을 뜻하지 않습니다. 유명 아티스트·한국 가수 목록은 초기 설정이므로 모든 공연을 포함하지는 않습니다.</p><p>수집 실패 시 최근 7일 이내에 확인한 일정만 임시 보관합니다. 예매 가능 여부와 가격은 원본 페이지에서 확인하세요.</p></details>
-<nav aria-label="원본 일정"><a href="https://bachtrack.com/search-concerts/city=london" target="_blank" rel="noopener noreferrer">Bachtrack ↗</a><a href="https://www.wigmore-hall.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Wigmore Hall ↗</a><a href="https://www.barbican.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Barbican ↗</a><a href="https://www.tate.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Tate ↗</a><a href="https://www.nationalgallery.org.uk/exhibitions" target="_blank" rel="noopener noreferrer">National Gallery ↗</a></nav>
-<p>London Culture — A personal collection. 공연 시간은 런던 현지 시간입니다.</p>
+<nav aria-label="원본 일정"><a href="https://dice.fm/browse/london/music" target="_blank" rel="noopener noreferrer">DICE ↗</a><a href="https://bachtrack.com/search-concerts/city=london" target="_blank" rel="noopener noreferrer">Bachtrack ↗</a><a href="https://www.wigmore-hall.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Wigmore Hall ↗</a><a href="https://www.barbican.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Barbican ↗</a><a href="https://www.tate.org.uk/whats-on" target="_blank" rel="noopener noreferrer">Tate ↗</a><a href="https://www.nationalgallery.org.uk/exhibitions" target="_blank" rel="noopener noreferrer">National Gallery ↗</a><a href="https://www.vam.ac.uk/whatson" target="_blank" rel="noopener noreferrer">V&amp;A ↗</a><a href="https://designmuseum.org/exhibitions" target="_blank" rel="noopener noreferrer">Design Museum ↗</a><a href="https://www.serpentinegalleries.org/whats-on/" target="_blank" rel="noopener noreferrer">Serpentine ↗</a><a href="https://www.whitechapelgallery.org/exhibitions/" target="_blank" rel="noopener noreferrer">Whitechapel Gallery ↗</a><a href="https://thephotographersgallery.org.uk/whats-on" target="_blank" rel="noopener noreferrer">The Photographers’ Gallery ↗</a><a href="https://courtauld.ac.uk/whats-on/" target="_blank" rel="noopener noreferrer">Courtauld Gallery ↗</a></nav>
+<p>DICE 등에서 발견한 공연은 링크를 별도로 등록해 보완합니다. 직접 확인한 일정은 확인 날짜를 표시하며 자동 수집 성공으로 처리하지 않습니다.</p><p>London Culture — A personal collection. 공연 시간은 런던 현지 시간입니다.</p>
 </footer>
 
 <script src="app.js"></script>

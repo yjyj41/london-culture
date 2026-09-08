@@ -17,7 +17,7 @@ def parse(html):
     for card in soup.select('div[data-id][data-dates]'):
         link = card.select_one('a.listing-more-info[href*="/concert-event/"]')
         title = card.select_one('.li-shortform-title')
-        venue = card.select_one('h2.li-shortform-venue a')
+        venue = card.select_one('h2.li-shortform-venue')
         if not link or not title or not venue:
             continue
         def lines(selector):
@@ -33,7 +33,7 @@ def parse(html):
             dt = datetime.fromtimestamp(int(timestamp), LONDON)
             iso = dt.date().isoformat()
             ev = event('music', title.get_text(' ', strip=True), urljoin(URL, link['href']), 'Bachtrack',
-                       etype='Classical', venue=venue.get_text(' ', strip=True), area='London',
+                       etype='Classical', venue=venue.get_text(' ', strip=True).removesuffix(', London').strip(), area='London',
                        start=iso, end=iso, time=dt.strftime('%H:%M'), date_text=iso,
                        subtitle=performers)
             ev.update(performers=performers, programme=programme)
