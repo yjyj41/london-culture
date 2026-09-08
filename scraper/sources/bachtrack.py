@@ -76,4 +76,3 @@ def fetch():
     else:
         raise RuntimeError('Listing exceeded pagination limit')
     return out
-

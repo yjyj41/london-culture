@@ -64,4 +64,3 @@ def fetch():
         else:
             raise RuntimeError('Ticketmaster query exceeded pagination limit')
     return out
-

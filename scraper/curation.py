@@ -57,4 +57,3 @@ def classify(ev):
               reasons=[('한국 아티스트 관심 목록: ' + ', '.join(korean)) if korean else
                        'K-pop 장르로 분류된 공연' if kpop else '유명 아티스트 관심 목록: ' + ', '.join(famous)])
     return ev
-

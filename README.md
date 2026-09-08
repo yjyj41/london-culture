@@ -56,4 +56,3 @@ python -m http.server 8000 --directory docs
 미리보기는 http://localhost:8000 에서 엽니다. 파일을 직접 더블클릭하면 fetch 제한으로 데이터 로드 오류가 표시될 수 있습니다.
 
 검증 범위: 관심 목록·트리뷰트·동명이인·장르, 날짜·회차 식별, 소스 실패/보존 만료/정상 0건, Bachtrack 응답 페이지네이션, Ticketmaster 취소 일정. 실 API의 관심 아티스트 검색은 Actions secret이 있는 환경에서 추가 확인해야 합니다.
-
