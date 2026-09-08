@@ -40,6 +40,9 @@ def classify(ev):
                     reasons.append(label + ': ' + ', '.join(names))
         ev.update(collection='classical', genre='Classical', featured=bool(reasons), reasons=reasons)
         return ev
+    if ev.get('category') == 'music' and (genre.lower() == 'jazz' or ev.get('jazz_venue_listing')):
+        ev.update(collection='jazz', genre='Jazz', featured=False, reasons=['재즈 클럽 프로그램 · 소울·퓨전 등 포함'] if ev.get('jazz_venue_listing') else [])
+        return ev
     if ev.get('category') != 'music' or matches(ev.get('title', ''), PREFERENCES['exclude_terms']):
         return None
     artists = ev.get('artists') or []
@@ -51,6 +54,9 @@ def classify(ev):
     famous = artist_matches(PREFERENCES['headline_artists'])
     kpop = any(folded(g) in ('k pop', 'kpop') for g in (ev.get('genres') or [genre]))
     if not korean and not famous and not kpop:
+        if ev.get('discovery'):
+            ev.update(collection='discovery', genre=normal_genre(genre), featured=False, reasons=[])
+            return ev
         return None
     ev.update(collection='korean' if korean or kpop else 'headliners',
               genre=('K-pop' if kpop or any(n in PREFERENCES['korean_pop_artists'] for n in korean) else normal_genre(genre)), featured=False,

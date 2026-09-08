@@ -1,5 +1,5 @@
 'use strict';
-const LABELS={all:'전체',headliners:'유명 아티스트',korean:'한국 가수',picks:'놓치기 아쉬운 클래식',classical:'클래식 전체',exhibition:'전시'};
+const LABELS={all:'전체',headliners:'유명 아티스트',korean:'한국 가수',picks:'놓치기 아쉬운 클래식',classical:'클래식 전체',jazz:'재즈',discovery:'새로운 음악',exhibition:'전시'};
 const GENRES=['Rock','Pop','K-pop','Metal','Hip-hop / R&B','Jazz','Electronic','Folk / Country','Classical','Other'];
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -11,13 +11,15 @@ let EVENTS=[],activeCat='all',sortKey='period',sortDir=1,onlySaved=false,sourceW
 let saved=new Set();
 try{const stored=JSON.parse(localStorage.getItem('london-culture-saved')||'[]');if(Array.isArray(stored))saved=new Set(stored);}catch{}
 const key=e=>[e.url,e.start,e.time].join('|');
-const isCat=(e,c)=>c==='all'||(c==='picks'?e.collection==='classical'&&e.featured:e.collection===c);
+const isCat=(e,c)=>c==='all'||(c==='discovery'?!!e.discovery:c==='jazz'?e.genre==='Jazz':c==='picks'?e.collection==='classical'&&e.featured:e.collection===c);
 const dated=s=>typeof s==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(s);
 function dateLabel(s){return dated(s)?s.replaceAll('-','.'):'';}
 function period(e){if(e.start===e.end&&e.start)return dateLabel(e.start)+(e.time?' · '+e.time:'');if(e.start&&e.end)return dateLabel(e.start)+' – '+dateLabel(e.end);return e.end?dateLabel(e.end)+'까지':dateLabel(e.start);}
 function status(e){if(e.collection==='exhibition'&&(!e.start||e.start<=TODAY)&&e.end>=TODAY){const days=(Date.parse(e.end)-Date.parse(TODAY))/86400000;return days<=14?'곧 종료':'전시 중';}return e.start===TODAY?'오늘':'';}
 function venueGroup(name){
   const n=(name||'').trim();
+  if(/vortex/i.test(n))return 'Vortex';
+  if(/ronnie.*scott/i.test(n))return "Ronnie Scott's";
   if(/barbican/i.test(n))return 'Barbican';
   if(/royal albert hall/i.test(n))return 'Royal Albert Hall';
   if(/royal festival hall/i.test(n))return 'Royal Festival Hall';
@@ -34,7 +36,7 @@ function buildVenues(){
 }
 function buildFilters(){
   $('filters').innerHTML=Object.entries(LABELS).map(([k,v])=>`<button data-c="${k}" class="${k===activeCat?'active':''}" aria-pressed="${k===activeCat}">${v}<small>${EVENTS.filter(e=>isCat(e,k)).length}</small></button>`).join('');
-  $('filters').querySelectorAll('button').forEach(b=>b.onclick=()=>{activeCat=b.dataset.c;if(activeCat==='exhibition')$('genre').value='all';buildFilters();buildVenues();render();});
+  $('filters').querySelectorAll('button').forEach(b=>b.onclick=()=>{activeCat=b.dataset.c;$('genre').value='all';buildFilters();buildVenues();render();});
 }
 $('genre').innerHTML='<option value="all">전체 장르</option>'+GENRES.map(g=>`<option value="${esc(g)}">${esc(g)}</option>`).join('');
 function sortValue(e){if(sortKey==='title')return e.title||'';if(sortKey==='venue')return e.venue||'';if(sortKey==='type')return e.genre||e.type||'';if(sortKey==='ending')return e.end||e.start||'9999';return (e.start&&e.start>=TODAY?e.start:TODAY)+(e.time||'');}
@@ -49,8 +51,8 @@ function render(){
   $('genre').disabled=activeCat==='exhibition';
   $('empty').style.display=list.length?'none':'block';
   $('count').textContent=`${list.length}개의 일정 · 종료된 일정은 자동으로 숨깁니다.`;
-  $('context').textContent=(activeCat==='picks'?'관심 연주자·지휘자·방문 오케스트라가 포함된 클래식입니다. 선정 이유를 확인해 보세요.':activeCat==='korean'?'한국 가수 관심 목록과 K-pop 분류로 찾은 런던 일정입니다. 밴드·인디 공연도 포함됩니다.':activeCat==='headliners'?'Bon Jovi 등을 포함한 관심 목록 기준입니다. 트리뷰트·클럽 파티는 제외합니다.':genre!=='all'?`${genre} · 관심 목록에 맞는 음악 일정입니다.`:'취향 분류와 음악 장르, 기간을 조합해 일정을 찾아보세요.')+(sourceWarnings?` 일부 소스(${sourceWarnings}개)의 갱신을 확인해야 합니다. 하단 수집 상태를 확인하세요.`:'');
-  $('list').innerHTML=list.slice(0,visibleLimit).map(e=>`<article class="row"><div class="year">${esc(period(e))}${status(e)?`<br><strong>${esc(status(e))}</strong>`:''}</div><div>${e.featured?'<span class="tag">CLASSICAL PICK</span>':''}<div class="title-en"><a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener noreferrer">${esc(e.title)} ↗</a></div>${e.subtitle?`<div class="title-sub">${esc(e.subtitle)}</div>`:''}${e.programme?`<div class="programme">${esc(e.programme)}</div>`:''}${(e.reasons||[]).length?`<div class="reason">${e.reasons.map(esc).join('<br>')}</div>`:''}${e.verification_mode==='manual'?`<div class="stale">직접 확인 ${esc((e.verified_at||'').slice(0,10))} · 예매 전 원본 확인</div>`:''}${e.stale?'<div class="stale">이전 수집 정보 · 원본에서 일정 확인 필요</div>':''}<button class="bookmark" data-key="${esc(key(e))}" aria-pressed="${saved.has(key(e))}" aria-label="${esc(e.title)} 저장">${saved.has(key(e))?'저장됨 ✓':'일정 저장 +'}</button></div><div class="type">${esc(e.genre||e.type)}<span class="src">${esc(e.source)}${e.verification_source?' · '+esc(e.verification_source)+' 확인':''}</span>${e.price?`<span class="price">${esc(e.price)}</span>`:''}</div><div class="loc">${esc(e.venue||'공연장 확인 필요')}<span class="sub">London</span></div></article>`).join('');
+  $('context').textContent=(activeCat==='jazz'?'런던 재즈 공연과 재즈 클럽 프로그램입니다. 공연장별로 골라 보세요.':activeCat==='discovery'?'EartH·Serious 공개 일정에서 찾은 음악입니다. 관심 목록 밖의 아티스트도 포함합니다.':activeCat==='picks'?'관심 연주자·지휘자·방문 오케스트라가 포함된 클래식입니다. 선정 이유를 확인해 보세요.':activeCat==='korean'?'한국 가수 관심 목록과 K-pop 분류로 찾은 런던 일정입니다. 밴드·인디 공연도 포함됩니다.':activeCat==='headliners'?'Bon Jovi 등을 포함한 관심 목록 기준입니다. 트리뷰트·클럽 파티는 제외합니다.':genre!=='all'?`${genre} · 관심 목록에 맞는 음악 일정입니다.`:'취향 분류와 음악 장르, 기간을 조합해 일정을 찾아보세요.')+(sourceWarnings?` 일부 소스(${sourceWarnings}개)의 갱신을 확인해야 합니다. 하단 수집 상태를 확인하세요.`:'');
+  $('list').innerHTML=list.slice(0,visibleLimit).map(e=>`<article class="row"><div class="year">${esc(period(e))}${status(e)?`<br><strong>${esc(status(e))}</strong>`:''}</div><div>${e.featured?'<span class="tag">CLASSICAL PICK</span>':''}<div class="title-en"><a href="${esc(safeUrl(e.url))}" target="_blank" rel="noopener noreferrer">${esc(e.title)} ↗</a></div>${e.subtitle?`<div class="title-sub">${esc(e.subtitle)}</div>`:''}${e.schedule_note?`<div class="programme">${esc(e.schedule_note)}</div>`:''}${e.programme?`<div class="programme">${esc(e.programme)}</div>`:''}${(e.reasons||[]).length?`<div class="reason">${e.reasons.map(esc).join('<br>')}</div>`:''}${e.verification_mode==='manual'?`<div class="stale">직접 확인 ${esc((e.verified_at||'').slice(0,10))} · 예매 전 원본 확인</div>`:''}${e.stale?'<div class="stale">이전 수집 정보 · 원본에서 일정 확인 필요</div>':''}<button class="bookmark" data-key="${esc(key(e))}" aria-pressed="${saved.has(key(e))}" aria-label="${esc(e.title)} 저장">${saved.has(key(e))?'저장됨 ✓':'일정 저장 +'}</button></div><div class="type">${esc(e.genre||e.type)}<span class="src">${esc(e.source)}${e.verification_source?' · '+esc(e.verification_source)+' 확인':''}</span>${e.price?`<span class="price">${esc(e.price)}</span>`:''}</div><div class="loc">${esc(e.venue||'공연장 확인 필요')}<span class="sub">London</span></div></article>`).join('');
   $('more').hidden=list.length<=visibleLimit;
   $('more').textContent='일정 더 보기 ('+Math.min(visibleLimit,list.length)+' / '+list.length+')';
   $('list').querySelectorAll('.bookmark').forEach(b=>b.onclick=()=>{const k=b.dataset.key;saved.has(k)?saved.delete(k):saved.add(k);try{localStorage.setItem('london-culture-saved',JSON.stringify([...saved]));}catch{}render();});

@@ -7,7 +7,7 @@ from curation import PREFERENCES, classify
 
 API = 'https://app.ticketmaster.com/discovery/v2/events.json'
 
-def parse(ev):
+def parse(ev, source='Ticketmaster'):
     if (ev.get('dates') or {}).get('status', {}).get('code') in ('cancelled', 'postponed'):
         return None
     embedded = ev.get('_embedded') or {}
@@ -15,6 +15,7 @@ def parse(ev):
     cls = (ev.get('classifications') or [{}])[0]
     genres = [(cls.get(k) or {}).get('name', '') for k in ('genre', 'subGenre')]
     genre = next((g for g in reversed(genres) if g not in ('', 'Undefined')), 'Other')
+    if 'Jazz' in genres: genre = 'Jazz'
     dates = (ev.get('dates') or {}).get('start', {})
     if dates.get('dateTBA') or dates.get('dateTBD') or not dates.get('localDate'):
         return None
@@ -23,7 +24,7 @@ def parse(ev):
     if prices and prices[0].get('min') is not None:
         symbol = '£' if prices[0].get('currency') == 'GBP' else prices[0].get('currency', '')
         price = f"{symbol}{prices[0]['min']:g}부터"
-    result = event('music', ev.get('name', ''), ev.get('url', ''), 'Ticketmaster',
+    result = event('music', ev.get('name', ''), ev.get('url', ''), source,
                    etype=genre, venue=venues[0].get('name', ''), area='London',
                    start=dates['localDate'], end=dates['localDate'],
                    time='' if dates.get('timeTBA') else (dates.get('localTime') or '')[:5],
@@ -32,12 +33,13 @@ def parse(ev):
                   genres=genres, genre=genre)
     return classify(result)
 
-def fetch():
+def fetch(queries=None, source='Ticketmaster'):
     key = os.environ.get('TICKETMASTER_API_KEY')
     if not key:
         raise RuntimeError('TICKETMASTER_API_KEY is not configured')
-    queries = [{'keyword': n} for n in dict.fromkeys(PREFERENCES['headline_artists'] + PREFERENCES['korean_artists'])]
-    queries.append({'classificationName': 'K-Pop'})
+    if queries is None:
+        queries = [{'keyword': n} for n in dict.fromkeys(PREFERENCES['headline_artists'] + PREFERENCES['korean_artists'])]
+        queries.append({'classificationName': 'K-Pop'})
     out, seen = [], set()
     for query in queries:
         for page in range(5):
@@ -55,7 +57,7 @@ def fetch():
                 if raw.get('id') in seen:
                     continue
                 seen.add(raw.get('id'))
-                ev = parse(raw)
+                ev = parse(raw, source)
                 if ev:
                     out.append(ev)
             time.sleep(0.25)
@@ -64,3 +66,6 @@ def fetch():
         else:
             raise RuntimeError('Ticketmaster query exceeded pagination limit')
     return out
+
+def fetch_jazz():
+    return fetch([{'classificationName': 'Jazz'}], source='Ticketmaster Jazz')

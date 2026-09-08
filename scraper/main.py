@@ -8,12 +8,12 @@ from datetime import datetime, date, timezone
 from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(__file__))
-from sources import ticketmaster, tate, national_gallery, wigmore, barbican, bachtrack, galleries, dice
+from sources import ticketmaster, tate, national_gallery, wigmore, barbican, bachtrack, galleries, dice, live_music
 from curation import classify, folded
 
 SOURCES = [('Bachtrack', bachtrack.fetch), ('Wigmore Hall', wigmore.fetch),
            ('Barbican', barbican.fetch), ('Tate', tate.fetch),
-           ('National Gallery', national_gallery.fetch), ('Ticketmaster', ticketmaster.fetch), ('DICE', dice.fetch)] + galleries.SOURCES
+           ('National Gallery', national_gallery.fetch), ('Ticketmaster', ticketmaster.fetch), ('DICE', dice.fetch)] + galleries.SOURCES + [('Ticketmaster Jazz', ticketmaster.fetch_jazz)] + live_music.SOURCES
 OUT = Path(__file__).resolve().parent.parent / 'docs' / 'events.json'
 RETENTION_DAYS = 7
 
@@ -42,7 +42,7 @@ def collect(previous, sources=SOURCES, now=None):
         error = None
         try:
             raw = fn()
-            if not raw and name not in ('Ticketmaster', 'DICE'):
+            if not raw and name not in ('Ticketmaster', 'Ticketmaster Jazz', 'DICE'):
                 raise RuntimeError('No cards returned; source may be unavailable or changed')
             fresh = [dict(e, last_seen=e['verified_at'] if e.get('verification_mode') == 'manual' else stamp, stale=False) for e in raw]
             last_success = max((e['last_seen'] for e in fresh), default=stamp)
@@ -69,10 +69,12 @@ def collect(previous, sources=SOURCES, now=None):
         print(f"[{name}] {len(selected)} selected; {statuses[-1]['status']}")
     # Keep separate venues and matinee/evening performances. Prefer freshly checked rows.
     unique = {}
-    for ev in sorted(events, key=lambda e: bool(e.get('stale'))):
+    for ev in sorted(events, key=lambda e: (bool(e.get('stale')), e.get('verification_mode') == 'manual')):
         key = (folded(ev['title']), folded(ev['venue']), ev.get('start'), ev.get('time'))
         if key not in unique:
             unique[key] = ev
+        elif ev.get('discovery'):
+            unique[key]['discovery'] = True
     events = sorted(unique.values(), key=lambda e: (e.get('start') or e.get('end'), e.get('time') or ''))
     return dict(updated=stamp, count=len(events), sources=statuses, events=events)
 

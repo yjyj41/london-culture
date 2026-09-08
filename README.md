@@ -71,3 +71,11 @@ python -m http.server 8000 --directory docs
 5. 자동 접근이 모두 실패할 때 사용하려면 직접 확인한 `verified_event`를 함께 기록합니다. title, start(YYYY-MM-DD), time(HH:MM), venue, verified_at(시간대 포함 ISO)을 작성합니다. 직접 확인한 이벤트는 종료일까지 게시하되 확인 시각을 자동 갱신하지 않고 화면에 ‘직접 확인’을 표시합니다. 원본에서 취소·연기가 확인되면 제외합니다. 자동 접근이 차단된 상태의 취소는 감지할 수 없으므로 원본 확인이 필요합니다.
 
 장기하 공연은 2026-09-28 19:30, EartH Theatre의 K-Music Festival로 DICE 및 공식 공연장 페이지에서 확인해 등록했습니다. ADG7, Chang Kiha, Lil Cherry & GOLDBUUDA가 함께 출연하는 공연입니다. [공식 예매](https://dice.fm/event/xeovae-k-music-festival-adg7-chang-kiha-lil-cherry-goldbuuda-28th-sep-earth-london-tickets).
+
+## 재즈와 새로운 음악
+- 재즈 탭: Vortex 및 Ronnie Scott’s 공개 일정의 페이지를 순회하고, Ticketmaster 런던 Jazz 검색을 별도로 수집합니다. 유명 아티스트 관심 목록에 없어도 포함합니다. 전문 클럽의 소울·퓨전 프로그램도 포함합니다.
+- Ronnie Scott’s 목록의 날짜 범위는 여러 회차의 첫날과 마지막 날일 수 있습니다. 매일 공연으로 확장하지 않으며 개별 회차와 시간은 원본에서 확인하도록 안내합니다.
+- 새로운 음악 탭: EartH와 Serious의 현재 공개 목록에서 음악 공연을 자동 발견합니다. Serious는 확인된 런던 공연장만 허용하고 Multiple Venues 및 다른 도시는 제외합니다. 전체 DICE 카탈로그 연동은 아닙니다.
+- EartH는 설명/제목의 음악 단서 또는 관심 아티스트 이름을 사용합니다. 설명이 빈약한 공연은 빠질 수 있습니다. 표시 시간은 입장 시간일 수 있어 별도로 안내합니다.
+- 한국 가수 관심 목록을 인디·밴드까지 확장했습니다. 새 음악으로 발견된 관심 아티스트는 해당 취향 탭에도 표시됩니다.
+- 기존처럼 소스 접근 실패는 숨기지 않고 상태와 최대 7일의 이전 정보로 표시합니다.
