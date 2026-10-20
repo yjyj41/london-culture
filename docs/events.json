@@ -1,53 +1,53 @@
 {
-  "updated": "2026-10-19T12:12:52+00:00",
-  "count": 600,
+  "updated": "2026-10-20T10:57:47+00:00",
+  "count": 604,
   "sources": [
     {
       "name": "Bachtrack",
       "status": "unavailable",
       "count": 0,
       "last_success": "2026-09-08T10:49:20+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": "403 Client Error: Forbidden for url: https://bachtrack.com/search-concerts/city=london"
     },
     {
       "name": "Wigmore Hall",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Barbican",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Tate",
       "status": "ok",
       "count": 13,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "National Gallery",
       "status": "ok",
-      "count": 5,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "count": 6,
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Ticketmaster",
       "status": "ok",
       "count": 19,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
@@ -55,23 +55,23 @@
       "status": "ok",
       "count": 0,
       "last_success": "2026-09-08T10:27:36+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "V&A",
       "status": "ok",
       "count": 4,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Design Museum",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
@@ -79,55 +79,55 @@
       "status": "unavailable",
       "count": 0,
       "last_success": "2026-09-08T10:49:20+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": "403 Client Error: Forbidden for url: https://www.serpentinegalleries.org/whats-on/"
     },
     {
       "name": "Whitechapel Gallery",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "The Photographers' Gallery",
       "status": "ok",
       "count": 6,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Courtauld Gallery",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Ticketmaster Jazz",
       "status": "ok",
-      "count": 260,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "count": 258,
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Vortex",
       "status": "ok",
-      "count": 64,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "count": 70,
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
       "name": "Ronnie Scott's",
       "status": "ok",
       "count": 205,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     },
     {
@@ -135,15 +135,15 @@
       "status": "unavailable",
       "count": 0,
       "last_success": null,
-      "checked_at": "2026-10-19T12:12:52+00:00",
-      "message": "403 Client Error: Forbidden for url: https://earthackney.co.uk/events/"
+      "checked_at": "2026-10-20T10:57:47+00:00",
+      "message": "No dated event cards returned"
     },
     {
       "name": "Serious",
       "status": "ok",
-      "count": 7,
-      "last_success": "2026-10-19T12:12:52+00:00",
-      "checked_at": "2026-10-19T12:12:52+00:00",
+      "count": 6,
+      "last_success": "2026-10-20T10:57:47+00:00",
+      "checked_at": "2026-10-20T10:57:47+00:00",
       "message": ""
     }
   ],
@@ -163,7 +163,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/ninagawa-mika-captive-blooms",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -187,7 +187,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/roots",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -211,7 +211,7 @@
       "price": "",
       "url": "https://courtauld.ac.uk/whats-on/exh-salman-toor-someone-like-you/",
       "source": "Courtauld Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -235,7 +235,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -259,7 +259,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna-foraging-quipu/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -283,7 +283,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/screen-portraits-whitechapel-gallery-artists-part-2/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -307,31 +307,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/this-must-be-the-place-artists-for-whitechapel-gallery/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "exhibition",
-      "genre": "",
-      "featured": false,
-      "reasons": [
-        "런던 전시"
-      ]
-    },
-    {
-      "id": "747056a34f2c",
-      "category": "exhibition",
-      "title": "Snap Happy! How Children Became Photographers",
-      "subtitle": "",
-      "type": "Exhibition",
-      "venue": "The Photographers' Gallery",
-      "area": "London",
-      "date_text": "14 Oct 2026 - 21 Feb 2027",
-      "start": "2026-10-14",
-      "end": "2027-02-21",
-      "time": "",
-      "price": "",
-      "url": "https://thephotographersgallery.org.uk/whats-on/snap-happy-how-children-became-photographers",
-      "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -355,7 +331,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/sanle-sory-colour-years",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -379,7 +355,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/william-eggleston-all-goes-unnoticed",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -389,233 +365,28 @@
       ]
     },
     {
-      "id": "44be16d76fdd",
-      "category": "music",
-      "title": "Ronnie Scott's Classical All Stars: The Art of Song",
-      "subtitle": "Upstairs at Ronnie's",
-      "type": "Jazz",
-      "venue": "Ronnie Scott's",
+      "id": "747056a34f2c",
+      "category": "exhibition",
+      "title": "Snap Happy! How Children Became Photographers",
+      "subtitle": "",
+      "type": "Exhibition",
+      "venue": "The Photographers' Gallery",
       "area": "London",
-      "date_text": "Mon 19 Oct 2026",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
+      "date_text": "14 Oct 2026 - 21 Feb 2027",
+      "start": "2026-10-14",
+      "end": "2027-02-21",
       "time": "",
       "price": "",
-      "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-classical-all-stars-the-art-of-song",
-      "source": "Ronnie Scott's",
-      "jazz_venue_listing": true,
-      "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "url": "https://thephotographersgallery.org.uk/whats-on/snap-happy-how-children-became-photographers",
+      "source": "The Photographers' Gallery",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
-      "collection": "jazz",
-      "genre": "Jazz",
+      "collection": "exhibition",
+      "genre": "",
       "featured": false,
       "reasons": [
-        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+        "런던 전시"
       ]
-    },
-    {
-      "id": "5fd01accffa4",
-      "category": "music",
-      "title": "Mingus Big Band",
-      "subtitle": "Main Show",
-      "type": "Jazz",
-      "venue": "Ronnie Scott's",
-      "area": "London",
-      "date_text": "Mon 19 - Sat 24 Oct 2026",
-      "start": "2026-10-19",
-      "end": "2026-10-24",
-      "time": "",
-      "price": "",
-      "url": "https://www.ronniescotts.co.uk/find-a-show/mingus-bb",
-      "source": "Ronnie Scott's",
-      "jazz_venue_listing": true,
-      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "jazz",
-      "genre": "Jazz",
-      "featured": false,
-      "reasons": [
-        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
-      ]
-    },
-    {
-      "id": "3e158bf49d1e",
-      "category": "music",
-      "title": "Late Late Soul Sessions Upstairs with Imaani",
-      "subtitle": "Late Late Show Upstairs",
-      "type": "Jazz",
-      "venue": "Ronnie Scott's",
-      "area": "London",
-      "date_text": "Mon 19 Oct - Mon 21 Dec 2026",
-      "start": "2026-10-19",
-      "end": "2026-12-21",
-      "time": "",
-      "price": "",
-      "url": "https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-imaani",
-      "source": "Ronnie Scott's",
-      "jazz_venue_listing": true,
-      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "jazz",
-      "genre": "Jazz",
-      "featured": false,
-      "reasons": [
-        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
-      ]
-    },
-    {
-      "id": "89e4e2717480",
-      "category": "music",
-      "title": "Ronnie Scott's Jazz Jam",
-      "subtitle": "Late Late Show",
-      "type": "Jazz",
-      "venue": "Ronnie Scott's",
-      "area": "London",
-      "date_text": "Mon 19 Oct - Mon 9 Nov 2026",
-      "start": "2026-10-19",
-      "end": "2026-11-09",
-      "time": "",
-      "price": "",
-      "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
-      "source": "Ronnie Scott's",
-      "jazz_venue_listing": true,
-      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "jazz",
-      "genre": "Jazz",
-      "featured": false,
-      "reasons": [
-        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
-      ]
-    },
-    {
-      "id": "28fe271f4842",
-      "category": "music",
-      "title": "Rita Payés & Lucia Fumero",
-      "subtitle": "",
-      "type": "Other",
-      "venue": "Cadogan Hall",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "time": "",
-      "price": "",
-      "url": "https://serious.org.uk/events/rita-payes-lucia-fumero",
-      "source": "Serious",
-      "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "discovery",
-      "genre": "Other",
-      "featured": false,
-      "reasons": []
-    },
-    {
-      "id": "6e10ea835d34",
-      "category": "music",
-      "title": "NOVO Quartet",
-      "subtitle": "",
-      "type": "Classical",
-      "venue": "Wigmore Hall",
-      "area": "London",
-      "date_text": "19.10.2026 13:00",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "time": "13:00",
-      "price": "",
-      "url": "https://www.wigmore-hall.org.uk/whats-on/202610191300",
-      "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "classical",
-      "genre": "Classical",
-      "featured": false,
-      "reasons": []
-    },
-    {
-      "id": "79de1d51363a",
-      "category": "music",
-      "title": "Shabaka",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Blue Note London",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "time": "19:00",
-      "price": "",
-      "url": "https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EC0E89",
-      "source": "Ticketmaster Jazz",
-      "artists": [
-        "Shabaka"
-      ],
-      "genres": [
-        "Jazz",
-        "Jazz"
-      ],
-      "genre": "Jazz",
-      "collection": "jazz",
-      "featured": false,
-      "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false
-    },
-    {
-      "id": "633ec539050c",
-      "category": "music",
-      "title": "Mahan Esfahani",
-      "subtitle": "harpsichord, ;, Aapo Häkkinen",
-      "type": "Classical",
-      "venue": "Wigmore Hall",
-      "area": "London",
-      "date_text": "19.10.2026 19:30",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "time": "19:30",
-      "price": "",
-      "url": "https://www.wigmore-hall.org.uk/whats-on/202610191930",
-      "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false,
-      "collection": "classical",
-      "genre": "Classical",
-      "featured": false,
-      "reasons": []
-    },
-    {
-      "id": "432f60bc8e16",
-      "category": "music",
-      "title": "Shabaka",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Blue Note London",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-10-19",
-      "end": "2026-10-19",
-      "time": "21:30",
-      "price": "",
-      "url": "https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EE0E8D",
-      "source": "Ticketmaster Jazz",
-      "artists": [
-        "Shabaka"
-      ],
-      "genres": [
-        "Jazz",
-        "Jazz"
-      ],
-      "genre": "Jazz",
-      "collection": "jazz",
-      "featured": false,
-      "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
-      "stale": false
     },
     {
       "id": "d9ec5afb153a",
@@ -634,7 +405,33 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
+    },
+    {
+      "id": "66b67c6139d1",
+      "category": "music",
+      "title": "Mingus Big Band",
+      "subtitle": "Main Show",
+      "type": "Jazz",
+      "venue": "Ronnie Scott's",
+      "area": "London",
+      "date_text": "Tue 20 - Sat 24 Oct 2026",
+      "start": "2026-10-20",
+      "end": "2026-10-24",
+      "time": "",
+      "price": "",
+      "url": "https://www.ronniescotts.co.uk/find-a-show/mingus-bb",
+      "source": "Ronnie Scott's",
+      "jazz_venue_listing": true,
+      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -660,7 +457,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -696,7 +493,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -715,7 +512,7 @@
       "url": "https://www.vortexjazz.co.uk/event/louis-koller-aureliano-zufolo/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -750,7 +547,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -768,7 +565,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610201930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -791,7 +588,7 @@
       "url": "https://www.vortexjazz.co.uk/event/street-life-the-randy-crawford-project/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -826,7 +623,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -846,7 +643,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -872,7 +669,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -898,7 +695,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -923,7 +720,7 @@
       "url": "https://serious.org.uk/events/midori-jaeger-2",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -945,7 +742,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610211300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -980,7 +777,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -999,7 +796,7 @@
       "url": "https://www.vortexjazz.co.uk/event/alex-bonney-tim-giles-alcyona-mick/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1034,7 +831,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1063,7 +860,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1081,7 +878,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610211930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1115,7 +912,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1134,7 +931,7 @@
       "url": "https://www.vortexjazz.co.uk/event/miles-at-100-alistair-martin-quintet-feat-tom-smith/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1171,7 +968,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1191,7 +988,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1217,7 +1014,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1243,7 +1040,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1267,7 +1064,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610221100",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1289,7 +1086,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610221230",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1324,7 +1121,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1343,7 +1140,7 @@
       "url": "https://www.vortexjazz.co.uk/event/martin-pyne-trio/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1378,7 +1175,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1408,7 +1205,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1426,7 +1223,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610221930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1459,7 +1256,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1478,7 +1275,7 @@
       "url": "https://www.vortexjazz.co.uk/event/somatiqi-ramseys-theory-live/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1515,7 +1312,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1545,7 +1342,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1565,7 +1362,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1591,7 +1388,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1617,7 +1414,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1641,7 +1438,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610231300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1675,7 +1472,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1704,7 +1501,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1734,7 +1531,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1763,7 +1560,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1792,7 +1589,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1821,7 +1618,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1839,7 +1636,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610231930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1874,7 +1671,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1893,7 +1690,7 @@
       "url": "https://www.vortexjazz.co.uk/event/zoe-francisjim-mullenross-stanley-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1929,7 +1726,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1959,7 +1756,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -1979,7 +1776,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2005,7 +1802,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2031,7 +1828,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2057,7 +1854,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2081,7 +1878,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610241300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -2114,7 +1911,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2143,7 +1940,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2161,7 +1958,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202610241930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -2195,7 +1992,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2214,7 +2011,7 @@
       "url": "https://www.vortexjazz.co.uk/event/tony_kofi_and_hans_koller_celebrating-steve_lacy/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2240,7 +2037,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2266,7 +2063,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2292,7 +2089,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2300,6 +2097,28 @@
       "reasons": [
         "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
       ]
+    },
+    {
+      "id": "3af72f25d642",
+      "category": "music",
+      "title": "Soloists of the Kronberg Academy; Kirill Gerstein",
+      "subtitle": "piano",
+      "type": "Classical",
+      "venue": "Wigmore Hall",
+      "area": "London",
+      "date_text": "25.10.2026 11:30",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "time": "11:30",
+      "price": "",
+      "url": "https://www.wigmore-hall.org.uk/whats-on/202610251130",
+      "source": "Wigmore Hall",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "classical",
+      "genre": "Classical",
+      "featured": false,
+      "reasons": []
     },
     {
       "id": "f5927849e533",
@@ -2327,7 +2146,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2356,8 +2175,30 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "f595cc6e1c31",
+      "category": "music",
+      "title": "Soloists of the Kronberg Academy; Kirill Gerstein",
+      "subtitle": "piano",
+      "type": "Classical",
+      "venue": "Wigmore Hall",
+      "area": "London",
+      "date_text": "25.10.2026 19:30",
+      "start": "2026-10-25",
+      "end": "2026-10-25",
+      "time": "19:30",
+      "price": "",
+      "url": "https://www.wigmore-hall.org.uk/whats-on/202610251930",
+      "source": "Wigmore Hall",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "classical",
+      "genre": "Classical",
+      "featured": false,
+      "reasons": []
     },
     {
       "id": "94e26cc86b1b",
@@ -2385,7 +2226,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2404,7 +2245,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-10-25/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2430,7 +2271,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2456,7 +2297,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2492,7 +2333,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2511,7 +2352,7 @@
       "url": "https://www.vortexjazz.co.uk/event/koper8-tom-rainey-giuseppe-doronzo-jannis-anastasakis-ingrid-laubrock/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2537,7 +2378,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2563,7 +2404,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2589,7 +2430,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2624,7 +2465,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2653,7 +2494,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2672,7 +2513,7 @@
       "url": "https://www.vortexjazz.co.uk/event/shirantha-beddage-departures-album-release/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2705,7 +2546,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2737,7 +2578,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2757,7 +2598,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2783,7 +2624,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2809,7 +2650,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2834,7 +2675,7 @@
       "url": "https://serious.org.uk/events/jasmine-myra",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -2869,7 +2710,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2898,7 +2739,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2928,7 +2769,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -2947,7 +2788,7 @@
       "url": "https://www.vortexjazz.co.uk/event/craig-taborn-peter-evans-2-shows/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2982,7 +2823,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3013,7 +2854,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3043,7 +2884,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3063,7 +2904,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3089,7 +2930,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3115,7 +2956,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3141,7 +2982,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3167,7 +3008,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3204,7 +3045,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3233,7 +3074,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3252,7 +3093,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-clore/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3287,7 +3128,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3317,7 +3158,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3336,7 +3177,7 @@
       "url": "https://www.vortexjazz.co.uk/event/josephine-davies-jazz-orchestra/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3373,7 +3214,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3403,7 +3244,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3423,7 +3264,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3449,7 +3290,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3475,7 +3316,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3501,7 +3342,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3538,7 +3379,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3568,7 +3409,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3597,7 +3438,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3626,7 +3467,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3645,7 +3486,7 @@
       "url": "https://www.vortexjazz.co.uk/event/rob-luft-quartet-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3682,7 +3523,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3701,7 +3542,7 @@
       "url": "https://www.vortexjazz.co.uk/event/jeff-tain-watts-4-tex-two-shows-after-party/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3727,7 +3568,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3753,7 +3594,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3788,7 +3629,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3818,7 +3659,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3847,7 +3688,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3876,7 +3717,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3905,7 +3746,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3935,7 +3776,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3965,7 +3806,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -3994,7 +3835,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4014,7 +3855,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4040,7 +3881,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4057,16 +3898,16 @@
       "type": "Jazz",
       "venue": "Ronnie Scott's",
       "area": "London",
-      "date_text": "Sun 1 Nov - Sun 6 Dec 2026",
+      "date_text": "Sun 1 Nov - Sun 7 Mar 2027",
       "start": "2026-11-01",
-      "end": "2026-12-06",
+      "end": "2027-03-07",
       "time": "",
       "price": "",
       "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-blues-explosion-5",
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4091,7 +3932,7 @@
       "url": "https://www.vortexjazz.co.uk/event/london-jazz-orchestra-vortex-sessions-the-pianists-of-the-ljo/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4126,7 +3967,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4156,7 +3997,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4175,7 +4016,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-11-01/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4210,7 +4051,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4230,7 +4071,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4256,7 +4097,33 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
+    },
+    {
+      "id": "151c5b906c3e",
+      "category": "music",
+      "title": "Ronnie Scott's Jazz Jam",
+      "subtitle": "Late Late Show",
+      "type": "Jazz",
+      "venue": "Ronnie Scott's",
+      "area": "London",
+      "date_text": "Mon 2 - Mon 9 Nov 2026",
+      "start": "2026-11-02",
+      "end": "2026-11-09",
+      "time": "",
+      "price": "",
+      "url": "https://www.ronniescotts.co.uk/find-a-show/ronnie-scotts-jazz-jam-1",
+      "source": "Ronnie Scott's",
+      "jazz_venue_listing": true,
+      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4282,7 +4149,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4317,7 +4184,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4346,7 +4213,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4366,7 +4233,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4392,7 +4259,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4418,7 +4285,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4455,7 +4322,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4474,7 +4341,7 @@
       "url": "https://www.vortexjazz.co.uk/event/kenny-warren-john-edwards-andrew-lisle/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4509,7 +4376,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4528,7 +4395,8 @@
       "url": "https://www.universe.com/events/mark-guiliana-beat-music-tickets-J7BKD8?ref=ticketmaster",
       "source": "Ticketmaster Jazz",
       "artists": [
-        "Mark Guiliana"
+        "Mark Guiliana",
+        "Colossal Squid"
       ],
       "genres": [
         "Jazz",
@@ -4538,8 +4406,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "ca17b49a64ee",
+      "category": "music",
+      "title": "London Ambient Orchestra Presents: An Evening of Improvised Music and Sonic Exploration",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-11-03",
+      "end": "2026-11-03",
+      "time": "19:45",
+      "price": "General Admission £17.50",
+      "url": "https://www.vortexjazz.co.uk/event/london-ambient-orchestra-presents-an-evening-of-improvised-music-and-sonic-exploration/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "00628306f7ec",
@@ -4570,7 +4463,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4599,7 +4492,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4619,7 +4512,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4645,7 +4538,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4671,7 +4564,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4697,7 +4590,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4734,7 +4627,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4763,7 +4656,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4782,7 +4675,7 @@
       "url": "https://www.vortexjazz.co.uk/event/mark-lasis-quintet/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4819,7 +4712,7 @@
       "reasons": [
         "K-pop 장르로 분류된 공연"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4849,7 +4742,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4879,7 +4772,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4898,7 +4791,7 @@
       "url": "https://www.vortexjazz.co.uk/event/rebecka-edlund-trio-ft-laura-jurd-ruth-goller/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4935,7 +4828,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -4955,7 +4848,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4981,7 +4874,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5007,7 +4900,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5033,7 +4926,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5059,7 +4952,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5084,7 +4977,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-lates-jochen-rueckert-quartet-plays-jazz-classics/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5121,7 +5014,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5140,7 +5033,7 @@
       "url": "https://www.vortexjazz.co.uk/event/loz-speyers-space-trio/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5175,7 +5068,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5204,7 +5097,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5223,7 +5116,7 @@
       "url": "https://www.vortexjazz.co.uk/event/onmo-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5260,7 +5153,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5289,7 +5182,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5309,7 +5202,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5335,7 +5228,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5361,7 +5254,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5397,7 +5290,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5428,7 +5321,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5447,7 +5340,7 @@
       "url": "https://www.vortexjazz.co.uk/event/colin-webster-matthew-grigg-caius-williams-fabian-neubauer/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5482,7 +5375,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5501,7 +5394,7 @@
       "url": "https://www.vortexjazz.co.uk/event/jochen-rueckert-new-quartet/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5537,7 +5430,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5568,7 +5461,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5588,7 +5481,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5614,7 +5507,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5640,7 +5533,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5666,7 +5559,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5702,7 +5595,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5734,7 +5627,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5763,7 +5656,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5782,7 +5675,7 @@
       "url": "https://www.vortexjazz.co.uk/event/leo-richardson-quartet-6/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5818,7 +5711,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5838,7 +5731,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5864,7 +5757,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5890,7 +5783,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5925,7 +5818,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5954,7 +5847,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -5973,7 +5866,7 @@
       "url": "https://www.vortexjazz.co.uk/event/thurston-moore-and-mark-wastell/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6008,7 +5901,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6028,7 +5921,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6054,7 +5947,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6089,7 +5982,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6118,7 +6011,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6147,7 +6040,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6167,7 +6060,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6193,7 +6086,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6219,7 +6112,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6254,7 +6147,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6273,7 +6166,7 @@
       "url": "https://www.vortexjazz.co.uk/event/one_orchestra-new-3/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6311,7 +6204,7 @@
       "collection": "classical",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6340,7 +6233,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6360,7 +6253,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6386,7 +6279,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6412,7 +6305,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6450,7 +6343,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6481,7 +6374,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6500,7 +6393,7 @@
       "url": "https://www.vortexjazz.co.uk/event/bonney-brice-crowley-giles/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6525,7 +6418,7 @@
       "url": "https://www.vortexjazz.co.uk/event/family-band-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6558,7 +6451,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6589,7 +6482,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6607,7 +6500,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6633,7 +6526,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6659,7 +6552,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6685,7 +6578,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6720,7 +6613,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6751,7 +6644,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6780,7 +6673,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6799,7 +6692,7 @@
       "url": "https://www.vortexjazz.co.uk/event/finn-carter-stephanie-burrell/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6836,7 +6729,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6856,7 +6749,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6882,7 +6775,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6918,7 +6811,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6937,7 +6830,7 @@
       "url": "https://www.vortexjazz.co.uk/event/dalston-song-club-lily-lyons-downstairs/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -6972,7 +6865,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -6999,7 +6892,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7028,7 +6921,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7047,7 +6940,7 @@
       "url": "https://www.vortexjazz.co.uk/event/alina-bzhezhinska-after-john-cosmic-music-of-alice-coltrane/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7083,7 +6976,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7112,7 +7005,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7132,7 +7025,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7158,7 +7051,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7184,7 +7077,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7210,7 +7103,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7247,7 +7140,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7266,7 +7159,7 @@
       "url": "https://www.vortexjazz.co.uk/event/ari-hoenig-trio-featuring-tom-ollendorff-and-viktor-nyberg-2-shows/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7302,7 +7195,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7333,7 +7226,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7363,7 +7256,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7381,7 +7274,7 @@
       "price": "£12.50",
       "url": "https://www.vam.ac.uk/exhibitions/inside-aardman-wallace-gromit-and-friends",
       "source": "V&A",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7405,7 +7298,7 @@
       "price": "Sold out",
       "url": "https://www.vam.ac.uk/exhibitions/schiaparelli",
       "source": "V&A",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7431,7 +7324,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7457,7 +7350,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7483,7 +7376,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7518,7 +7411,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7533,11 +7426,11 @@
       "start": "2026-11-15",
       "end": "2026-11-15",
       "time": "15:00",
-      "price": "Standard £12.50 / Vortex Members £10 / Students & UC beneficiaries £8",
+      "price": "Standard £15 / Vortex Members £10 / Students & UC beneficiaries £8",
       "url": "https://www.vortexjazz.co.uk/event/london-jazz-orchestra-festival-special-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7575,7 +7468,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7604,7 +7497,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7634,7 +7527,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7653,7 +7546,7 @@
       "url": "https://www.vortexjazz.co.uk/event/mopomoso-international-free-improvised-music-november-2026/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7689,7 +7582,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7716,7 +7609,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7746,7 +7639,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7766,7 +7659,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7792,7 +7685,33 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
+    },
+    {
+      "id": "6c2f12c89ec8",
+      "category": "music",
+      "title": "Late Late Soul Sessions Upstairs with Imaani",
+      "subtitle": "Late Late Show Upstairs",
+      "type": "Jazz",
+      "venue": "Ronnie Scott's",
+      "area": "London",
+      "date_text": "Mon 16 Nov - Mon 21 Dec 2026",
+      "start": "2026-11-16",
+      "end": "2026-12-21",
+      "time": "",
+      "price": "",
+      "url": "https://www.ronniescotts.co.uk/find-a-show/late-late-soul-sessions-imaani",
+      "source": "Ronnie Scott's",
+      "jazz_venue_listing": true,
+      "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7830,7 +7749,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7859,7 +7778,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7888,7 +7807,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7917,7 +7836,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7948,7 +7867,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -7967,7 +7886,7 @@
       "url": "https://www.vortexjazz.co.uk/event/crow-culture-tara-cunningham-james-kitchman-will-glaser/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -7991,7 +7910,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/the-film-london-jarman-award-2026/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -8017,7 +7936,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8043,7 +7962,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8069,7 +7988,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8104,7 +8023,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8133,7 +8052,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8160,7 +8079,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8190,7 +8109,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8209,7 +8128,7 @@
       "url": "https://www.vortexjazz.co.uk/event/emilia-martenssonmatt-robinson-featuring-adam-waldmann-max-luthert-will-glaser/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8247,7 +8166,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8267,7 +8186,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8293,7 +8212,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8330,7 +8249,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8359,7 +8278,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8388,7 +8307,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8407,7 +8326,7 @@
       "url": "https://www.vortexjazz.co.uk/event/reiss-ellis-beckles-presents-blues-and-the-abstract-truth/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8444,7 +8363,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8464,7 +8383,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8490,7 +8409,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8516,7 +8435,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8542,7 +8461,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8577,7 +8496,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8608,7 +8527,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8637,7 +8556,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8666,7 +8585,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8685,7 +8604,7 @@
       "url": "https://www.vortexjazz.co.uk/event/coras-trio/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8722,7 +8641,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8751,7 +8670,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8771,7 +8690,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8797,7 +8716,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8823,7 +8742,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8859,7 +8778,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8889,7 +8808,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8908,7 +8827,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-downstairs-living-presents-songs-of-joni-mitchell-with-rebecka-edlund-and-immy-churchill/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -8944,7 +8863,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8973,7 +8892,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -8992,7 +8911,7 @@
       "url": "https://www.vortexjazz.co.uk/event/heinen-vogel-hitchcock-bareket-calderazzo-the-ligeti-project/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9028,7 +8947,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9057,7 +8976,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9087,7 +9006,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9105,7 +9024,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
       "source": "National Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -9131,7 +9050,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9157,7 +9076,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9183,7 +9102,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9219,7 +9138,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9249,7 +9168,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9279,7 +9198,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9308,7 +9227,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9327,7 +9246,7 @@
       "url": "https://www.vortexjazz.co.uk/event/james-allsopp-group-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9363,7 +9282,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9393,7 +9312,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9413,7 +9332,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9439,7 +9358,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9465,7 +9384,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9500,7 +9419,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9529,7 +9448,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9558,7 +9477,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9577,7 +9496,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-11-22/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9612,7 +9531,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9632,7 +9551,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9658,7 +9577,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9684,7 +9603,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9710,7 +9629,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9736,7 +9655,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9771,7 +9690,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9791,7 +9710,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9817,7 +9736,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9854,7 +9773,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9873,7 +9792,7 @@
       "url": "https://www.vortexjazz.co.uk/event/milena-granci-to-some-place-new/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9910,7 +9829,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -9930,7 +9849,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9956,7 +9875,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -9992,8 +9911,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "c429137e20a3",
+      "category": "music",
+      "title": "Steve Noble, Caius Williams & Tom Challenger",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-11-26",
+      "end": "2026-11-26",
+      "time": "18:45",
+      "price": "Standard £12.50 / Vortex Members £6.25 / Students & UC beneficiaries £5",
+      "url": "https://www.vortexjazz.co.uk/event/steve-noble-caius-williams-tom-challenger/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "e0460e1776ee",
@@ -10023,7 +9967,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: LEENALCHI"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10053,7 +9997,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10073,7 +10017,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10109,7 +10053,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10139,7 +10083,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10158,7 +10102,7 @@
       "url": "https://www.vortexjazz.co.uk/event/out-front-olie-brice-quartet-double-bill/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10194,7 +10138,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10214,7 +10158,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10240,7 +10184,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10266,7 +10210,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10301,7 +10245,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10331,8 +10275,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "9fc5248b1dae",
+      "category": "music",
+      "title": "Mark Kavuma - Banger Factory",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "time": "19:45",
+      "price": "Standard £17.50 / Vortex Members £15 / Students & UC beneficiaries £12.5",
+      "url": "https://www.vortexjazz.co.uk/event/mark-kavuma-banger-factory/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "aa9240218f8d",
@@ -10361,7 +10330,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10390,7 +10359,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10410,7 +10379,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10435,7 +10404,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-commission-for-new-and-old-art-presents-i-am-nobody-london-show/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10471,7 +10440,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10490,7 +10459,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-11-29/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10516,7 +10485,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10542,7 +10511,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10577,7 +10546,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10606,7 +10575,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10626,7 +10595,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10652,7 +10621,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10687,7 +10656,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10706,7 +10675,7 @@
       "url": "https://www.vortexjazz.co.uk/event/fabienne-ambuehl-quartet-3/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10741,7 +10710,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10761,7 +10730,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10798,7 +10767,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10827,7 +10796,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10856,8 +10825,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "e4527cb755bb",
+      "category": "music",
+      "title": "John Butcher / Phil Durrant / Mark Wastell",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "time": "19:45",
+      "price": "Standard £16 / Vortex Members £10 / Students & UC beneficiaries £8",
+      "url": "https://www.vortexjazz.co.uk/event/john-butcher-phil-durrant-mark-wastell/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "0e2aaa80b17a",
@@ -10887,7 +10881,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10916,7 +10910,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -10936,7 +10930,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10962,7 +10956,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -10988,7 +10982,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11025,7 +11019,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11054,7 +11048,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11073,7 +11067,7 @@
       "url": "https://www.vortexjazz.co.uk/event/karim-saber-quintet-4/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11110,7 +11104,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11130,7 +11124,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11156,7 +11150,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11193,8 +11187,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "f68ff87e7566",
+      "category": "music",
+      "title": "Basil Hodge Quartet Featuring Tony Kofi",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "time": "19:45",
+      "price": "Standard £17.50 / Vortex Members £15 / Students & UC beneficiaries £12.5",
+      "url": "https://www.vortexjazz.co.uk/event/basil-hodge-quartet-featuring-tony-kofi/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "a9a536efccf5",
@@ -11224,7 +11243,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11244,7 +11263,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11269,7 +11288,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-collective-presents-future-standards-downstairs-jam-11/2026-12-05/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11305,7 +11324,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11324,7 +11343,7 @@
       "url": "https://www.vortexjazz.co.uk/event/phil-robsons-organ-trio-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11360,7 +11379,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11380,7 +11399,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11406,7 +11425,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11431,7 +11450,7 @@
       "url": "https://serious.org.uk/events/rhiannon-giddens",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -11454,7 +11473,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-12-06/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11480,7 +11499,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11506,7 +11525,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11532,7 +11551,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11558,7 +11577,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11584,7 +11603,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11620,7 +11639,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11649,7 +11668,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11668,7 +11687,7 @@
       "url": "https://www.vortexjazz.co.uk/event/miles-spilsbury/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11704,7 +11723,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11735,7 +11754,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11764,7 +11783,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11793,7 +11812,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11813,7 +11832,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11839,7 +11858,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11865,7 +11884,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11891,7 +11910,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11917,7 +11936,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -11954,7 +11973,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -11983,7 +12002,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12002,7 +12021,7 @@
       "url": "https://www.vortexjazz.co.uk/event/frank-carlberg-with-the-trinity-laban-jazz-orchestra-two-shows/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12039,7 +12058,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12068,7 +12087,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12088,7 +12107,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12125,7 +12144,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12156,7 +12175,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12176,7 +12195,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12202,7 +12221,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12238,8 +12257,33 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "c4c8f7a6f86d",
+      "category": "music",
+      "title": "Mark Lockheart - Shapeshifter Trio",
+      "subtitle": "",
+      "type": "Jazz",
+      "venue": "Vortex",
+      "area": "London",
+      "date_text": "",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "time": "19:45",
+      "price": "Standard £18 / Vortex Members £15 / Students & UC beneficiaries £13",
+      "url": "https://www.vortexjazz.co.uk/event/mark-lockheart-shapeshifter-trio-2/",
+      "source": "Vortex",
+      "jazz_venue_listing": true,
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "027d449746dd",
@@ -12268,7 +12312,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12288,7 +12332,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12313,7 +12357,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-12-13/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12339,7 +12383,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12365,7 +12409,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12390,7 +12434,7 @@
       "url": "https://serious.org.uk/events/giacomo-smiths-big-band-present-ellingtons-nutcracker-suite-2",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -12421,8 +12465,34 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "2c61082a1c22",
+      "category": "music",
+      "title": "Late Late Show Upstairs with Happy Garden",
+      "subtitle": "Late Late Show Upstairs",
+      "type": "Jazz",
+      "venue": "Ronnie Scott's",
+      "area": "London",
+      "date_text": "Tue 15 Dec 2026",
+      "start": "2026-12-15",
+      "end": "2026-12-15",
+      "time": "",
+      "price": "",
+      "url": "https://www.ronniescotts.co.uk/find-a-show/happy-garden",
+      "source": "Ronnie Scott's",
+      "jazz_venue_listing": true,
+      "schedule_note": "회차와 시작 시간은 원본에서 확인",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "jazz",
+      "genre": "Jazz",
+      "featured": false,
+      "reasons": [
+        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
+      ]
     },
     {
       "id": "0ac731cbba97",
@@ -12452,7 +12522,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12483,7 +12553,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12503,7 +12573,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12540,7 +12610,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12559,7 +12629,7 @@
       "url": "https://www.vortexjazz.co.uk/event/finn-carter-matt-carmichael-alex-hitchcock/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12596,7 +12666,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12616,7 +12686,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12642,7 +12712,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12679,7 +12749,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12708,7 +12778,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12739,7 +12809,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12768,7 +12838,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12788,7 +12858,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12824,7 +12894,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12854,7 +12924,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12874,7 +12944,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12910,7 +12980,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12940,7 +13010,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -12960,7 +13030,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -12985,7 +13055,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13/2026-12-20/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13020,7 +13090,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13039,7 +13109,7 @@
       "url": "https://www.vortexjazz.co.uk/event/roella-oloro-trio-3/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13065,7 +13135,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13091,7 +13161,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13126,7 +13196,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13155,7 +13225,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13175,7 +13245,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13201,7 +13271,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13236,7 +13306,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13265,7 +13335,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13285,7 +13355,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13311,7 +13381,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13336,7 +13406,7 @@
       "url": "https://www.vortexjazz.co.uk/event/john-etheridge-and-vimala-rowe-7/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13362,7 +13432,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13388,7 +13458,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13413,7 +13483,7 @@
       "url": "https://www.vortexjazz.co.uk/event/ian-shaws-new-years-eve-bash-8/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13439,7 +13509,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13465,7 +13535,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13491,7 +13561,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13516,7 +13586,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-procrastinators-nye-party/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13542,7 +13612,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13566,7 +13636,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -13592,7 +13662,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13618,7 +13688,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13644,7 +13714,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13670,7 +13740,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13696,7 +13766,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13731,7 +13801,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13760,7 +13830,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13780,7 +13850,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13806,7 +13876,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13841,7 +13911,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13870,7 +13940,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -13890,7 +13960,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13916,7 +13986,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -13940,7 +14010,7 @@
       "price": "Weekday £22.50 / Weekend £24.50",
       "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
       "source": "V&A",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -13964,7 +14034,7 @@
       "price": "£17.00",
       "url": "https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from-asia-australia-and-the-pacific",
       "source": "V&A",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -13990,7 +14060,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14016,7 +14086,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14051,7 +14121,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14071,7 +14141,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14097,7 +14167,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14123,7 +14193,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14160,7 +14230,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: aespa"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14178,7 +14248,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14203,7 +14273,7 @@
       "url": "https://serious.org.uk/events/punch-brothers",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -14227,7 +14297,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14263,7 +14333,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14292,7 +14362,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14322,7 +14392,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14351,7 +14421,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14371,7 +14441,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14397,7 +14467,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14423,7 +14493,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14458,7 +14528,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14473,11 +14543,11 @@
       "start": "2027-01-25",
       "end": "2027-01-25",
       "time": "19:00",
-      "price": "Standard £19 / Vortex Members £16 / Students & UC beneficiaries £14",
+      "price": "Standard £19 / Vortex Members £16 / Students & UC beneficiaries £14 (includes complimentary drink for toasting)",
       "url": "https://www.vortexjazz.co.uk/event/calum-gourlay-big-band-celebrating-burns-night/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14512,7 +14582,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14532,7 +14602,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14558,7 +14628,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14593,7 +14663,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14613,7 +14683,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14638,7 +14708,7 @@
       "url": "https://serious.org.uk/events/ronnie-scotts-100th-birthday-a-celebration-in-concert",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -14669,7 +14739,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14687,7 +14757,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
       "source": "National Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14713,7 +14783,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14748,7 +14818,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14766,7 +14836,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
       "source": "National Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14792,7 +14862,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14818,7 +14888,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14844,7 +14914,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -14879,7 +14949,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14909,7 +14979,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14927,7 +14997,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -14962,7 +15032,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -14982,7 +15052,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15017,7 +15087,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15037,7 +15107,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15072,7 +15142,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15090,7 +15160,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15116,7 +15186,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15140,7 +15210,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/monet",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15175,7 +15245,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15204,7 +15274,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15233,7 +15303,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15262,7 +15332,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15291,7 +15361,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15311,7 +15381,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15335,7 +15405,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
       "source": "National Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15361,7 +15431,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "공연 기간 · 개별 날짜와 회차는 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15385,7 +15455,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/gathering-ground",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15411,7 +15481,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15448,7 +15518,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15479,7 +15549,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15510,7 +15580,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15528,7 +15598,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/sirkka-liisa-konttinen",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15563,7 +15633,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15583,7 +15653,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15607,7 +15677,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
       "source": "National Gallery",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15643,7 +15713,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15673,7 +15743,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15703,7 +15773,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15733,7 +15803,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15762,7 +15832,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15782,7 +15852,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15817,7 +15887,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15835,7 +15905,7 @@
       "price": "",
       "url": "https://designmuseum.org/exhibitions/es-devlin-other-worlds",
       "source": "Design Museum",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15870,7 +15940,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15899,7 +15969,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15917,7 +15987,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ink",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -15943,7 +16013,7 @@
       "source": "Ronnie Scott's",
       "jazz_venue_listing": true,
       "schedule_note": "회차와 시작 시간은 원본에서 확인",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -15978,7 +16048,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -15996,7 +16066,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16031,7 +16101,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16063,7 +16133,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Rod Stewart"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16093,7 +16163,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16125,7 +16195,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Rod Stewart"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16156,7 +16226,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16187,8 +16257,32 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
+    },
+    {
+      "id": "d84d90452de8",
+      "category": "exhibition",
+      "title": "Collected Centuries of art, saved and shared",
+      "subtitle": "",
+      "type": "Exhibition",
+      "venue": "National Gallery",
+      "area": "London",
+      "date_text": "22 May - 5 September 2027",
+      "start": "2027-05-22",
+      "end": "2027-09-05",
+      "time": "",
+      "price": "Free",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/collected",
+      "source": "National Gallery",
+      "last_seen": "2026-10-20T10:57:47+00:00",
+      "stale": false,
+      "collection": "exhibition",
+      "genre": "",
+      "featured": false,
+      "reasons": [
+        "런던 전시"
+      ]
     },
     {
       "id": "ee4a669dbcbf",
@@ -16218,7 +16312,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16249,7 +16343,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16267,7 +16361,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/baya",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16305,7 +16399,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Bon Jovi"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16337,7 +16431,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Bon Jovi"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16366,7 +16460,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16384,7 +16478,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/nalini-malani",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16419,7 +16513,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16448,7 +16542,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16480,7 +16574,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16512,7 +16606,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16544,7 +16638,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false
     },
     {
@@ -16562,7 +16656,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/lynda-benglis",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -16586,7 +16680,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/edvard-munch",
       "source": "Tate",
-      "last_seen": "2026-10-19T12:12:52+00:00",
+      "last_seen": "2026-10-20T10:57:47+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
