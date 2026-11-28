@@ -1,53 +1,53 @@
 {
-  "updated": "2026-11-27T16:11:44+00:00",
-  "count": 318,
+  "updated": "2026-11-28T15:05:05+00:00",
+  "count": 314,
   "sources": [
     {
       "name": "Bachtrack",
       "status": "unavailable",
       "count": 0,
       "last_success": "2026-09-08T10:49:20+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": "403 Client Error: Forbidden for url: https://bachtrack.com/search-concerts/city=london"
     },
     {
       "name": "Wigmore Hall",
       "status": "ok",
       "count": 12,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Barbican",
       "status": "ok",
       "count": 0,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Tate",
       "status": "ok",
       "count": 8,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "National Gallery",
       "status": "ok",
       "count": 8,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Ticketmaster",
       "status": "ok",
       "count": 34,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
@@ -55,23 +55,23 @@
       "status": "ok",
       "count": 0,
       "last_success": "2026-09-08T10:27:36+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "V&A",
       "status": "ok",
       "count": 3,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Design Museum",
       "status": "ok",
       "count": 4,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
@@ -79,47 +79,47 @@
       "status": "unavailable",
       "count": 0,
       "last_success": "2026-09-08T10:49:20+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": "403 Client Error: Forbidden for url: https://www.serpentinegalleries.org/whats-on/"
     },
     {
       "name": "Whitechapel Gallery",
       "status": "ok",
       "count": 5,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "The Photographers' Gallery",
       "status": "ok",
       "count": 7,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Courtauld Gallery",
       "status": "ok",
       "count": 1,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Ticketmaster Jazz",
       "status": "ok",
-      "count": 186,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "count": 183,
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
       "name": "Vortex",
       "status": "ok",
-      "count": 43,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "count": 42,
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     },
     {
@@ -127,7 +127,7 @@
       "status": "unavailable",
       "count": 0,
       "last_success": "2026-10-23T11:03:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": "403 Client Error: Forbidden for url: https://www.ronniescotts.co.uk/find-a-show"
     },
     {
@@ -135,15 +135,15 @@
       "status": "unavailable",
       "count": 0,
       "last_success": null,
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": "403 Client Error: Forbidden for url: https://earthackney.co.uk/events/"
     },
     {
       "name": "Serious",
       "status": "ok",
       "count": 8,
-      "last_success": "2026-11-27T16:11:44+00:00",
-      "checked_at": "2026-11-27T16:11:44+00:00",
+      "last_success": "2026-11-28T15:05:05+00:00",
+      "checked_at": "2026-11-28T15:05:05+00:00",
       "message": ""
     }
   ],
@@ -163,7 +163,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/ninagawa-mika-captive-blooms",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -187,7 +187,7 @@
       "price": "",
       "url": "https://courtauld.ac.uk/whats-on/exh-salman-toor-someone-like-you/",
       "source": "Courtauld Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -211,7 +211,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -235,7 +235,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna-foraging-quipu/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -259,7 +259,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/screen-portraits-whitechapel-gallery-artists-part-2/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -283,7 +283,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/snap-happy-how-children-became-photographers",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -307,7 +307,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/sanle-sory-colour-years",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -331,7 +331,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/william-eggleston-all-goes-unnoticed",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -355,7 +355,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/the-film-london-jarman-award-2026/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -379,7 +379,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/juno-calypso-empty-pleasures",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -387,145 +387,6 @@
       "reasons": [
         "런던 전시"
       ]
-    },
-    {
-      "id": "913a1393a739",
-      "category": "music",
-      "title": "Alfies Soho - Live Jazz and Blues",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Alfie's Soho",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "time": "18:00",
-      "price": "",
-      "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
-      "source": "Ticketmaster Jazz",
-      "artists": [
-        "Alfie's Soho",
-        "Soho Live Music Club"
-      ],
-      "genres": [
-        "Jazz",
-        "Jazz"
-      ],
-      "genre": "Jazz",
-      "collection": "jazz",
-      "featured": false,
-      "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
-      "stale": false
-    },
-    {
-      "id": "3ab30dee953f",
-      "category": "music",
-      "title": "Sir András Schiff",
-      "subtitle": "piano, ;, Ema Nikolovska",
-      "type": "Classical",
-      "venue": "Wigmore Hall",
-      "area": "London",
-      "date_text": "27.11.2026 19:30",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "time": "19:30",
-      "price": "",
-      "url": "https://www.wigmore-hall.org.uk/whats-on/202611271930",
-      "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
-      "stale": false,
-      "collection": "classical",
-      "genre": "Classical",
-      "featured": true,
-      "reasons": [
-        "주목할 연주자: András Schiff"
-      ]
-    },
-    {
-      "id": "adc8ab5ade14",
-      "category": "music",
-      "title": "Out Front + Olie Brice Quartet (Double Bill)",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Vortex Jazz Club",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "time": "19:30",
-      "price": "",
-      "url": "https://www.universe.com/events/out-front-olie-brice-quartet-double-bill-tickets-BF7LRV?ref=ticketmaster",
-      "source": "Ticketmaster Jazz",
-      "artists": [
-        "Olie Brice",
-        "Out Front"
-      ],
-      "genres": [
-        "Jazz",
-        "Jazz"
-      ],
-      "genre": "Jazz",
-      "collection": "jazz",
-      "featured": false,
-      "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
-      "stale": false
-    },
-    {
-      "id": "f50b4ef286fe",
-      "category": "music",
-      "title": "Out Front + Olie Brice Quartet (Double Bill)",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Vortex",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "time": "19:30",
-      "price": "Standard £19 / Vortex Members £17 / Students & UC beneficiaries £15",
-      "url": "https://www.vortexjazz.co.uk/event/out-front-olie-brice-quartet-double-bill/",
-      "source": "Vortex",
-      "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
-      "stale": false,
-      "collection": "jazz",
-      "genre": "Jazz",
-      "featured": false,
-      "reasons": [
-        "재즈 클럽 프로그램 · 소울·퓨전 등 포함"
-      ]
-    },
-    {
-      "id": "7f31281412af",
-      "category": "music",
-      "title": "Alfies Soho - Live Jazz and Blues",
-      "subtitle": "",
-      "type": "Jazz",
-      "venue": "Alfie's Soho",
-      "area": "London",
-      "date_text": "",
-      "start": "2026-11-27",
-      "end": "2026-11-27",
-      "time": "20:00",
-      "price": "",
-      "url": "https://www.universe.com/events/alfies-soho-live-jazz-and-blues-tickets-F3N1YG?ref=ticketmaster",
-      "source": "Ticketmaster Jazz",
-      "artists": [
-        "Alfie's Soho",
-        "Soho Live Music Club"
-      ],
-      "genres": [
-        "Jazz",
-        "Jazz"
-      ],
-      "genre": "Jazz",
-      "collection": "jazz",
-      "featured": false,
-      "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
-      "stale": false
     },
     {
       "id": "19a1597c97da",
@@ -542,7 +403,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611281300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -575,7 +436,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -605,7 +466,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -623,7 +484,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611281930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -656,7 +517,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -675,7 +536,7 @@
       "url": "https://www.vortexjazz.co.uk/event/mark-kavuma-quintet-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -711,7 +572,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -740,7 +601,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -758,7 +619,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611291130",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -781,7 +642,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-commission-for-new-and-old-art-presents-i-am-nobody-london-show/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -817,7 +678,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -835,7 +696,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611291930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -868,7 +729,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -887,7 +748,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13-2026-11-29/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -911,7 +772,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611301300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -944,7 +805,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -962,7 +823,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202611301930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -995,7 +856,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1013,7 +874,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202612011300",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1046,7 +907,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1064,7 +925,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202612011930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1087,7 +948,7 @@
       "url": "https://www.vortexjazz.co.uk/event/fabienne-ambuehl-quartet-3/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1123,7 +984,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1152,7 +1013,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1170,7 +1031,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202612021015",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1192,7 +1053,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202612021145",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1227,7 +1088,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1256,7 +1117,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1275,7 +1136,7 @@
       "url": "https://www.vortexjazz.co.uk/event/joe-boyles-union/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1310,7 +1171,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1339,7 +1200,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1357,7 +1218,7 @@
       "price": "",
       "url": "https://www.wigmore-hall.org.uk/whats-on/202612021930",
       "source": "Wigmore Hall",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "classical",
       "genre": "Classical",
@@ -1392,7 +1253,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1411,7 +1272,7 @@
       "url": "https://www.vortexjazz.co.uk/event/john-butcher-phil-durrant-mark-wastell/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1448,7 +1309,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1477,8 +1338,30 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
+    },
+    {
+      "id": "89cc3b6fb2bb",
+      "category": "music",
+      "title": "Britten Oboe Quartet",
+      "subtitle": "",
+      "type": "Classical",
+      "venue": "Wigmore Hall",
+      "area": "London",
+      "date_text": "03.12.2026 13:00",
+      "start": "2026-12-03",
+      "end": "2026-12-03",
+      "time": "13:00",
+      "price": "",
+      "url": "https://www.wigmore-hall.org.uk/whats-on/202612031300",
+      "source": "Wigmore Hall",
+      "last_seen": "2026-11-28T15:05:05+00:00",
+      "stale": false,
+      "collection": "classical",
+      "genre": "Classical",
+      "featured": false,
+      "reasons": []
     },
     {
       "id": "38bc3a313df1",
@@ -1508,7 +1391,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1537,7 +1420,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1556,7 +1439,7 @@
       "url": "https://www.vortexjazz.co.uk/event/karim-saber-quintet-4/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1593,7 +1476,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1624,7 +1507,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1653,7 +1536,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1672,7 +1555,7 @@
       "url": "https://www.vortexjazz.co.uk/event/dalston-song-club-reid-jenkins/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1708,7 +1591,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1727,7 +1610,7 @@
       "url": "https://www.vortexjazz.co.uk/event/basil-hodge-quartet-featuring-tony-kofi/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1764,7 +1647,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1783,7 +1666,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-collective-presents-future-standards-downstairs-jam-11/2026-12-05/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1819,7 +1702,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1848,7 +1731,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1867,7 +1750,7 @@
       "url": "https://www.vortexjazz.co.uk/event/phil-robsons-organ-trio-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1903,7 +1786,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -1922,7 +1805,7 @@
       "url": "https://serious.org.uk/events/rhiannon-giddens",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -1945,7 +1828,7 @@
       "url": "https://www.vortexjazz.co.uk/event/london-jazz-orchestra-with-the-essex-youth-jazz-orchestra/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -1970,7 +1853,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13-2026-12-06/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2006,7 +1889,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2036,7 +1919,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2065,7 +1948,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2084,7 +1967,7 @@
       "url": "https://www.vortexjazz.co.uk/event/miles-spilsbury/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2120,7 +2003,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2139,7 +2022,7 @@
       "url": "https://www.vortexjazz.co.uk/event/jascha-bingham-trio/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2174,7 +2057,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2205,7 +2088,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2224,7 +2107,7 @@
       "url": "https://www.vortexjazz.co.uk/event/liam-noblejohn-edwardsmark-sanders/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2261,7 +2144,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2290,7 +2173,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2319,7 +2202,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2338,7 +2221,7 @@
       "url": "https://www.vortexjazz.co.uk/event/frank-carlberg-with-the-trinity-laban-jazz-orchestra-two-shows/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2375,7 +2258,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2404,7 +2287,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2435,7 +2318,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2454,7 +2337,7 @@
       "url": "https://www.vortexjazz.co.uk/event/queer-jazz-christmas-party-jam-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2491,7 +2374,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2521,7 +2404,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2550,7 +2433,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2569,7 +2452,7 @@
       "url": "https://www.vortexjazz.co.uk/event/mark-lockheart-shapeshifter-trio-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2605,7 +2488,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2624,7 +2507,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13-2026-12-13/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2649,7 +2532,7 @@
       "url": "https://serious.org.uk/events/giacomo-smiths-big-band-present-ellingtons-nutcracker-suite-2",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -2680,7 +2563,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2710,7 +2593,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2741,7 +2624,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2760,7 +2643,7 @@
       "url": "https://www.vortexjazz.co.uk/event/ted-morcaldi-huw-v-williams/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2785,7 +2668,7 @@
       "url": "https://www.vortexjazz.co.uk/event/being-human-minar-of-dreams-album-launch/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2822,7 +2705,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2852,7 +2735,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2883,7 +2766,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2902,7 +2785,7 @@
       "url": "https://www.vortexjazz.co.uk/event/finn-carter-matt-carmichael-alex-hitchcock/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -2939,7 +2822,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -2970,7 +2853,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3000,7 +2883,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3019,7 +2902,7 @@
       "url": "https://www.vortexjazz.co.uk/event/downstairs-living-room-rebecka-edlund-rob-luft/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3054,7 +2937,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3073,7 +2956,7 @@
       "url": "https://www.vortexjazz.co.uk/event/andrew-linham-jazz-orchestra-christ-mess-extravaganza-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3110,7 +2993,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3139,7 +3022,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3169,7 +3052,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3199,7 +3082,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3218,7 +3101,7 @@
       "url": "https://www.vortexjazz.co.uk/event/sam-leaks-looking-glass/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3254,7 +3137,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3284,7 +3167,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3314,7 +3197,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3344,7 +3227,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3363,7 +3246,7 @@
       "url": "https://www.vortexjazz.co.uk/event/mopomoso-international-free-improvised-music-mid-winter-party/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3398,7 +3281,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3417,7 +3300,7 @@
       "url": "https://www.vortexjazz.co.uk/event/vortex-jam-session-10-2026-09-06-2026-09-13-2026-12-20/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3452,7 +3335,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3471,7 +3354,7 @@
       "url": "https://www.vortexjazz.co.uk/event/terence-collie-quartet/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3507,7 +3390,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3526,7 +3409,7 @@
       "url": "https://www.vortexjazz.co.uk/event/alexandra-ridout-joey-curreri-quartet/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3561,7 +3444,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3580,7 +3463,7 @@
       "url": "https://www.vortexjazz.co.uk/event/roella-oloro-trio-3/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3605,7 +3488,7 @@
       "url": "https://www.vortexjazz.co.uk/event/kassa-green-jakcsi-kassa-gj-quartet/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3640,7 +3523,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3659,7 +3542,7 @@
       "url": "https://www.vortexjazz.co.uk/event/julian-siegel-quartet-18/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3694,7 +3577,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3723,7 +3606,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3752,7 +3635,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3771,7 +3654,7 @@
       "url": "https://www.vortexjazz.co.uk/event/gilad-atzmon-organology/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3806,7 +3689,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3836,7 +3719,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3855,7 +3738,7 @@
       "url": "https://www.vortexjazz.co.uk/event/john-etheridge-and-vimala-rowe-7/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3891,7 +3774,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3920,7 +3803,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -3939,7 +3822,7 @@
       "url": "https://www.vortexjazz.co.uk/event/miles-mindlin-and-friends/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3964,7 +3847,7 @@
       "url": "https://www.vortexjazz.co.uk/event/ian-shaws-new-years-eve-bash-8/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -3989,7 +3872,7 @@
       "url": "https://www.vortexjazz.co.uk/event/the-procrastinators-nye-party/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4025,7 +3908,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4054,7 +3937,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4073,7 +3956,7 @@
       "url": "https://www.vortexjazz.co.uk/event/tony-kofi-and-the-organisation-celebrates-lou-donaldson-2/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4109,7 +3992,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4127,7 +4010,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4162,7 +4045,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4191,7 +4074,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4220,7 +4103,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4249,7 +4132,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4278,7 +4161,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4307,7 +4190,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4337,7 +4220,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4367,7 +4250,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4385,7 +4268,7 @@
       "price": "Weekday £22.50 / Weekend £24.50",
       "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
       "source": "V&A",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4409,7 +4292,7 @@
       "price": "£17.00",
       "url": "https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from-asia-australia-and-the-pacific",
       "source": "V&A",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4433,7 +4316,7 @@
       "price": "",
       "url": "https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition",
       "source": "Design Museum",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4469,7 +4352,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4499,7 +4382,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4528,7 +4411,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4559,7 +4442,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4578,7 +4461,7 @@
       "url": "https://www.vortexjazz.co.uk/event/yarde-brice-ibbetson/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -4613,7 +4496,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4644,7 +4527,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: aespa"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4662,7 +4545,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -4687,7 +4570,7 @@
       "url": "https://serious.org.uk/events/punch-brothers",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -4720,7 +4603,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4749,7 +4632,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4779,7 +4662,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4808,7 +4691,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4838,7 +4721,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4867,7 +4750,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4896,7 +4779,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4925,7 +4808,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4954,7 +4837,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -4983,7 +4866,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5012,7 +4895,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5041,7 +4924,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5070,7 +4953,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5099,7 +4982,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5117,7 +5000,7 @@
       "price": "Free",
       "url": "https://designmuseum.org/exhibitions/platform-simone-brewster",
       "source": "Design Museum",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5152,7 +5035,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5171,7 +5054,7 @@
       "url": "https://www.vortexjazz.co.uk/event/calum-gourlay-big-band-celebrating-burns-night/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5206,7 +5089,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5235,7 +5118,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5264,7 +5147,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5293,7 +5176,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5312,7 +5195,7 @@
       "url": "https://serious.org.uk/events/ronnie-scotts-100th-birthday-a-celebration-in-concert",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -5343,7 +5226,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5372,7 +5255,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5401,7 +5284,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5419,7 +5302,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5454,7 +5337,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5483,7 +5366,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5512,7 +5395,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5530,7 +5413,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5565,7 +5448,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5594,7 +5477,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5613,7 +5496,7 @@
       "url": "https://www.vortexjazz.co.uk/event/jure-pukl-analog-ai/",
       "source": "Vortex",
       "jazz_venue_listing": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "jazz",
       "genre": "Jazz",
@@ -5648,7 +5531,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5677,7 +5560,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5707,7 +5590,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5725,7 +5608,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -5750,7 +5633,7 @@
       "url": "https://serious.org.uk/events/marc-ribot-quartet-hurry-red-telephone-2",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -5783,7 +5666,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5812,7 +5695,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5841,7 +5724,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5870,7 +5753,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5899,7 +5782,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5928,7 +5811,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5957,7 +5840,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -5986,7 +5869,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6015,7 +5898,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6044,7 +5927,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6073,7 +5956,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6091,7 +5974,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6115,7 +5998,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/monet",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6150,7 +6033,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6179,7 +6062,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6208,7 +6091,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6237,7 +6120,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6266,7 +6149,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6295,7 +6178,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6324,7 +6207,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6353,7 +6236,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6382,7 +6265,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6411,7 +6294,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6440,7 +6323,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6458,7 +6341,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6483,7 +6366,7 @@
       "url": "https://serious.org.uk/events/bill-laurance-and-michael-league",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -6518,7 +6401,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6549,7 +6432,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6580,7 +6463,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ENHYPEN"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6598,7 +6481,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/sirkka-liisa-konttinen-northern-light",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6622,7 +6505,7 @@
       "price": "",
       "url": "https://thephotographersgallery.org.uk/whats-on/deutsche-borse-photography-foundation-prize-2027",
       "source": "The Photographers' Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6657,7 +6540,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6675,7 +6558,7 @@
       "price": "",
       "url": "https://www.whitechapelgallery.org/exhibitions/through-holes-in-the-clouds/",
       "source": "Whitechapel Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6710,7 +6593,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6728,7 +6611,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -6763,7 +6646,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6793,7 +6676,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6822,7 +6705,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6851,7 +6734,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6881,7 +6764,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6910,7 +6793,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6939,7 +6822,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6969,7 +6852,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -6998,7 +6881,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7028,7 +6911,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7057,7 +6940,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7087,7 +6970,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7116,7 +6999,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7145,7 +7028,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7163,7 +7046,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/sonia-boyce",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7200,7 +7083,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: ATEEZ"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7229,7 +7112,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7258,7 +7141,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7276,7 +7159,7 @@
       "price": "",
       "url": "https://designmuseum.org/exhibitions/es-devlin-other-worlds",
       "source": "Design Museum",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7300,7 +7183,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7324,7 +7207,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7360,7 +7243,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7389,7 +7272,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7418,7 +7301,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7448,7 +7331,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7477,7 +7360,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7506,7 +7389,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7535,7 +7418,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7564,7 +7447,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7582,7 +7465,7 @@
       "price": "",
       "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
       "source": "Tate",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7617,7 +7500,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7635,7 +7518,7 @@
       "price": "Weekday £25.00 / Weekend £27.00",
       "url": "https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city-two-empires",
       "source": "V&A",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7673,7 +7556,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Rod Stewart"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7702,7 +7585,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7732,7 +7615,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7764,7 +7647,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Rod Stewart"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7796,7 +7679,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Rod Stewart"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7827,7 +7710,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7846,7 +7729,7 @@
       "url": "https://serious.org.uk/events/kurt-elling-chicago-nights",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
@@ -7879,7 +7762,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7910,7 +7793,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7928,7 +7811,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/collected",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -7965,7 +7848,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -7996,7 +7879,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Eric Clapton"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8027,7 +7910,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8058,7 +7941,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: HYUKOH"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8076,7 +7959,7 @@
       "price": "Free",
       "url": "https://www.nationalgallery.org.uk/exhibitions/frankenthaler-and-bassano",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -8114,7 +7997,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: U2"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8143,7 +8026,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8175,7 +8058,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: U2"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8207,7 +8090,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: U2"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8239,7 +8122,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Bon Jovi"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8271,7 +8154,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Bon Jovi"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8303,7 +8186,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: U2"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8333,7 +8216,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8365,7 +8248,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8397,7 +8280,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Muse"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8426,7 +8309,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8455,7 +8338,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8487,7 +8370,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Billie Eilish"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8519,7 +8402,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Billie Eilish"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8548,7 +8431,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8577,7 +8460,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8607,7 +8490,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8636,7 +8519,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8667,7 +8550,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: Stray Kids"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8698,7 +8581,7 @@
       "reasons": [
         "한국 아티스트 관심 목록: Stray Kids"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8716,7 +8599,7 @@
       "price": "",
       "url": "https://designmuseum.org/exhibitions/the-nue-black-aesthetic",
       "source": "Design Museum",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -8754,7 +8637,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8786,7 +8669,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8818,7 +8701,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Harry Styles"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8851,7 +8734,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Foo Fighters"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8884,7 +8767,7 @@
       "reasons": [
         "유명 아티스트 관심 목록: Foo Fighters"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8913,7 +8796,7 @@
       "collection": "jazz",
       "featured": false,
       "reasons": [],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8931,7 +8814,7 @@
       "price": "£",
       "url": "https://www.nationalgallery.org.uk/exhibitions/piero-della-francesca",
       "source": "National Gallery",
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "exhibition",
       "genre": "",
@@ -8968,7 +8851,7 @@
       "reasons": [
         "K-pop 장르로 분류된 공연"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -8999,7 +8882,7 @@
       "reasons": [
         "K-pop 장르로 분류된 공연"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -9030,7 +8913,7 @@
       "reasons": [
         "K-pop 장르로 분류된 공연"
       ],
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false
     },
     {
@@ -9049,7 +8932,7 @@
       "url": "https://serious.org.uk/events/kodo-3",
       "source": "Serious",
       "discovery": true,
-      "last_seen": "2026-11-27T16:11:44+00:00",
+      "last_seen": "2026-11-28T15:05:05+00:00",
       "stale": false,
       "collection": "discovery",
       "genre": "Other",
